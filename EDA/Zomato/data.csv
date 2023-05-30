@@ -1,0 +1,391 @@
+City,Cuisines,Price range
+Albany,"American, BBQ",1
+Albany,"American, Breakfast, Diner",1
+Albany,"American, Burger, Sandwich",2
+Albany,"American, Steak",2
+Albany,"Asian, Chinese, Vegetarian",1
+Albany,"BBQ, Burger, Seafood",2
+Albany,Chinese,1
+Albany,"Chinese, Seafood, Vegetarian",2
+Albany,"Coffee and Tea, Sandwich",1
+Albany,Fast Food,1
+Albany,"Italian, Pizza",1
+Albany,"Japanese, Steak, Sushi",6
+Albany,Mexican,1
+Albany,"Pizza, Bar Food, Sandwich",2
+Albany,"Seafood, Tapas, Bar Food",3
+Albany,"Steak, Tapas, Bar Food",4
+Athens,American,3
+Athens,"American, Burger, Sandwich",1
+Athens,"American, Italian, Pizza",4
+Athens,"American, Southern, Southwestern",3
+Athens,"Asian, Japanese, Sushi",2
+Athens,Bar Food,1
+Athens,"Breakfast, Burger, Sandwich",1
+Athens,"Breakfast, Sandwich",1
+Athens,"Burger, Bar Food",2
+Athens,"Desserts, Latin American, Argentine",1
+Athens,"International, Southern",3
+Athens,"International, Southern, Vegetarian",1
+Athens,Italian,3
+Athens,"Italian, Pizza, Sandwich",1
+Athens,"Japanese, Korean",1
+Athens,Mexican,1
+Athens,"Mexican, Spanish",1
+Athens,Sandwich,1
+Athens,Southern,1
+Augusta,American,3
+Augusta,"American, Burger",2
+Augusta,"American, Caribbean, Seafood",3
+Augusta,BBQ,2
+Augusta,"Bar Food, Sandwich, Seafood",2
+Augusta,"Breakfast, French",3
+Augusta,"Burger, Seafood",2
+Augusta,"Chinese, Steak",3
+Augusta,"Desserts, Italian, Pizza",2
+Augusta,"Desserts, Sandwich, Southern",1
+Augusta,German,2
+Augusta,Indian,2
+Augusta,"International, Tapas, Vegetarian",2
+Augusta,"Italian, Pizza, Sandwich",2
+Augusta,Mexican,2
+Augusta,"Mexican, Southwestern, Sushi",3
+Augusta,Steak,3
+Augusta,Thai,3
+Augusta,Vietnamese,1
+Boise,American,3
+Boise,"American, BBQ, Steak",2
+Boise,"American, Bar Food",4
+Boise,"American, Burger",3
+Boise,"American, Burger, Sandwich",1
+Boise,"American, Seafood, Steak",4
+Boise,Brazilian,3
+Boise,Breakfast,1
+Boise,"Breakfast, Sandwich",2
+Boise,"European, Spanish",1
+Boise,"Italian, Pizza",2
+Boise,"Italian, Seafood, Vegetarian",2
+Boise,"Japanese, Sushi, Teriyaki",2
+Boise,"Latin American, Steak",4
+Boise,Mexican,1
+Boise,Pizza,3
+Boise,"Sushi, Thai",3
+Cedar Rapids/Iowa City,"American, BBQ, Burger",2
+Cedar Rapids/Iowa City,"American, Breakfast",2
+Cedar Rapids/Iowa City,"American, Breakfast, Burger",4
+Cedar Rapids/Iowa City,"American, International, Sushi",3
+Cedar Rapids/Iowa City,"American, Italian, Pizza",2
+Cedar Rapids/Iowa City,"American, Mediterranean, Seafood",3
+Cedar Rapids/Iowa City,BBQ,2
+Cedar Rapids/Iowa City,"Breakfast, Diner",2
+Cedar Rapids/Iowa City,Burger,1
+Cedar Rapids/Iowa City,Chinese,1
+Cedar Rapids/Iowa City,"Chinese, Sushi, Thai",1
+Cedar Rapids/Iowa City,Indian,4
+Cedar Rapids/Iowa City,International,3
+Cedar Rapids/Iowa City,"Italian, Pizza",3
+Cedar Rapids/Iowa City,"Mediterranean, Tapas, Vegetarian",3
+Cedar Rapids/Iowa City,Mexican,1
+Cedar Rapids/Iowa City,Pizza,2
+Cedar Rapids/Iowa City,"Pizza, Sandwich",2
+Clatskanie,"American, Breakfast, Desserts",1
+Cochrane,"Asian, Japanese",2
+Columbus,American,4
+Columbus,"American, Seafood, Cajun",2
+Columbus,"American, Seafood, Steak",3
+Columbus,"American, Tapas",3
+Columbus,"Asian, Chinese",1
+Columbus,"Asian, Vietnamese",1
+Columbus,"BBQ, Southern",2
+Columbus,"Breakfast, Diner, Southern",1
+Columbus,"Burger, Bar Food, Southern",2
+Columbus,Chinese,2
+Columbus,"Italian, Mediterranean, Pizza",3
+Columbus,"Italian, Pizza",1
+Columbus,"Japanese, Steak",3
+Columbus,"Japanese, Steak, Sushi",3
+Columbus,"Japanese, Sushi, Thai",3
+Columbus,Pizza,2
+Columbus,"Pizza, Bar Food",2
+Columbus,"Seafood, Steak, Vegetarian",3
+Columbus,Steak,2
+Dalton,American,2
+Dalton,"American, BBQ, Southern",3
+Dalton,"American, Burger",1
+Dalton,"American, Diner, Southern",1
+Dalton,"American, Japanese, Sushi",2
+Dalton,BBQ,3
+Dalton,"BBQ, Breakfast, Southern",1
+Dalton,"Desserts, Sandwich",2
+Dalton,Fast Food,1
+Dalton,Italian,2
+Dalton,"Italian, Pizza",1
+Dalton,Japanese,1
+Dalton,"Japanese, Sushi",3
+Dalton,Mexican,2
+Dalton,"Mexican, Tex-Mex",1
+Dalton,Thai,2
+Davenport,American,5
+Davenport,"American, BBQ, Steak",2
+Davenport,"American, Bar Food, BBQ",2
+Davenport,"American, Breakfast",2
+Davenport,"American, Breakfast, Greek",1
+Davenport,"American, French",4
+Davenport,Asian,2
+Davenport,"Burger, Pizza",2
+Davenport,Chinese,2
+Davenport,Fast Food,1
+Davenport,"Indian, Mediterranean, Middle Eastern",2
+Davenport,Italian,2
+Davenport,"Japanese, Sushi",3
+Davenport,Mexican,5
+Davenport,"Sushi, Teriyaki",3
+Davenport,Thai,2
+Des Moines,"American, BBQ",2
+Des Moines,"American, Breakfast",2
+Des Moines,"American, Coffee and Tea",2
+Des Moines,"American, Italian",4
+Des Moines,"American, Pizza, Bar Food",3
+Des Moines,"Asian, Chinese",2
+Des Moines,"Asian, Sushi, Thai",2
+Des Moines,"Asian, Vegetarian, Vietnamese, Bubble Tea",1
+Des Moines,"BBQ, Burger, Desserts",2
+Des Moines,"BBQ, Caribbean, Cajun",3
+Des Moines,"Breakfast, Mexican, Southwestern",1
+Des Moines,"Burger, Desserts, Vegetarian",1
+Des Moines,Chinese,1
+Des Moines,"Chinese, Pizza",2
+Des Moines,French,3
+Des Moines,"Italian, Pizza",3
+Des Moines,"Japanese, Sushi",2
+Des Moines,Latin American,2
+Des Moines,"Latin American, Mexican",2
+Des Moines,"Seafood, Sushi",3
+Dubuque,American,3
+Dubuque,"American, BBQ, Seafood",2
+Dubuque,"American, Breakfast, Burger",1
+Dubuque,"American, Burger",4
+Dubuque,"American, Burger, Pizza, Cafe",2
+Dubuque,"American, Burger, Sandwich",2
+Dubuque,"American, Italian",2
+Dubuque,"American, Seafood, Steak",4
+Dubuque,Breakfast,1
+Dubuque,"Breakfast, Pizza",1
+Dubuque,"Desserts, Pizza, Ice Cream",1
+Dubuque,"International, Pizza",3
+Dubuque,Italian,2
+Dubuque,"Italian, Pizza",2
+Dubuque,"Japanese, Steak, Sushi",3
+Dubuque,Mexican,3
+Dubuque,Seafood,2
+Fernley,Mexican,1
+Gainesville,"American, Burger, Cajun",2
+Gainesville,"American, European, Sandwich",2
+Gainesville,"American, Sandwich, Seafood",2
+Gainesville,"American, Southern",5
+Gainesville,BBQ,3
+Gainesville,"BBQ, Burger, Seafood",1
+Gainesville,"BBQ, Sandwich",1
+Gainesville,"Bar Food, Seafood, Vegetarian",2
+Gainesville,"Burger, German, Sandwich",2
+Gainesville,"Chinese, Japanese, Thai",1
+Gainesville,German,3
+Gainesville,"German, Ice Cream",1
+Gainesville,"Italian, Pizza, Sandwich",1
+Gainesville,"Sandwich, Seafood, Cajun",2
+Gainesville,Seafood,2
+Gainesville,Southern,1
+Gainesville,Thai,1
+Lakeview,"Burger, Desserts, Sandwich",1
+Lincoln,Thai,2
+Macon,"American, Chinese, Sushi",2
+Macon,"American, Greek, Seafood",2
+Macon,"American, Seafood",3
+Macon,BBQ,2
+Macon,"Burger, Desserts, Bar Food",2
+Macon,"Chinese, Thai",2
+Macon,"Coffee and Tea, Cuban, Latin American",2
+Macon,"Desserts, Greek, Sandwich",1
+Macon,"European, Italian, Mediterranean",4
+Macon,"Greek, Mediterranean, Vegetarian",1
+Macon,Italian,2
+Macon,"Japanese, Steak, Sushi",3
+Macon,"Japanese, Sushi, Thai",2
+Macon,Mexican,1
+Macon,"Pizza, Sandwich",1
+Macon,"Pizza, Sandwich, Vegetarian",2
+Macon,Seafood,2
+Macon,Steak,4
+Mc Millan,"Breakfast, Burger",1
+Monroe,"Italian, Pizza",2
+Ojo Caliente,"American, International, Southwestern",3
+Orlando,American,4
+Orlando,"American, BBQ, Sandwich",3
+Orlando,"American, Breakfast, Vegetarian",2
+Orlando,"American, Sandwich, Salad",3
+Orlando,"American, Sandwich, Tea",2
+Orlando,"Asian, Latin American, Vegetarian",1
+Orlando,"Asian, Thai",3
+Orlando,"Brazilian, Steak",4
+Orlando,Cajun,2
+Orlando,Caribbean,3
+Orlando,German,3
+Orlando,Hawaiian,3
+Orlando,Irish,4
+Orlando,Italian,4
+Orlando,"Mediterranean, Turkish",3
+Orlando,"New American, Tapas",3
+Orlando,Pub Food,3
+Orlando,"Southern, Cajun, Soul Food",2
+Orlando,"Spanish, Tapas",3
+Pensacola,"American, Seafood, Sushi",3
+Pensacola,"Asian, Vietnamese",1
+Pensacola,"Breakfast, Burger",2
+Pensacola,"Burger, Bar Food",2
+Pensacola,"Burger, Bar Food, Steak",3
+Pensacola,"Burger, Sandwich, Seafood",3
+Pensacola,"Caribbean, Seafood",3
+Pensacola,"Caribbean, Seafood, Steak",3
+Pensacola,"European, International, Tapas",3
+Pensacola,Greek,1
+Pensacola,"Italian, Mediterranean, Pizza",2
+Pensacola,"Italian, Pizza, Sandwich",1
+Pensacola,"Italian, Pizza, Seafood",3
+Pensacola,"Japanese, Sushi",2
+Pensacola,"Latin American, Mexican, Southwestern",2
+Pensacola,"Mexican, Southwestern, Tex-Mex",2
+Pensacola,"Sandwich, Seafood, Cajun",3
+Pensacola,Seafood,3
+Pensacola,"Seafood, Sushi",3
+Pensacola,Tapas,2
+Pocatello,"American, BBQ, Steak",3
+Pocatello,"American, Breakfast",3
+Pocatello,"American, Greek",2
+Pocatello,"American, Pizza",2
+Pocatello,"American, Seafood, Steak",3
+Pocatello,"Asian, Sushi, Vegetarian",2
+Pocatello,"Asian, Thai",1
+Pocatello,"Burger, Fast Food",1
+Pocatello,"Burger, Pizza, Sandwich",1
+Pocatello,Chinese,1
+Pocatello,"Coffee and Tea, Sandwich",1
+Pocatello,"Desserts, Thai",2
+Pocatello,"Indian, International, Vegetarian",2
+Pocatello,"Indian, Persian",2
+Pocatello,"Italian, Pizza, Sandwich",3
+Pocatello,Mexican,2
+Pocatello,New American,3
+Pocatello,"Pizza, Bar Food",1
+Pocatello,"Pizza, Sandwich",1
+Potrero,"American, BBQ, Burger",2
+Princeton,Seafood,4
+Rest of Hawaii,American,2
+Rest of Hawaii,"American, Asian, Burger",3
+Rest of Hawaii,"American, Breakfast, Hawaiian",2
+Rest of Hawaii,"American, Hawaiian",1
+Rest of Hawaii,"American, Pizza, Bar Food",3
+Rest of Hawaii,Asian,1
+Rest of Hawaii,"Asian, Breakfast, Hawaiian",1
+Rest of Hawaii,"Asian, European, Seafood",4
+Rest of Hawaii,Breakfast,1
+Rest of Hawaii,"Breakfast, Burger",2
+Rest of Hawaii,Burger,3
+Rest of Hawaii,"Hawaiian, Seafood",4
+Rest of Hawaii,"Hawaiian, Seafood, Steak",10
+Rest of Hawaii,Japanese,1
+Rest of Hawaii,"Japanese, Seafood, Sushi",3
+Rest of Hawaii,Seafood,5
+Savannah,American,4
+Savannah,"American, Bar Food",2
+Savannah,"American, Bar Food, Sandwich",2
+Savannah,"American, Breakfast",3
+Savannah,"American, Seafood, Southern",4
+Savannah,"American, Seafood, Steak",3
+Savannah,"American, Southern",3
+Savannah,"Breakfast, Cajun",3
+Savannah,"Breakfast, Diner, Sandwich",2
+Savannah,"Breakfast, Vegetarian",1
+Savannah,Burger,3
+Savannah,"Cafe, Sandwich, Southern",2
+Savannah,"Coffee and Tea, Desserts",1
+Savannah,"Desserts, Sandwich, Ice Cream",1
+Savannah,"International, Mediterranean, Sandwich",2
+Savannah,"Pizza, Seafood, Steak",4
+Savannah,Seafood,3
+Savannah,Southern,3
+Sioux City,American,1
+Sioux City,"American, Desserts, Diner",1
+Sioux City,"American, Fast Food",1
+Sioux City,"American, Pizza, Bar Food",1
+Sioux City,"American, Seafood, Steak",7
+Sioux City,"Asian, Chinese",2
+Sioux City,"Asian, Thai, Vegetarian",1
+Sioux City,"Asian, Vegetarian, Vietnamese",1
+Sioux City,BBQ,1
+Sioux City,Burger,1
+Sioux City,"Burger, Seafood, Steak",3
+Sioux City,"Caribbean, Mexican, Cajun",2
+Sioux City,Chinese,2
+Sioux City,Italian,2
+Sioux City,"Japanese, Steak, Sushi",3
+Sioux City,"Japanese, Sushi",3
+Sioux City,Mexican,1
+Sioux City,Pizza,5
+Tampa Bay,"American, Burger",2
+Tampa Bay,"American, Desserts, Steak",4
+Tampa Bay,"American, Italian, Seafood",2
+Tampa Bay,"American, Seafood, Steak",3
+Tampa Bay,"BBQ, Caribbean, Seafood",2
+Tampa Bay,Breakfast,3
+Tampa Bay,"Breakfast, Mexican",3
+Tampa Bay,"Breakfast, Spanish, Tapas",2
+Tampa Bay,"British, Bar Food, Sandwich",2
+Tampa Bay,"Cuban, Spanish",3
+Tampa Bay,"Desserts, Bar Food",3
+Tampa Bay,"European, German",3
+Tampa Bay,International,4
+Tampa Bay,"International, Italian, Southern",3
+Tampa Bay,"Italian, Deli",1
+Tampa Bay,"Latin American, Mexican, Southwestern",2
+Tampa Bay,"Mexican, Vegetarian",1
+Tampa Bay,"Sandwich, Seafood, Steak",3
+Tampa Bay,"Seafood, Steak",3
+Tampa Bay,"Spanish, Tapas",2
+Valdosta,American,2
+Valdosta,"American, Southern",2
+Valdosta,"Asian, Chinese, Thai",3
+Valdosta,BBQ,2
+Valdosta,Bar Food,2
+Valdosta,"Burger, Bar Food, Vegetarian",1
+Valdosta,"Burger, Seafood, Steak",3
+Valdosta,"Fast Food, Seafood",3
+Valdosta,"Greek, Italian",3
+Valdosta,"Indian, Middle Eastern",2
+Valdosta,Italian,2
+Valdosta,"Japanese, Steak, Sushi",4
+Valdosta,"Japanese, Sushi",2
+Valdosta,Mexican,6
+Valdosta,"Pizza, Sandwich",2
+Valdosta,"Seafood, Southern",3
+Valdosta,Southern,3
+Vernonia,"Coffee and Tea, Mediterranean",1
+Waterloo,American,3
+Waterloo,"American, BBQ, Steak",2
+Waterloo,"American, Bar Food",1
+Waterloo,"American, Breakfast",1
+Waterloo,"American, Italian, Seafood",3
+Waterloo,"Asian, Chinese",2
+Waterloo,"Burger, Pizza, Sandwich",2
+Waterloo,Chinese,2
+Waterloo,"Coffee and Tea, Desserts, Beverages",1
+Waterloo,Desserts,1
+Waterloo,"Indian, Middle Eastern",1
+Waterloo,"Italian, Pizza, Vegetarian",2
+Waterloo,"Japanese, Steak, Sushi",2
+Waterloo,"Japanese, Sushi",3
+Waterloo,Mexican,4
+Waterloo,"Pizza, Sandwich",2
+Waterloo,"Sandwich, Sushi, Tapas",2
+Waterloo,Thai,1
+Weirton,"Burger, Greek, Sandwich",2
+Winchester Bay,"Burger, Seafood, Steak",2
