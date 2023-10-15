@@ -1,0 +1,2044 @@
+,Airline,Date_of_Journey,Source,Destination,Route,Dep_Time,Arrival_Time,Duration,Total_Stops,Additional_Info,Price
+0,IndiGo,24/03/2019,Banglore,New Delhi,BLR → DEL,22:20,01:10 22 Mar,2h 50m,non-stop,No info,3897
+3,IndiGo,12/05/2019,Kolkata,Banglore,CCU → NAG → BLR,18:05,23:30,5h 25m,1 stop,No info,6218
+4,IndiGo,01/03/2019,Banglore,New Delhi,BLR → NAG → DEL,16:50,21:35,4h 45m,1 stop,No info,13302
+11,IndiGo,18/04/2019,Kolkata,Banglore,CCU → BLR,20:20,22:55,2h 35m,non-stop,No info,4174
+14,IndiGo,24/04/2019,Kolkata,Banglore,CCU → BLR,17:15,19:50,2h 35m,non-stop,No info,4804
+22,IndiGo,3/04/2019,Banglore,Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,3943
+23,IndiGo,1/05/2019,Banglore,Delhi,BLR → DEL,18:55,21:50,2h 55m,non-stop,No info,4823
+26,IndiGo,1/06/2019,Delhi,Cochin,DEL → LKO → COK,21:50,03:35 02 Jun,5h 45m,1 stop,No info,8238
+32,IndiGo,6/04/2019,Banglore,Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,4423
+35,IndiGo,27/06/2019,Delhi,Cochin,DEL → BOM → COK,10:35,21:00,10h 25m,1 stop,No info,5894
+46,IndiGo,27/05/2019,Banglore,Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,3943
+52,IndiGo,24/03/2019,Banglore,New Delhi,BLR → DEL,22:20,01:10 28 Mar,2h 50m,non-stop,No info,4377
+53,IndiGo,18/06/2019,Banglore,Delhi,BLR → DEL,21:15,00:15 19 Jun,3h,non-stop,No info,3943
+63,IndiGo,15/05/2019,Delhi,Cochin,DEL → BOM → COK,15:00,01:30 16 May,10h 30m,1 stop,No info,7191
+65,IndiGo,24/06/2019,Delhi,Cochin,DEL → BOM → COK,10:35,21:00,10h 25m,1 stop,No info,5894
+69,IndiGo,12/03/2019,Chennai,Kolkata,MAA → CCU,13:20,15:35,2h 15m,non-stop,No info,6297
+74,IndiGo,21/03/2019,Delhi,Cochin,DEL → BLR → COK,05:05,10:05,5h,1 stop,No info,6893
+77,IndiGo,3/04/2019,Mumbai,Hyderabad,BOM → HYD,06:25,07:55,1h 30m,non-stop,No info,4049
+83,IndiGo,27/06/2019,Delhi,Cochin,DEL → BOM → COK,11:25,21:00,9h 35m,1 stop,No info,5894
+86,IndiGo,24/06/2019,Delhi,Cochin,DEL → MAA → COK,02:00,07:25,5h 25m,1 stop,No info,5636
+95,IndiGo,21/06/2019,Chennai,Kolkata,MAA → CCU,05:15,07:40,2h 25m,non-stop,No info,3540
+111,IndiGo,12/04/2019,Banglore,Delhi,BLR → DEL,18:55,21:50,2h 55m,non-stop,No info,5780
+124,IndiGo,12/05/2019,Chennai,Kolkata,MAA → CCU,05:15,07:40,2h 25m,non-stop,No info,3540
+128,IndiGo,24/06/2019,Banglore,Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,3943
+129,IndiGo,3/06/2019,Chennai,Kolkata,MAA → CCU,14:45,17:05,2h 20m,non-stop,No info,3597
+133,IndiGo,15/06/2019,Kolkata,Banglore,CCU → BLR,20:25,23:10,2h 45m,non-stop,No info,4804
+142,IndiGo,15/06/2019,Delhi,Cochin,DEL → MAA → COK,02:00,07:25,5h 25m,1 stop,No info,5636
+143,IndiGo,9/06/2019,Delhi,Cochin,DEL → HYD → COK,07:35,16:10,8h 35m,1 stop,No info,6442
+148,IndiGo,24/06/2019,Delhi,Cochin,DEL → BLR → COK,15:10,20:00,4h 50m,1 stop,No info,6147
+157,IndiGo,03/03/2019,Banglore,New Delhi,BLR → DEL,18:55,21:45,2h 50m,non-stop,No info,8855
+161,IndiGo,24/03/2019,Banglore,New Delhi,BLR → DEL,00:40,03:25,2h 45m,non-stop,No info,4777
+163,IndiGo,9/05/2019,Delhi,Cochin,DEL → HYD → COK,06:50,16:10,9h 20m,1 stop,No info,6442
+169,IndiGo,27/05/2019,Banglore,Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,3419
+176,IndiGo,3/04/2019,Delhi,Cochin,DEL → BOM → COK,20:25,01:30 04 Apr,5h 5m,1 stop,No info,5073
+184,IndiGo,12/05/2019,Chennai,Kolkata,MAA → CCU,14:45,17:05,2h 20m,non-stop,No info,3858
+186,IndiGo,27/06/2019,Delhi,Cochin,DEL → LKO → COK,21:50,03:35 28 Jun,5h 45m,1 stop,No info,5775
+188,IndiGo,3/06/2019,Kolkata,Banglore,CCU → BLR,15:30,18:05,2h 35m,non-stop,No info,4804
+190,IndiGo,03/03/2019,Banglore,New Delhi,BLR → HYD → DEL,12:10,17:05,4h 55m,1 stop,No info,8738
+192,IndiGo,24/06/2019,Delhi,Cochin,DEL → HYD → COK,16:10,22:30,6h 20m,1 stop,No info,6412
+202,IndiGo,24/04/2019,Delhi,Cochin,DEL → COK,05:35,08:50,3h 15m,non-stop,No info,5013
+206,IndiGo,27/03/2019,Delhi,Cochin,DEL → BOM → COK,16:00,01:35 28 Mar,9h 35m,1 stop,No info,7048
+210,IndiGo,12/05/2019,Banglore,Delhi,BLR → DEL,00:30,03:25,2h 55m,non-stop,No info,3943
+214,IndiGo,1/06/2019,Delhi,Cochin,DEL → BLR → COK,05:10,10:05,4h 55m,1 stop,No info,6842
+217,IndiGo,1/06/2019,Banglore,Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,4077
+227,IndiGo,27/04/2019,Banglore,Delhi,BLR → DEL,23:30,02:20 28 Apr,2h 50m,non-stop,No info,3943
+234,IndiGo,1/05/2019,Delhi,Cochin,DEL → LKO → COK,21:50,03:35 02 May,5h 45m,1 stop,No info,6349
+238,IndiGo,15/03/2019,Banglore,New Delhi,BLR → DEL,18:25,21:20,2h 55m,non-stop,No info,8855
+245,IndiGo,24/04/2019,Banglore,Delhi,BLR → DEL,23:30,02:20 25 Apr,2h 50m,non-stop,No info,3943
+247,IndiGo,15/05/2019,Delhi,Cochin,DEL → BOM → COK,10:35,21:00,10h 25m,1 stop,No info,6979
+260,IndiGo,3/06/2019,Banglore,Delhi,BLR → DEL,22:10,01:00 04 Jun,2h 50m,non-stop,No info,3359
+262,IndiGo,18/03/2019,Kolkata,Banglore,CCU → BLR,09:35,12:20,2h 45m,non-stop,No info,4462
+263,IndiGo,9/03/2019,Delhi,Cochin,DEL → HYD → COK,04:55,16:10,11h 15m,1 stop,No info,6171
+266,IndiGo,24/06/2019,Delhi,Cochin,DEL → BOM → COK,11:25,01:30 25 Jun,14h 5m,1 stop,No info,5684
+275,IndiGo,15/03/2019,Mumbai,Hyderabad,BOM → HYD,21:20,22:45,1h 25m,non-stop,No info,2754
+279,IndiGo,24/06/2019,Delhi,Cochin,DEL → COK,05:35,08:50,3h 15m,non-stop,No info,5000
+284,IndiGo,6/05/2019,Kolkata,Banglore,CCU → BLR,21:25,00:05 07 May,2h 40m,non-stop,No info,4804
+286,IndiGo,12/05/2019,Banglore,Delhi,BLR → DEL,16:55,19:55,3h,non-stop,No info,4823
+290,IndiGo,3/03/2019,Delhi,Cochin,DEL → BOM → COK,04:45,13:20,8h 35m,1 stop,No info,14871
+294,IndiGo,18/05/2019,Kolkata,Banglore,CCU → BLR,21:25,00:05 19 May,2h 40m,non-stop,No info,4804
+300,IndiGo,3/05/2019,Mumbai,Hyderabad,BOM → HYD,02:35,04:05,1h 30m,non-stop,No info,2754
+304,IndiGo,9/03/2019,Delhi,Cochin,DEL → HYD → MAA → COK,06:40,21:20,14h 40m,2 stops,No info,8146
+313,IndiGo,3/03/2019,Delhi,Cochin,DEL → BOM → COK,09:10,21:00,11h 50m,1 stop,No info,14871
+314,IndiGo,6/03/2019,Chennai,Kolkata,MAA → CCU,13:20,15:35,2h 15m,non-stop,No info,7295
+319,IndiGo,15/03/2019,Kolkata,Banglore,CCU → BLR,15:20,17:55,2h 35m,non-stop,No info,4148
+328,IndiGo,24/03/2019,Banglore,New Delhi,BLR → DEL,18:25,21:20,2h 55m,non-stop,No info,7303
+331,IndiGo,21/03/2019,Delhi,Cochin,DEL → HYD → COK,14:20,22:20,8h,1 stop,No info,6528
+333,IndiGo,12/03/2019,Kolkata,Banglore,CCU → BLR,20:25,23:05,2h 40m,non-stop,No info,4148
+345,IndiGo,6/06/2019,Kolkata,Banglore,CCU → BLR,22:15,00:50 07 Jun,2h 35m,non-stop,No info,4804
+351,IndiGo,15/05/2019,Delhi,Cochin,DEL → BLR → COK,05:10,10:05,4h 55m,1 stop,No info,6496
+352,IndiGo,15/06/2019,Kolkata,Banglore,CCU → BLR,21:25,00:05 16 Jun,2h 40m,non-stop,No info,4804
+355,IndiGo,1/06/2019,Banglore,Delhi,BLR → DEL,23:30,02:20 02 Jun,2h 50m,non-stop,No info,4591
+356,IndiGo,18/03/2019,Banglore,New Delhi,BLR → HYD → DEL,16:15,20:35,4h 20m,1 stop,No info,4437
+367,IndiGo,3/03/2019,Chennai,Kolkata,MAA → CCU,14:40,17:05,2h 25m,non-stop,No info,7295
+369,IndiGo,09/03/2019,Banglore,New Delhi,BLR → DEL,18:25,21:20,2h 55m,non-stop,No info,6860
+372,IndiGo,9/04/2019,Banglore,Delhi,BLR → DEL,20:00,22:50,2h 50m,non-stop,No info,4823
+374,IndiGo,3/06/2019,Mumbai,Hyderabad,BOM → HYD,19:05,20:35,1h 30m,non-stop,No info,2754
+382,IndiGo,9/04/2019,Banglore,Delhi,BLR → DEL,16:55,19:55,3h,non-stop,No info,4823
+388,IndiGo,18/05/2019,Kolkata,Banglore,CCU → BLR,22:15,00:50 19 May,2h 35m,non-stop,No info,4804
+393,IndiGo,3/03/2019,Delhi,Cochin,DEL → BOM → COK,17:30,01:35 04 Mar,8h 5m,1 stop,No info,14871
+397,IndiGo,3/06/2019,Chennai,Kolkata,MAA → CCU,19:35,21:55,2h 20m,non-stop,No info,3597
+407,IndiGo,18/04/2019,Banglore,Delhi,BLR → DEL,23:30,02:20 19 Apr,2h 50m,non-stop,No info,4591
+414,IndiGo,18/05/2019,Banglore,Delhi,BLR → DEL,10:10,13:00,2h 50m,non-stop,No info,3943
+420,IndiGo,15/05/2019,Delhi,Cochin,DEL → HYD → COK,06:50,16:10,9h 20m,1 stop,No info,6442
+423,IndiGo,12/04/2019,Banglore,Delhi,BLR → DEL,23:30,02:20 13 Apr,2h 50m,non-stop,No info,6906
+442,IndiGo,18/05/2019,Delhi,Cochin,DEL → HYD → COK,06:50,12:10,5h 20m,1 stop,No info,6347
+445,IndiGo,6/04/2019,Banglore,Delhi,BLR → DEL,18:25,21:20,2h 55m,non-stop,No info,4823
+454,IndiGo,6/06/2019,Delhi,Cochin,DEL → HYD → COK,05:05,12:10,7h 5m,1 stop,No info,6818
+457,IndiGo,27/06/2019,Chennai,Kolkata,MAA → CCU,11:35,14:00,2h 25m,non-stop,No info,3858
+458,IndiGo,18/05/2019,Kolkata,Banglore,CCU → PNQ → BLR,21:00,02:15 19 May,5h 15m,1 stop,No info,6534
+463,IndiGo,09/03/2019,Banglore,New Delhi,BLR → DEL,06:00,08:45,2h 45m,non-stop,No info,7648
+466,IndiGo,6/03/2019,Kolkata,Banglore,CCU → BLR,17:15,19:55,2h 40m,non-stop,No info,5618
+472,IndiGo,24/06/2019,Delhi,Cochin,DEL → BOM → COK,16:00,01:30 25 Jun,9h 30m,1 stop,No info,6316
+485,IndiGo,6/03/2019,Chennai,Kolkata,MAA → CCU,05:15,07:35,2h 20m,non-stop,No info,6482
+487,IndiGo,18/05/2019,Kolkata,Banglore,CCU → HYD → BLR,19:20,23:45,4h 25m,1 stop,No info,3717
+488,IndiGo,1/06/2019,Chennai,Kolkata,MAA → CCU,13:15,15:35,2h 20m,non-stop,No info,3597
+493,IndiGo,6/06/2019,Delhi,Cochin,DEL → HYD → COK,08:35,22:30,13h 55m,1 stop,No info,6442
+500,IndiGo,9/06/2019,Banglore,Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,4823
+501,IndiGo,27/03/2019,Mumbai,Hyderabad,BOM → HYD,20:05,21:35,1h 30m,non-stop,No info,2227
+507,IndiGo,9/05/2019,Chennai,Kolkata,MAA → CCU,05:15,07:40,2h 25m,non-stop,No info,3540
+519,IndiGo,27/04/2019,Banglore,Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,4423
+520,IndiGo,3/03/2019,Delhi,Cochin,DEL → HYD → MAA → COK,04:55,21:20,16h 25m,2 stops,No info,8899
+539,IndiGo,1/04/2019,Kolkata,Banglore,CCU → BLR,04:40,07:15,2h 35m,non-stop,No info,4174
+540,IndiGo,18/05/2019,Kolkata,Banglore,CCU → MAA → BLR,17:35,22:15,4h 40m,1 stop,No info,5699
+545,IndiGo,9/03/2019,Mumbai,Hyderabad,BOM → HYD,06:20,07:45,1h 25m,non-stop,No info,4392
+550,IndiGo,24/04/2019,Delhi,Cochin,DEL → HYD → COK,07:35,12:10,4h 35m,1 stop,No info,5073
+561,IndiGo,12/04/2019,Kolkata,Banglore,CCU → BLR,20:20,22:55,2h 35m,non-stop,No info,4488
+568,IndiGo,21/06/2019,Kolkata,Banglore,CCU → BLR,20:20,22:55,2h 35m,non-stop,No info,4804
+574,IndiGo,27/05/2019,Delhi,Cochin,DEL → HYD → COK,05:05,12:10,7h 5m,1 stop,No info,6600
+585,IndiGo,15/06/2019,Delhi,Cochin,DEL → HYD → COK,08:35,16:10,7h 35m,1 stop,No info,6442
+595,IndiGo,21/05/2019,Chennai,Kolkata,MAA → CCU,19:35,21:55,2h 20m,non-stop,No info,3597
+616,IndiGo,27/05/2019,Kolkata,Banglore,CCU → BLR,20:20,22:55,2h 35m,non-stop,No info,4804
+624,IndiGo,6/03/2019,Delhi,Cochin,DEL → HYD → COK,14:20,22:20,8h,1 stop,No info,7451
+631,IndiGo,6/05/2019,Kolkata,Banglore,CCU → BLR,17:15,19:50,2h 35m,non-stop,No info,4804
+635,IndiGo,3/03/2019,Mumbai,Hyderabad,BOM → HYD,21:20,22:45,1h 25m,non-stop,No info,4784
+645,IndiGo,24/05/2019,Banglore,Delhi,BLR → DEL,20:00,22:50,2h 50m,non-stop,No info,4823
+647,IndiGo,6/03/2019,Delhi,Cochin,DEL → BOM → COK,08:25,21:00,12h 35m,1 stop,No info,14871
+648,IndiGo,21/06/2019,Mumbai,Hyderabad,BOM → HYD,06:25,07:55,1h 30m,non-stop,No info,4049
+650,IndiGo,9/04/2019,Kolkata,Banglore,CCU → BBI → BLR,19:55,23:50,3h 55m,1 stop,No info,4226
+654,IndiGo,9/06/2019,Mumbai,Hyderabad,BOM → HYD,12:00,13:30,1h 30m,non-stop,No info,2754
+669,IndiGo,12/06/2019,Mumbai,Hyderabad,BOM → HYD,09:10,10:40,1h 30m,non-stop,No info,4049
+675,IndiGo,18/05/2019,Kolkata,Banglore,CCU → MAA → BLR,08:10,13:00,4h 50m,1 stop,No info,5279
+679,IndiGo,3/05/2019,Chennai,Kolkata,MAA → CCU,13:15,15:35,2h 20m,non-stop,No info,3597
+681,IndiGo,15/05/2019,Delhi,Cochin,DEL → BLR → COK,17:05,22:15,5h 10m,1 stop,No info,6027
+684,IndiGo,27/05/2019,Banglore,Delhi,BLR → DEL,21:15,00:15 28 May,3h,non-stop,No info,3943
+686,IndiGo,15/03/2019,Chennai,Kolkata,MAA → CCU,05:15,07:35,2h 20m,non-stop,No info,4326
+689,IndiGo,18/06/2019,Banglore,Delhi,BLR → DEL,18:25,21:20,2h 55m,non-stop,No info,4823
+693,IndiGo,03/03/2019,Banglore,New Delhi,BLR → LKO → DEL,05:25,10:10,4h 45m,1 stop,No info,7774
+695,IndiGo,27/05/2019,Delhi,Cochin,DEL → HYD → COK,07:35,16:10,8h 35m,1 stop,No info,7514
+697,IndiGo,18/03/2019,Chennai,Kolkata,MAA → CCU,13:20,15:35,2h 15m,non-stop,No info,3858
+703,IndiGo,24/03/2019,Kolkata,Banglore,CCU → BLR,20:25,23:05,2h 40m,non-stop,No info,8872
+710,IndiGo,1/06/2019,Delhi,Cochin,DEL → BOM → COK,07:30,21:00,13h 30m,1 stop,No info,6416
+714,IndiGo,18/03/2019,Kolkata,Banglore,CCU → BLR,05:30,08:20,2h 50m,non-stop,No info,4462
+715,IndiGo,1/04/2019,Delhi,Cochin,DEL → HYD → COK,07:35,12:10,4h 35m,1 stop,No info,5073
+716,IndiGo,27/03/2019,Chennai,Kolkata,MAA → CCU,05:15,07:35,2h 20m,non-stop,No info,4326
+718,IndiGo,12/06/2019,Mumbai,Hyderabad,BOM → HYD,16:55,18:25,1h 30m,non-stop,No info,3175
+722,IndiGo,18/05/2019,Kolkata,Banglore,CCU → MAA → BLR,06:20,10:20,4h,1 stop,No info,4226
+724,IndiGo,15/05/2019,Delhi,Cochin,DEL → MAA → COK,02:00,07:25,5h 25m,1 stop,No info,8618
+725,IndiGo,18/04/2019,Kolkata,Banglore,CCU → BLR,17:15,19:50,2h 35m,non-stop,No info,4174
+729,IndiGo,6/03/2019,Mumbai,Hyderabad,BOM → GOI → HYD,15:45,23:00,7h 15m,1 stop,No info,7681
+735,IndiGo,9/05/2019,Kolkata,Banglore,CCU → MAA → BLR,08:10,13:00,4h 50m,1 stop,No info,5069
+745,IndiGo,09/03/2019,Banglore,New Delhi,BLR → DEL,21:20,00:15 10 Mar,2h 55m,non-stop,No info,6144
+746,IndiGo,6/03/2019,Delhi,Cochin,DEL → BOM → COK,07:30,15:30,8h,1 stop,No info,14871
+748,IndiGo,15/05/2019,Delhi,Cochin,DEL → BOM → COK,10:35,01:30 16 May,14h 55m,1 stop,No info,6979
+750,IndiGo,1/06/2019,Delhi,Cochin,DEL → BOM → COK,09:15,01:30 02 Jun,16h 15m,1 stop,No info,7048
+752,IndiGo,27/05/2019,Delhi,Cochin,DEL → BOM → COK,16:00,21:00,5h,1 stop,No info,5054
+755,IndiGo,27/04/2019,Delhi,Cochin,DEL → HYD → COK,07:35,16:10,8h 35m,1 stop,No info,6442
+759,IndiGo,24/06/2019,Banglore,Delhi,BLR → DEL,13:00,15:50,2h 50m,non-stop,No info,3943
+760,IndiGo,3/03/2019,Delhi,Cochin,DEL → BOM → COK,04:45,11:30,6h 45m,1 stop,No info,14871
+764,IndiGo,9/04/2019,Banglore,Delhi,BLR → DEL,10:10,13:00,2h 50m,non-stop,No info,4423
+775,IndiGo,15/05/2019,Chennai,Kolkata,MAA → CCU,05:15,07:40,2h 25m,non-stop,No info,3540
+783,IndiGo,1/06/2019,Delhi,Cochin,DEL → HYD → COK,16:10,22:30,6h 20m,1 stop,No info,6938
+788,IndiGo,15/05/2019,Chennai,Kolkata,MAA → CCU,14:45,17:05,2h 20m,non-stop,No info,3597
+795,IndiGo,01/03/2019,Banglore,New Delhi,BLR → HYD → DEL,16:55,21:50,4h 55m,1 stop,No Info,8153
+801,IndiGo,1/06/2019,Banglore,Delhi,BLR → DEL,22:10,01:00 02 Jun,2h 50m,non-stop,No info,3419
+809,IndiGo,3/03/2019,Chennai,Kolkata,MAA → CCU,22:05,00:25 04 Mar,2h 20m,non-stop,No info,5277
+811,IndiGo,15/05/2019,Delhi,Cochin,DEL → HYD → COK,14:20,22:30,8h 10m,1 stop,No info,6412
+814,IndiGo,18/06/2019,Banglore,Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,3419
+815,IndiGo,6/04/2019,Banglore,Delhi,BLR → DEL,22:10,01:00 07 Apr,2h 50m,non-stop,No info,3943
+834,IndiGo,9/03/2019,Kolkata,Banglore,CCU → BLR,05:30,08:20,2h 50m,non-stop,No info,4148
+837,IndiGo,1/03/2019,Mumbai,Hyderabad,BOM → HYD,12:00,13:25,1h 25m,non-stop,No info,12475
+843,IndiGo,9/05/2019,Banglore,Delhi,BLR → DEL,23:30,02:20 10 May,2h 50m,non-stop,No info,3943
+847,IndiGo,18/06/2019,Banglore,Delhi,BLR → DEL,05:30,08:20,2h 50m,non-stop,No info,3943
+851,IndiGo,9/05/2019,Delhi,Cochin,DEL → BOM → COK,18:35,01:30 10 May,6h 55m,1 stop,No info,8542
+852,IndiGo,24/05/2019,Kolkata,Banglore,CCU → BLR,09:35,12:20,2h 45m,non-stop,No info,4804
+853,IndiGo,6/06/2019,Kolkata,Banglore,CCU → PNQ → BLR,21:00,02:15 07 Jun,5h 15m,1 stop,No info,6711
+855,IndiGo,6/06/2019,Banglore,Delhi,BLR → DEL,00:25,03:15,2h 50m,non-stop,No info,3943
+857,IndiGo,24/03/2019,Banglore,New Delhi,BLR → DEL,21:20,00:15 28 Mar,2h 55m,non-stop,No info,5694
+860,IndiGo,03/03/2019,Banglore,New Delhi,BLR → DEL,00:40,03:25,2h 45m,non-stop,No info,6144
+861,IndiGo,27/04/2019,Delhi,Cochin,DEL → COK,05:35,08:50,3h 15m,non-stop,No info,6015
+889,IndiGo,9/06/2019,Kolkata,Banglore,CCU → HYD → BLR,19:20,23:45,4h 25m,1 stop,No info,4205
+895,IndiGo,3/03/2019,Delhi,Cochin,DEL → HYD → COK,06:40,16:10,9h 30m,1 stop,No info,9027
+905,IndiGo,18/05/2019,Delhi,Cochin,DEL → HYD → COK,08:35,16:10,7h 35m,1 stop,No info,6442
+907,IndiGo,21/04/2019,Delhi,Cochin,DEL → HYD → COK,07:35,12:10,4h 35m,1 stop,No info,5703
+909,IndiGo,15/04/2019,Kolkata,Banglore,CCU → BLR,15:30,18:05,2h 35m,non-stop,No info,4174
+912,IndiGo,21/05/2019,Kolkata,Banglore,CCU → BLR,17:15,19:50,2h 35m,non-stop,No info,4804
+929,IndiGo,1/06/2019,Banglore,Delhi,BLR → DEL,21:15,00:15 02 Jun,3h,non-stop,No info,3943
+930,IndiGo,18/03/2019,Mumbai,Hyderabad,BOM → HYD,16:55,18:25,1h 30m,non-stop,No info,3175
+942,IndiGo,12/05/2019,Banglore,Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,3943
+944,IndiGo,15/05/2019,Banglore,Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,3419
+945,IndiGo,15/03/2019,Banglore,New Delhi,BLR → DEL,21:20,00:15 16 Mar,2h 55m,non-stop,No info,8033
+950,IndiGo,3/03/2019,Delhi,Cochin,DEL → HYD → COK,06:40,22:20,15h 40m,1 stop,No info,11600
+951,IndiGo,6/06/2019,Chennai,Kolkata,MAA → CCU,22:05,00:25 07 Jun,2h 20m,non-stop,No info,5277
+953,IndiGo,03/03/2019,Banglore,New Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,6144
+961,IndiGo,27/05/2019,Delhi,Cochin,DEL → PNQ → COK,23:30,04:35 28 May,5h 5m,1 stop,No info,9476
+968,IndiGo,18/06/2019,Banglore,Delhi,BLR → DEL,23:30,02:20 19 Jun,2h 50m,non-stop,No info,3943
+972,IndiGo,12/06/2019,Delhi,Cochin,DEL → PNQ → COK,23:30,04:35 13 Jun,5h 5m,1 stop,No info,10112
+979,IndiGo,9/05/2019,Chennai,Kolkata,MAA → CCU,22:05,00:25 10 May,2h 20m,non-stop,No info,5277
+988,IndiGo,27/05/2019,Delhi,Cochin,DEL → BOM → COK,16:00,01:30 28 May,9h 30m,1 stop,No info,7048
+993,IndiGo,21/04/2019,Banglore,Delhi,BLR → DEL,16:55,19:55,3h,non-stop,No info,4990
+1000,IndiGo,21/03/2019,Delhi,Cochin,DEL → BOM → COK,18:35,01:35 22 Mar,7h,1 stop,No info,9264
+1002,IndiGo,24/06/2019,Delhi,Cochin,DEL → HYD → COK,05:05,12:10,7h 5m,1 stop,No info,6442
+1004,IndiGo,1/05/2019,Kolkata,Banglore,CCU → NAG → BLR,18:05,23:30,5h 25m,1 stop,No info,6218
+1012,IndiGo,21/03/2019,Kolkata,Banglore,CCU → BLR,20:25,23:05,2h 40m,non-stop,No info,4462
+1016,IndiGo,24/03/2019,Banglore,New Delhi,BLR → DEL,18:55,21:45,2h 50m,non-stop,No info,7303
+1022,IndiGo,1/06/2019,Delhi,Cochin,DEL → HYD → COK,06:50,16:10,9h 20m,1 stop,No info,6442
+1026,IndiGo,3/04/2019,Banglore,Delhi,BLR → DEL,20:00,22:50,2h 50m,non-stop,No info,4823
+1027,IndiGo,9/06/2019,Banglore,Delhi,BLR → DEL,08:30,11:20,2h 50m,non-stop,No info,4823
+1053,IndiGo,27/06/2019,Delhi,Cochin,DEL → HYD → COK,07:35,12:10,4h 35m,1 stop,No info,5054
+1057,IndiGo,1/05/2019,Mumbai,Hyderabad,BOM → HYD,19:05,20:35,1h 30m,non-stop,No info,2754
+1062,IndiGo,21/05/2019,Delhi,Cochin,DEL → BOM → COK,09:15,21:00,11h 45m,1 stop,No info,7318
+1064,IndiGo,9/06/2019,Delhi,Cochin,DEL → LKO → COK,21:50,03:35 10 Jun,5h 45m,1 stop,No info,6195
+1068,IndiGo,21/06/2019,Delhi,Cochin,DEL → COK,21:05,00:20 22 Jun,3h 15m,non-stop,No info,5406
+1086,IndiGo,1/06/2019,Delhi,Cochin,DEL → HYD → COK,11:55,22:30,10h 35m,1 stop,No info,6674
+1087,IndiGo,18/05/2019,Mumbai,Hyderabad,BOM → HYD,20:05,21:40,1h 35m,non-stop,No info,2227
+1089,IndiGo,21/03/2019,Mumbai,Hyderabad,BOM → HYD,16:55,18:25,1h 30m,non-stop,No info,3175
+1090,IndiGo,1/03/2019,Kolkata,Banglore,CCU → BLR,09:35,12:20,2h 45m,non-stop,No info,6565
+1094,IndiGo,6/03/2019,Kolkata,Banglore,CCU → BLR,20:25,23:05,2h 40m,non-stop,No info,4778
+1103,IndiGo,6/05/2019,Banglore,Delhi,BLR → DEL,13:00,15:50,2h 50m,non-stop,No info,3943
+1112,IndiGo,21/06/2019,Mumbai,Hyderabad,BOM → HYD,21:20,22:50,1h 30m,non-stop,No info,2227
+1116,IndiGo,09/03/2019,Banglore,New Delhi,BLR → DEL,21:20,00:15 13 Mar,2h 55m,non-stop,No info,4777
+1119,IndiGo,27/05/2019,Banglore,Delhi,BLR → DEL,23:30,02:20 28 May,2h 50m,non-stop,No info,3943
+1121,IndiGo,6/03/2019,Delhi,Cochin,DEL → BOM → COK,09:10,01:35 07 Mar,16h 25m,1 stop,No info,14871
+1131,IndiGo,15/03/2019,Kolkata,Banglore,CCU → BLR,09:35,12:20,2h 45m,non-stop,No info,4148
+1132,IndiGo,6/03/2019,Delhi,Cochin,DEL → HYD → COK,06:40,12:00,5h 20m,1 stop,No info,5647
+1134,IndiGo,9/05/2019,Delhi,Cochin,DEL → HYD → COK,05:05,12:10,7h 5m,1 stop,No info,6818
+1144,IndiGo,6/04/2019,Banglore,Delhi,BLR → DEL,13:00,15:50,2h 50m,non-stop,No info,4423
+1146,IndiGo,24/05/2019,Delhi,Cochin,DEL → BOM → COK,18:35,01:30 25 May,6h 55m,1 stop,No info,7503
+1147,IndiGo,24/06/2019,Kolkata,Banglore,CCU → BLR,21:25,00:05 25 Jun,2h 40m,non-stop,No info,4804
+1156,IndiGo,3/05/2019,Banglore,Delhi,BLR → DEL,23:30,02:20 04 May,2h 50m,non-stop,No info,4591
+1164,IndiGo,15/03/2019,Chennai,Kolkata,MAA → CCU,11:35,14:00,2h 25m,non-stop,No info,6297
+1168,IndiGo,24/03/2019,Kolkata,Banglore,CCU → BBI → BLR,11:55,16:25,4h 30m,1 stop,No info,9806
+1169,IndiGo,6/06/2019,Delhi,Cochin,DEL → LKO → COK,21:50,03:35 07 Jun,5h 45m,1 stop,No info,6195
+1176,IndiGo,18/05/2019,Kolkata,Banglore,CCU → NAG → BLR,18:05,23:30,5h 25m,1 stop,No info,6704
+1178,IndiGo,18/03/2019,Kolkata,Banglore,CCU → BLR,15:20,17:55,2h 35m,non-stop,No info,4462
+1182,IndiGo,21/05/2019,Kolkata,Banglore,CCU → BLR,14:25,16:55,2h 30m,non-stop,No info,5224
+1186,IndiGo,1/06/2019,Kolkata,Banglore,CCU → BLR,09:35,12:10,2h 35m,non-stop,No info,4804
+1192,IndiGo,6/06/2019,Delhi,Cochin,DEL → COK,05:35,08:50,3h 15m,non-stop,No info,5601
+1207,IndiGo,21/05/2019,Delhi,Cochin,DEL → HYD → COK,16:10,00:55 22 May,8h 45m,1 stop,No info,6778
+1208,IndiGo,15/06/2019,Mumbai,Hyderabad,BOM → HYD,12:00,13:30,1h 30m,non-stop,No info,2754
+1216,IndiGo,27/04/2019,Delhi,Cochin,DEL → MAA → COK,02:00,07:25,5h 25m,1 stop,No info,5796
+1219,IndiGo,24/04/2019,Delhi,Cochin,DEL → HYD → COK,06:50,12:10,5h 20m,1 stop,No info,5298
+1223,IndiGo,15/05/2019,Kolkata,Banglore,CCU → BLR,09:35,12:20,2h 45m,non-stop,No info,4804
+1227,IndiGo,27/05/2019,Delhi,Cochin,DEL → HYD → COK,14:20,22:30,8h 10m,1 stop,No info,6938
+1237,IndiGo,27/03/2019,Delhi,Cochin,DEL → BOM → COK,08:25,15:30,7h 5m,1 stop,No info,8075
+1242,IndiGo,15/03/2019,Mumbai,Hyderabad,BOM → HYD,19:05,20:30,1h 25m,non-stop,No info,2754
+1258,IndiGo,21/03/2019,Delhi,Cochin,DEL → HYD → COK,06:40,22:20,15h 40m,1 stop,No info,6558
+1265,IndiGo,24/06/2019,Delhi,Cochin,DEL → BOM → COK,06:40,21:00,14h 20m,1 stop,No info,6093
+1269,IndiGo,1/06/2019,Chennai,Kolkata,MAA → CCU,15:40,18:25,2h 45m,non-stop,No info,3540
+1273,IndiGo,3/06/2019,Delhi,Cochin,DEL → BOM → COK,08:30,21:00,12h 30m,1 stop,No info,6416
+1276,IndiGo,3/05/2019,Banglore,Delhi,BLR → DEL,16:55,19:55,3h,non-stop,No info,4823
+1282,IndiGo,18/05/2019,Banglore,Delhi,BLR → DEL,08:30,11:20,2h 50m,non-stop,No info,4823
+1292,IndiGo,21/06/2019,Kolkata,Banglore,CCU → BLR,04:40,07:15,2h 35m,non-stop,No info,4804
+1298,IndiGo,18/05/2019,Delhi,Cochin,DEL → BOM → COK,20:25,01:30 19 May,5h 5m,1 stop,No info,6069
+1299,IndiGo,27/05/2019,Delhi,Cochin,DEL → HYD → COK,11:55,22:30,10h 35m,1 stop,No info,6442
+1304,IndiGo,18/06/2019,Kolkata,Banglore,CCU → BLR,14:25,16:55,2h 30m,non-stop,No info,4804
+1306,IndiGo,24/05/2019,Banglore,Delhi,BLR → DEL,23:30,02:20 25 May,2h 50m,non-stop,No info,4591
+1309,IndiGo,6/05/2019,Banglore,Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,4823
+1315,IndiGo,27/03/2019,Delhi,Cochin,DEL → BOM → COK,09:10,21:00,11h 50m,1 stop,No info,10351
+1320,IndiGo,6/05/2019,Kolkata,Banglore,CCU → HYD → BLR,15:15,20:05,4h 50m,1 stop,No info,4775
+1330,IndiGo,3/06/2019,Mumbai,Hyderabad,BOM → HYD,09:10,10:40,1h 30m,non-stop,No info,4049
+1331,IndiGo,24/03/2019,Kolkata,Banglore,CCU → BLR,10:10,12:55,2h 45m,non-stop,No info,6565
+1338,IndiGo,24/05/2019,Banglore,Delhi,BLR → DEL,08:30,11:20,2h 50m,non-stop,No info,4823
+1344,IndiGo,21/06/2019,Banglore,Delhi,BLR → DEL,20:00,22:50,2h 50m,non-stop,No info,4823
+1349,IndiGo,12/06/2019,Delhi,Cochin,DEL → BOM → COK,11:25,01:30 13 Jun,14h 5m,1 stop,No info,5883
+1354,IndiGo,21/03/2019,Banglore,New Delhi,BLR → BOM → DEL,19:35,00:35 19 Mar,5h,1 stop,No info,6575
+1358,IndiGo,1/04/2019,Kolkata,Banglore,CCU → MAA → BLR,08:10,13:00,4h 50m,1 stop,No info,5069
+1361,IndiGo,6/06/2019,Delhi,Cochin,DEL → BLR → COK,02:00,07:45,5h 45m,1 stop,No info,6386
+1364,IndiGo,18/05/2019,Banglore,Delhi,BLR → DEL,23:30,02:20 19 May,2h 50m,non-stop,No info,4591
+1366,IndiGo,12/04/2019,Kolkata,Banglore,CCU → BLR,04:40,07:15,2h 35m,non-stop,No info,4174
+1370,IndiGo,27/03/2019,Delhi,Cochin,DEL → HYD → COK,16:10,22:20,6h 10m,1 stop,No info,6412
+1375,IndiGo,6/05/2019,Kolkata,Banglore,CCU → BLR,15:30,18:05,2h 35m,non-stop,No info,4804
+1377,IndiGo,9/06/2019,Delhi,Cochin,DEL → HYD → COK,16:10,22:30,6h 20m,1 stop,No info,6412
+1379,IndiGo,6/06/2019,Chennai,Kolkata,MAA → CCU,11:35,14:00,2h 25m,non-stop,No info,3858
+1385,IndiGo,3/05/2019,Kolkata,Banglore,CCU → BLR,20:20,22:55,2h 35m,non-stop,No info,4804
+1391,IndiGo,15/06/2019,Delhi,Cochin,DEL → MAA → COK,07:15,12:30,5h 15m,1 stop,No info,6582
+1396,IndiGo,6/04/2019,Delhi,Cochin,DEL → MAA → COK,02:00,07:25,5h 25m,1 stop,No info,5046
+1399,IndiGo,3/03/2019,Delhi,Cochin,DEL → LKO → COK,05:35,10:10,4h 35m,1 stop,No info,13753
+1402,IndiGo,6/05/2019,Kolkata,Banglore,CCU → BLR,11:30,14:05,2h 35m,non-stop,No info,5224
+1404,IndiGo,18/03/2019,Mumbai,Hyderabad,BOM → HYD,19:05,20:30,1h 25m,non-stop,No info,2754
+1407,IndiGo,27/05/2019,Delhi,Cochin,DEL → BOM → COK,20:25,01:30 28 May,5h 5m,1 stop,No info,5054
+1410,IndiGo,24/05/2019,Kolkata,Banglore,CCU → BLR,14:25,16:55,2h 30m,non-stop,No info,5224
+1411,IndiGo,01/03/2019,Banglore,New Delhi,BLR → HYD → DEL,12:10,17:05,4h 55m,1 stop,No info,9694
+1412,IndiGo,21/03/2019,Delhi,Cochin,DEL → BOM → COK,17:10,01:35 22 Mar,8h 25m,1 stop,No info,7318
+1413,IndiGo,21/05/2019,Delhi,Cochin,DEL → HYD → COK,07:35,12:10,4h 35m,1 stop,No info,5054
+1419,IndiGo,9/03/2019,Delhi,Cochin,DEL → AMD → COK,07:45,13:40,5h 55m,1 stop,No info,6755
+1428,IndiGo,1/05/2019,Mumbai,Hyderabad,BOM → HYD,20:05,21:40,1h 35m,non-stop,No info,2227
+1430,IndiGo,9/06/2019,Kolkata,Banglore,CCU → BLR,21:25,00:05 10 Jun,2h 40m,non-stop,No info,4804
+1431,IndiGo,6/06/2019,Delhi,Cochin,DEL → HYD → COK,07:35,12:10,4h 35m,1 stop,No info,5458
+1438,IndiGo,6/03/2019,Delhi,Cochin,DEL → BOM → COK,16:00,01:35 07 Mar,9h 35m,1 stop,No info,14871
+1439,IndiGo,12/06/2019,Delhi,Cochin,DEL → HYD → COK,07:35,12:10,4h 35m,1 stop,No info,5054
+1441,IndiGo,15/04/2019,Banglore,Delhi,BLR → DEL,18:25,21:20,2h 55m,non-stop,No info,4823
+1446,IndiGo,12/06/2019,Delhi,Cochin,DEL → HYD → COK,05:05,16:10,11h 5m,1 stop,No info,6818
+1449,IndiGo,15/05/2019,Kolkata,Banglore,CCU → BLR,22:15,00:50 16 May,2h 35m,non-stop,No info,4804
+1451,IndiGo,21/03/2019,Delhi,Cochin,DEL → BOM → COK,10:45,01:35 22 Mar,14h 50m,1 stop,No info,7318
+1452,IndiGo,21/03/2019,Chennai,Kolkata,MAA → CCU,07:55,10:15,2h 20m,non-stop,No info,3384
+1457,IndiGo,3/06/2019,Banglore,Delhi,BLR → DEL,23:30,02:20 04 Jun,2h 50m,non-stop,No info,4591
+1462,IndiGo,24/06/2019,Delhi,Cochin,DEL → PNQ → COK,23:30,04:35 25 Jun,5h 5m,1 stop,No info,9165
+1473,IndiGo,18/05/2019,Chennai,Kolkata,MAA → CCU,07:55,10:15,2h 20m,non-stop,No info,3850
+1474,IndiGo,1/06/2019,Mumbai,Hyderabad,BOM → HYD,16:55,18:25,1h 30m,non-stop,No info,3175
+1477,IndiGo,27/03/2019,Mumbai,Hyderabad,BOM → HYD,09:10,10:40,1h 30m,non-stop,No info,4392
+1482,IndiGo,27/05/2019,Delhi,Cochin,DEL → HYD → COK,08:35,22:30,13h 55m,1 stop,No info,6442
+1486,IndiGo,9/06/2019,Delhi,Cochin,DEL → COK,21:05,00:20 10 Jun,3h 15m,non-stop,No info,6015
+1490,IndiGo,12/06/2019,Delhi,Cochin,DEL → HYD → COK,08:35,16:10,7h 35m,1 stop,No info,6442
+1503,IndiGo,12/05/2019,Chennai,Kolkata,MAA → CCU,13:15,15:35,2h 20m,non-stop,No info,3597
+1504,IndiGo,9/06/2019,Banglore,Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,4077
+1508,IndiGo,9/06/2019,Delhi,Cochin,DEL → BOM → COK,17:30,01:30 10 Jun,8h,1 stop,No info,6104
+1514,IndiGo,3/03/2019,Delhi,Cochin,DEL → HYD → COK,04:55,12:00,7h 5m,1 stop,No info,9585
+1516,IndiGo,9/05/2019,Delhi,Cochin,DEL → BLR → COK,15:10,20:00,4h 50m,1 stop,No info,6147
+1521,IndiGo,6/03/2019,Delhi,Cochin,DEL → BOM → COK,04:45,21:00,16h 15m,1 stop,No info,13611
+1524,IndiGo,24/05/2019,Chennai,Kolkata,MAA → CCU,13:15,15:35,2h 20m,non-stop,No info,3597
+1527,IndiGo,27/03/2019,Delhi,Cochin,DEL → BOM → COK,08:25,21:00,12h 35m,1 stop,No info,8285
+1530,IndiGo,24/04/2019,Banglore,Delhi,BLR → DEL,06:05,08:50,2h 45m,non-stop,No info,4423
+1532,IndiGo,03/03/2019,Banglore,New Delhi,BLR → DEL,23:30,02:20 04 Mar,2h 50m,non-stop,No info,6144
+1534,IndiGo,27/03/2019,Kolkata,Banglore,CCU → BLR,21:25,00:05 28 Mar,2h 40m,non-stop,No info,4148
+1537,IndiGo,6/03/2019,Delhi,Cochin,DEL → BOM → COK,17:10,01:35 07 Mar,8h 25m,1 stop,No info,14871
+1539,IndiGo,6/06/2019,Delhi,Cochin,DEL → HYD → COK,14:20,22:30,8h 10m,1 stop,No info,6938
+1540,IndiGo,12/06/2019,Delhi,Cochin,DEL → BOM → COK,08:30,21:00,12h 30m,1 stop,No info,6093
+1541,IndiGo,15/05/2019,Banglore,Delhi,BLR → DEL,10:10,13:00,2h 50m,non-stop,No info,3943
+1552,IndiGo,03/03/2019,Banglore,New Delhi,BLR → DEL,16:55,19:45,2h 50m,non-stop,No info,8855
+1554,IndiGo,24/06/2019,Banglore,Delhi,BLR → DEL,06:05,08:50,2h 45m,non-stop,No info,3943
+1558,IndiGo,1/05/2019,Kolkata,Banglore,CCU → PAT → BLR,09:20,14:15,4h 55m,1 stop,No info,8443
+1563,IndiGo,15/04/2019,Kolkata,Banglore,CCU → HYD → BLR,15:15,20:30,5h 15m,1 stop,No info,4775
+1568,IndiGo,12/05/2019,Mumbai,Hyderabad,BOM → HYD,21:20,22:50,1h 30m,non-stop,No info,2227
+1581,IndiGo,3/06/2019,Delhi,Cochin,DEL → BOM → COK,07:30,21:00,13h 30m,1 stop,No info,6093
+1586,IndiGo,6/04/2019,Delhi,Cochin,DEL → HYD → COK,07:35,12:10,4h 35m,1 stop,No info,5073
+1592,IndiGo,9/05/2019,Banglore,Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,3419
+1594,IndiGo,24/04/2019,Delhi,Cochin,DEL → BLR → COK,15:10,20:00,4h 50m,1 stop,No info,6027
+1612,IndiGo,6/04/2019,Banglore,Delhi,BLR → DEL,06:05,08:50,2h 45m,non-stop,No info,4423
+1615,IndiGo,1/06/2019,Delhi,Cochin,DEL → HYD → COK,07:35,12:10,4h 35m,1 stop,No info,5054
+1619,IndiGo,3/06/2019,Banglore,Delhi,BLR → DEL,21:15,00:15 04 Jun,3h,non-stop,No info,3943
+1622,IndiGo,24/04/2019,Banglore,Delhi,BLR → DEL,13:00,15:50,2h 50m,non-stop,No info,4423
+1635,IndiGo,6/05/2019,Banglore,Delhi,BLR → DEL,20:00,22:50,2h 50m,non-stop,No info,4823
+1640,IndiGo,12/05/2019,Mumbai,Hyderabad,BOM → HYD,09:10,10:40,1h 30m,non-stop,No info,4049
+1642,IndiGo,9/06/2019,Delhi,Cochin,DEL → HYD → COK,06:50,22:30,15h 40m,1 stop,No info,6442
+1644,IndiGo,24/06/2019,Delhi,Cochin,DEL → HYD → COK,08:35,22:30,13h 55m,1 stop,No info,6442
+1645,IndiGo,21/04/2019,Banglore,Delhi,BLR → DEL,20:00,22:50,2h 50m,non-stop,No info,4823
+1659,IndiGo,1/05/2019,Banglore,Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,3943
+1660,IndiGo,18/05/2019,Delhi,Cochin,DEL → BOM → COK,11:25,21:00,9h 35m,1 stop,No info,7191
+1670,IndiGo,27/06/2019,Kolkata,Banglore,CCU → BLR,04:40,07:15,2h 35m,non-stop,No info,4804
+1671,IndiGo,12/06/2019,Chennai,Kolkata,MAA → CCU,13:15,15:35,2h 20m,non-stop,No info,3597
+1686,IndiGo,6/05/2019,Delhi,Cochin,DEL → BOM → COK,07:30,21:00,13h 30m,1 stop,No info,7191
+1689,IndiGo,15/06/2019,Delhi,Cochin,DEL → HYD → COK,07:35,22:30,14h 55m,1 stop,No info,6442
+1694,IndiGo,27/04/2019,Kolkata,Banglore,CCU → BLR,04:40,07:15,2h 35m,non-stop,No info,4804
+1695,IndiGo,21/03/2019,Delhi,Cochin,DEL → COK,14:30,17:35,3h 5m,non-stop,No info,5406
+1697,IndiGo,9/06/2019,Kolkata,Banglore,CCU → MAA → BLR,08:10,13:00,4h 50m,1 stop,No info,5069
+1699,IndiGo,6/06/2019,Mumbai,Hyderabad,BOM → HYD,12:00,13:30,1h 30m,non-stop,No info,2754
+1703,IndiGo,15/03/2019,Banglore,New Delhi,BLR → DEL,16:55,19:45,2h 50m,non-stop,No info,8033
+1706,IndiGo,12/05/2019,Banglore,Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,4823
+1707,IndiGo,9/04/2019,Kolkata,Banglore,CCU → BLR,04:40,07:15,2h 35m,non-stop,No info,4174
+1711,IndiGo,27/06/2019,Delhi,Cochin,DEL → COK,05:35,08:50,3h 15m,non-stop,No info,5000
+1717,IndiGo,1/03/2019,Kolkata,Banglore,CCU → BLR,15:10,17:45,2h 35m,non-stop,No info,6565
+1720,IndiGo,21/03/2019,Banglore,New Delhi,BLR → LKO → DEL,05:25,10:10,4h 45m,1 stop,No info,6208
+1728,IndiGo,21/06/2019,Kolkata,Banglore,CCU → BLR,17:15,19:50,2h 35m,non-stop,No info,4804
+1729,IndiGo,18/05/2019,Delhi,Cochin,DEL → BOM → COK,16:00,21:00,5h,1 stop,No info,6069
+1734,IndiGo,24/04/2019,Delhi,Cochin,DEL → MAA → COK,02:00,07:25,5h 25m,1 stop,No info,5636
+1737,IndiGo,6/05/2019,Chennai,Kolkata,MAA → CCU,07:55,10:15,2h 20m,non-stop,No info,3850
+1741,IndiGo,18/06/2019,Mumbai,Hyderabad,BOM → HYD,21:20,22:50,1h 30m,non-stop,No info,2227
+1745,IndiGo,21/03/2019,Banglore,New Delhi,BLR → DEL,16:55,19:45,2h 50m,non-stop,No info,6860
+1746,IndiGo,1/06/2019,Delhi,Cochin,DEL → BOM → COK,18:35,01:30 02 Jun,6h 55m,1 stop,No info,6628
+1753,IndiGo,18/06/2019,Banglore,Delhi,BLR → DEL,10:10,13:00,2h 50m,non-stop,No info,3943
+1757,IndiGo,27/05/2019,Chennai,Kolkata,MAA → CCU,07:55,10:15,2h 20m,non-stop,No info,3850
+1758,IndiGo,18/06/2019,Kolkata,Banglore,CCU → BLR,20:25,23:10,2h 45m,non-stop,No info,4804
+1764,IndiGo,12/04/2019,Banglore,Delhi,BLR → DEL,10:10,13:00,2h 50m,non-stop,No info,4591
+1765,IndiGo,24/05/2019,Kolkata,Banglore,CCU → HYD → BLR,15:15,20:05,4h 50m,1 stop,No info,5192
+1774,IndiGo,24/06/2019,Delhi,Cochin,DEL → BOM → COK,08:30,21:00,12h 30m,1 stop,No info,6093
+1777,IndiGo,27/04/2019,Kolkata,Banglore,CCU → BLR,09:35,12:20,2h 45m,non-stop,No info,4804
+1779,IndiGo,21/03/2019,Delhi,Cochin,DEL → HYD → COK,07:35,22:20,14h 45m,1 stop,No info,6558
+1780,IndiGo,24/06/2019,Delhi,Cochin,DEL → LKO → COK,21:50,03:35 25 Jun,5h 45m,1 stop,No info,5775
+1787,IndiGo,21/06/2019,Banglore,Delhi,BLR → DEL,06:05,08:50,2h 45m,non-stop,No info,3943
+1790,IndiGo,12/06/2019,Mumbai,Hyderabad,BOM → HYD,01:40,03:10,1h 30m,non-stop,No info,2754
+1796,IndiGo,24/05/2019,Mumbai,Hyderabad,BOM → HYD,09:10,10:40,1h 30m,non-stop,No info,5755
+1802,IndiGo,15/05/2019,Delhi,Cochin,DEL → BOM → COK,16:00,21:00,5h,1 stop,No info,6069
+1808,IndiGo,3/03/2019,Kolkata,Banglore,CCU → BLR,20:25,23:05,2h 40m,non-stop,No info,6038
+1809,IndiGo,21/05/2019,Delhi,Cochin,DEL → COK,05:35,08:50,3h 15m,non-stop,No info,5601
+1810,IndiGo,9/03/2019,Delhi,Cochin,DEL → BOM → COK,07:30,21:00,13h 30m,1 stop,No info,12351
+1819,IndiGo,27/06/2019,Banglore,Delhi,BLR → DEL,18:25,21:20,2h 55m,non-stop,No info,4823
+1826,IndiGo,24/03/2019,Banglore,New Delhi,BLR → DEL,06:00,08:45,2h 45m,non-stop,No info,4777
+1827,IndiGo,21/06/2019,Delhi,Cochin,DEL → COK,05:35,08:50,3h 15m,non-stop,No info,5000
+1831,IndiGo,3/04/2019,Banglore,Delhi,BLR → DEL,22:10,01:00 04 Apr,2h 50m,non-stop,No info,3943
+1836,IndiGo,3/03/2019,Chennai,Kolkata,MAA → CCU,19:35,21:55,2h 20m,non-stop,No info,7295
+1839,IndiGo,24/03/2019,Kolkata,Banglore,CCU → HYD → BLR,04:15,09:50,5h 35m,1 stop,No info,4150
+1841,IndiGo,3/06/2019,Delhi,Cochin,DEL → COK,05:35,08:50,3h 15m,non-stop,No info,5601
+1844,IndiGo,21/03/2019,Mumbai,Hyderabad,BOM → HYD,12:00,13:25,1h 25m,non-stop,No info,3342
+1855,IndiGo,3/06/2019,Mumbai,Hyderabad,BOM → HYD,01:40,03:10,1h 30m,non-stop,No info,2754
+1858,IndiGo,12/06/2019,Delhi,Cochin,DEL → BOM → COK,04:55,21:00,16h 5m,1 stop,No info,5894
+1872,IndiGo,12/04/2019,Banglore,Delhi,BLR → DEL,13:00,15:50,2h 50m,non-stop,No info,4823
+1877,IndiGo,15/06/2019,Mumbai,Hyderabad,BOM → HYD,16:55,18:25,1h 30m,non-stop,No info,3175
+1878,IndiGo,12/05/2019,Kolkata,Banglore,CCU → BLR,09:35,12:20,2h 45m,non-stop,No info,4804
+1882,IndiGo,21/05/2019,Delhi,Cochin,DEL → HYD → COK,11:55,00:55 22 May,13h,1 stop,No info,6282
+1885,IndiGo,9/06/2019,Delhi,Cochin,DEL → COK,14:20,17:35,3h 15m,non-stop,No info,5601
+1887,IndiGo,01/03/2019,Banglore,New Delhi,BLR → DEL,20:00,22:55,2h 55m,non-stop,No info,14306
+1893,IndiGo,27/05/2019,Banglore,Delhi,BLR → DEL,22:10,01:00 28 May,2h 50m,non-stop,No info,3749
+1905,IndiGo,18/05/2019,Delhi,Cochin,DEL → BOM → COK,09:15,01:30 19 May,16h 15m,1 stop,No info,7503
+1910,IndiGo,12/03/2019,Chennai,Kolkata,MAA → CCU,07:55,10:15,2h 20m,non-stop,No info,6297
+1915,IndiGo,6/03/2019,Delhi,Cochin,DEL → BOM → COK,07:30,21:00,13h 30m,1 stop,No info,14871
+1920,IndiGo,3/04/2019,Banglore,Delhi,BLR → DEL,21:15,00:15 04 Apr,3h,non-stop,No info,3943
+1923,IndiGo,15/06/2019,Kolkata,Banglore,CCU → BLR,09:35,12:10,2h 35m,non-stop,No info,5644
+1940,IndiGo,6/03/2019,Delhi,Cochin,DEL → HYD → COK,06:40,22:20,15h 40m,1 stop,No info,6442
+1946,IndiGo,15/03/2019,Mumbai,Hyderabad,BOM → HYD,20:05,21:35,1h 30m,non-stop,No info,2754
+1947,IndiGo,18/05/2019,Mumbai,Hyderabad,BOM → HYD,21:20,22:50,1h 30m,non-stop,No info,2227
+1955,IndiGo,15/04/2019,Kolkata,Banglore,CCU → BLR,09:35,12:20,2h 45m,non-stop,No info,4174
+1962,IndiGo,3/03/2019,Delhi,Cochin,DEL → BOM → COK,15:00,01:35 04 Mar,10h 35m,1 stop,No info,14871
+1976,IndiGo,15/06/2019,Chennai,Kolkata,MAA → CCU,07:55,10:15,2h 20m,non-stop,No info,3850
+1986,IndiGo,27/06/2019,Chennai,Kolkata,MAA → CCU,05:15,07:40,2h 25m,non-stop,No info,3540
+1990,IndiGo,24/05/2019,Mumbai,Hyderabad,BOM → HYD,21:20,22:50,1h 30m,non-stop,No info,2437
+1991,IndiGo,27/05/2019,Delhi,Cochin,DEL → BOM → COK,10:35,01:30 28 May,14h 55m,1 stop,No info,6104
+1994,IndiGo,18/06/2019,Mumbai,Hyderabad,BOM → HYD,06:25,07:55,1h 30m,non-stop,No info,4049
+2011,IndiGo,9/04/2019,Delhi,Cochin,DEL → BOM → COK,15:00,01:30 10 Apr,10h 30m,1 stop,No info,6270
+2025,IndiGo,1/06/2019,Delhi,Cochin,DEL → BOM → COK,08:30,21:00,12h 30m,1 stop,No info,6416
+2026,IndiGo,1/04/2019,Mumbai,Hyderabad,BOM → HYD,09:10,10:40,1h 30m,non-stop,No info,3342
+2029,IndiGo,15/06/2019,Delhi,Cochin,DEL → HYD → COK,05:05,16:10,11h 5m,1 stop,No info,6818
+2038,IndiGo,1/04/2019,Kolkata,Banglore,CCU → GAU → BLR,15:10,20:30,5h 20m,1 stop,No info,8567
+2044,IndiGo,24/03/2019,Banglore,New Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,4777
+2046,IndiGo,3/04/2019,Mumbai,Hyderabad,BOM → HYD,16:55,18:25,1h 30m,non-stop,No info,3175
+2048,IndiGo,15/06/2019,Banglore,Delhi,BLR → DEL,21:15,00:15 16 Jun,3h,non-stop,No info,3943
+2051,IndiGo,15/04/2019,Banglore,Delhi,BLR → DEL,10:10,13:00,2h 50m,non-stop,No info,4423
+2053,IndiGo,21/03/2019,Delhi,Cochin,DEL → BOM → COK,08:25,21:00,12h 35m,1 stop,No info,8285
+2061,IndiGo,9/06/2019,Delhi,Cochin,DEL → BOM → COK,09:15,21:00,11h 45m,1 stop,No info,6838
+2064,IndiGo,27/03/2019,Delhi,Cochin,DEL → BOM → COK,07:30,15:30,8h,1 stop,No info,8574
+2077,IndiGo,18/05/2019,Banglore,Delhi,BLR → DEL,18:55,21:50,2h 55m,non-stop,No info,4823
+2085,IndiGo,01/03/2019,Banglore,New Delhi,BLR → DEL,18:55,21:45,2h 50m,non-stop,No info,14306
+2097,IndiGo,3/03/2019,Delhi,Cochin,DEL → BOM → COK,10:45,01:35 04 Mar,14h 50m,1 stop,No info,14871
+2100,IndiGo,24/03/2019,Mumbai,Hyderabad,BOM → HYD,16:55,18:25,1h 30m,non-stop,No info,3175
+2104,IndiGo,3/06/2019,Delhi,Cochin,DEL → COK,14:25,17:40,3h 15m,non-stop,No info,6015
+2109,IndiGo,6/04/2019,Kolkata,Banglore,CCU → BLR,14:25,16:55,2h 30m,non-stop,No info,4174
+2116,IndiGo,21/05/2019,Delhi,Cochin,DEL → BOM → COK,18:35,01:30 22 May,6h 55m,1 stop,No info,7006
+2121,IndiGo,03/03/2019,Banglore,New Delhi,BLR → HYD → DEL,07:30,12:20,4h 50m,1 stop,No info,6220
+2130,IndiGo,15/05/2019,Delhi,Cochin,DEL → COK,05:35,08:50,3h 15m,non-stop,No info,6015
+2140,IndiGo,21/06/2019,Banglore,Delhi,BLR → DEL,19:30,22:15,2h 45m,non-stop,No info,5780
+2142,IndiGo,9/06/2019,Delhi,Cochin,DEL → BLR → COK,05:10,10:05,4h 55m,1 stop,No info,6496
+2144,IndiGo,15/05/2019,Banglore,Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,4823
+2146,IndiGo,03/03/2019,Banglore,New Delhi,BLR → DEL,13:00,15:50,2h 50m,non-stop,No info,12649
+2149,IndiGo,1/04/2019,Banglore,Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,4423
+2156,IndiGo,3/04/2019,Delhi,Cochin,DEL → BOM → COK,16:00,21:00,5h,1 stop,No info,5073
+2157,IndiGo,27/06/2019,Banglore,Delhi,BLR → DEL,21:15,00:15 28 Jun,3h,non-stop,No info,3943
+2160,IndiGo,3/06/2019,Kolkata,Banglore,CCU → BLR,22:15,00:50 04 Jun,2h 35m,non-stop,No info,4804
+2161,IndiGo,09/03/2019,Banglore,New Delhi,BLR → NAG → DEL,16:50,21:35,4h 45m,1 stop,No info,10231
+2163,IndiGo,21/03/2019,Mumbai,Hyderabad,BOM → HYD,21:20,22:45,1h 25m,non-stop,No info,2227
+2174,IndiGo,6/03/2019,Delhi,Cochin,DEL → HYD → COK,16:10,22:20,6h 10m,1 stop,No info,7205
+2177,IndiGo,15/04/2019,Delhi,Cochin,DEL → COK,14:25,17:40,3h 15m,non-stop,No info,6015
+2178,IndiGo,3/04/2019,Kolkata,Banglore,CCU → MAA → BLR,06:15,10:30,4h 15m,1 stop,No info,4226
+2185,IndiGo,9/05/2019,Delhi,Cochin,DEL → PNQ → COK,23:30,04:35 10 May,5h 5m,1 stop,No info,8177
+2195,IndiGo,24/05/2019,Kolkata,Banglore,CCU → HYD → BLR,19:20,23:45,4h 25m,1 stop,No info,3809
+2201,IndiGo,6/04/2019,Banglore,Delhi,BLR → DEL,23:30,02:20 07 Apr,2h 50m,non-stop,No info,4591
+2203,IndiGo,24/06/2019,Chennai,Kolkata,MAA → CCU,07:55,10:15,2h 20m,non-stop,No info,3850
+2204,IndiGo,3/06/2019,Delhi,Cochin,DEL → HYD → COK,08:35,22:30,13h 55m,1 stop,No info,6442
+2205,IndiGo,3/06/2019,Delhi,Cochin,DEL → PNQ → COK,23:30,04:35 04 Jun,5h 5m,1 stop,No info,11378
+2212,IndiGo,01/03/2019,Banglore,New Delhi,BLR → HYD → DEL,16:15,20:35,4h 20m,1 stop,No Info,7917
+2215,IndiGo,18/05/2019,Delhi,Cochin,DEL → BOM → COK,16:00,01:30 19 May,9h 30m,1 stop,No info,7191
+2217,IndiGo,6/03/2019,Delhi,Cochin,DEL → BOM → COK,15:00,01:35 07 Mar,10h 35m,1 stop,No info,14871
+2220,IndiGo,9/03/2019,Chennai,Kolkata,MAA → CCU,22:05,00:25 10 Mar,2h 20m,non-stop,No info,6297
+2230,IndiGo,24/05/2019,Delhi,Cochin,DEL → BOM → COK,07:30,21:00,13h 30m,1 stop,No info,7006
+2237,IndiGo,12/06/2019,Banglore,Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,4823
+2261,IndiGo,3/03/2019,Delhi,Cochin,DEL → MAA → COK,02:05,07:25,5h 20m,1 stop,No info,10394
+2265,IndiGo,9/04/2019,Banglore,Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,4823
+2269,IndiGo,1/05/2019,Banglore,Delhi,BLR → DEL,08:30,11:20,2h 50m,non-stop,No info,4823
+2270,IndiGo,27/04/2019,Banglore,Delhi,BLR → DEL,20:00,22:50,2h 50m,non-stop,No info,4823
+2279,IndiGo,6/05/2019,Kolkata,Banglore,CCU → BBI → BLR,19:35,23:15,3h 40m,1 stop,No info,4226
+2285,IndiGo,27/06/2019,Chennai,Kolkata,MAA → CCU,22:05,00:25 28 Jun,2h 20m,non-stop,No info,5277
+2292,IndiGo,9/05/2019,Kolkata,Banglore,CCU → NAG → BLR,18:05,23:30,5h 25m,1 stop,No info,6218
+2294,IndiGo,21/05/2019,Delhi,Cochin,DEL → BOM → COK,08:30,21:00,12h 30m,1 stop,No info,7318
+2297,IndiGo,27/05/2019,Kolkata,Banglore,CCU → BLR,11:30,14:05,2h 35m,non-stop,No info,5224
+2302,IndiGo,18/05/2019,Mumbai,Hyderabad,BOM → HYD,19:05,20:35,1h 30m,non-stop,No info,2754
+2304,IndiGo,24/04/2019,Banglore,Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,3419
+2306,IndiGo,6/04/2019,Kolkata,Banglore,CCU → BLR,04:40,07:15,2h 35m,non-stop,No info,4174
+2313,IndiGo,15/05/2019,Banglore,Delhi,BLR → DEL,06:05,08:50,2h 45m,non-stop,No info,4423
+2318,IndiGo,15/06/2019,Delhi,Cochin,DEL → HYD → COK,11:55,22:30,10h 35m,1 stop,No info,6442
+2319,IndiGo,27/03/2019,Delhi,Cochin,DEL → BOM → COK,04:45,15:30,10h 45m,1 stop,No info,7048
+2322,IndiGo,15/05/2019,Delhi,Cochin,DEL → BOM → COK,08:30,21:00,12h 30m,1 stop,No info,7503
+2323,IndiGo,12/06/2019,Delhi,Cochin,DEL → BOM → COK,17:30,01:30 13 Jun,8h,1 stop,No info,6104
+2330,IndiGo,1/06/2019,Banglore,Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,4823
+2331,IndiGo,18/06/2019,Mumbai,Hyderabad,BOM → HYD,19:05,20:35,1h 30m,non-stop,No info,2754
+2338,IndiGo,12/06/2019,Delhi,Cochin,DEL → BOM → COK,16:00,01:30 13 Jun,9h 30m,1 stop,No info,6316
+2342,IndiGo,3/03/2019,Delhi,Cochin,DEL → BBI → COK,02:35,08:30,5h 55m,1 stop,No info,13790
+2348,IndiGo,3/03/2019,Delhi,Cochin,DEL → BOM → COK,06:40,13:20,6h 40m,1 stop,No info,14871
+2357,IndiGo,21/06/2019,Banglore,Delhi,BLR → DEL,22:10,01:00 22 Jun,2h 50m,non-stop,No info,3943
+2358,IndiGo,27/03/2019,Delhi,Cochin,DEL → BOM → COK,06:40,15:30,8h 50m,1 stop,No info,8574
+2383,IndiGo,9/05/2019,Delhi,Cochin,DEL → HYD → COK,07:35,12:10,4h 35m,1 stop,No info,5054
+2385,IndiGo,27/05/2019,Kolkata,Banglore,CCU → BLR,21:25,00:05 28 May,2h 40m,non-stop,No info,4804
+2386,IndiGo,15/06/2019,Mumbai,Hyderabad,BOM → HYD,06:25,07:55,1h 30m,non-stop,No info,4049
+2390,IndiGo,12/06/2019,Kolkata,Banglore,CCU → BLR,20:20,22:55,2h 35m,non-stop,No info,4804
+2391,IndiGo,15/04/2019,Delhi,Cochin,DEL → HYD → COK,05:05,16:10,11h 5m,1 stop,No info,6171
+2392,IndiGo,3/06/2019,Delhi,Cochin,DEL → BOM → COK,11:25,21:00,9h 35m,1 stop,No info,6093
+2393,IndiGo,12/04/2019,Kolkata,Banglore,CCU → BLR,17:15,19:50,2h 35m,non-stop,No info,4174
+2394,IndiGo,6/05/2019,Mumbai,Hyderabad,BOM → HYD,02:35,04:05,1h 30m,non-stop,No info,3342
+2397,IndiGo,18/04/2019,Delhi,Cochin,DEL → COK,05:35,08:50,3h 15m,non-stop,No info,6015
+2402,IndiGo,9/03/2019,Delhi,Cochin,DEL → HYD → MAA → COK,08:35,21:20,12h 45m,2 stops,No info,8146
+2412,IndiGo,3/05/2019,Banglore,Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,3943
+2417,IndiGo,3/06/2019,Banglore,Delhi,BLR → DEL,13:00,15:50,2h 50m,non-stop,No info,3943
+2418,IndiGo,12/05/2019,Kolkata,Banglore,CCU → HYD → BLR,15:15,20:05,4h 50m,1 stop,No info,5170
+2422,IndiGo,21/03/2019,Banglore,New Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,4777
+2428,IndiGo,15/06/2019,Mumbai,Hyderabad,BOM → HYD,09:10,10:40,1h 30m,non-stop,No info,4049
+2441,IndiGo,15/03/2019,Mumbai,Hyderabad,BOM → HYD,09:10,10:40,1h 30m,non-stop,No info,4049
+2455,IndiGo,9/05/2019,Kolkata,Banglore,CCU → BLR,21:25,00:05 10 May,2h 40m,non-stop,No info,4804
+2457,IndiGo,09/03/2019,Banglore,New Delhi,BLR → DEL,22:20,01:10 13 Mar,2h 50m,non-stop,No info,4377
+2460,IndiGo,9/05/2019,Banglore,Delhi,BLR → DEL,18:55,21:50,2h 55m,non-stop,No info,4823
+2461,IndiGo,21/03/2019,Kolkata,Banglore,CCU → BLR,14:20,16:55,2h 35m,non-stop,No info,5198
+2465,IndiGo,3/05/2019,Mumbai,Hyderabad,BOM → HYD,09:10,10:40,1h 30m,non-stop,No info,5755
+2472,IndiGo,3/06/2019,Banglore,Delhi,BLR → DEL,16:55,19:55,3h,non-stop,No info,4823
+2473,IndiGo,12/06/2019,Delhi,Cochin,DEL → BOM → COK,16:00,21:00,5h,1 stop,No info,6069
+2475,IndiGo,15/06/2019,Kolkata,Banglore,CCU → BLR,04:40,07:15,2h 35m,non-stop,No info,4804
+2477,IndiGo,9/06/2019,Delhi,Cochin,DEL → HYD → COK,07:35,22:30,14h 55m,1 stop,No info,6442
+2501,IndiGo,15/03/2019,Chennai,Kolkata,MAA → CCU,19:35,21:55,2h 20m,non-stop,No info,6297
+2506,IndiGo,27/05/2019,Delhi,Cochin,DEL → BOM → COK,06:40,21:00,14h 20m,1 stop,No info,6526
+2507,IndiGo,1/06/2019,Banglore,Delhi,BLR → DEL,16:55,19:45,2h 50m,non-stop,No info,4823
+2508,IndiGo,24/06/2019,Mumbai,Hyderabad,BOM → HYD,16:55,18:25,1h 30m,non-stop,No info,3175
+2510,IndiGo,18/04/2019,Banglore,Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,4423
+2522,IndiGo,15/04/2019,Kolkata,Banglore,CCU → BLR,20:20,22:55,2h 35m,non-stop,No info,4174
+2569,IndiGo,27/04/2019,Kolkata,Banglore,CCU → BLR,14:25,16:55,2h 30m,non-stop,No info,4804
+2572,IndiGo,15/05/2019,Mumbai,Hyderabad,BOM → HYD,20:05,21:40,1h 35m,non-stop,No info,2227
+2586,IndiGo,21/03/2019,Delhi,Cochin,DEL → HYD → COK,08:35,16:10,7h 35m,1 stop,No info,6790
+2590,IndiGo,9/04/2019,Banglore,Delhi,BLR → DEL,05:30,08:20,2h 50m,non-stop,No info,3943
+2598,IndiGo,6/03/2019,Kolkata,Banglore,CCU → BLR,15:20,17:55,2h 35m,non-stop,No info,5618
+2603,IndiGo,1/04/2019,Banglore,Delhi,BLR → DEL,06:05,08:50,2h 45m,non-stop,No info,3943
+2605,IndiGo,21/06/2019,Banglore,Delhi,BLR → DEL,00:25,03:15,2h 50m,non-stop,No info,3419
+2607,IndiGo,21/04/2019,Delhi,Cochin,DEL → BLR → COK,05:10,10:05,4h 55m,1 stop,No info,7074
+2609,IndiGo,21/04/2019,Delhi,Cochin,DEL → HYD → COK,06:50,12:10,5h 20m,1 stop,No info,6968
+2615,IndiGo,24/06/2019,Kolkata,Banglore,CCU → BLR,20:20,22:55,2h 35m,non-stop,No info,4804
+2619,IndiGo,9/03/2019,Delhi,Cochin,DEL → BOM → COK,17:30,01:35 10 Mar,8h 5m,1 stop,No info,12351
+2626,IndiGo,3/04/2019,Banglore,Delhi,BLR → DEL,06:05,08:50,2h 45m,non-stop,No info,4077
+2630,IndiGo,1/05/2019,Kolkata,Banglore,CCU → BLR,04:40,07:15,2h 35m,non-stop,No info,4804
+2639,IndiGo,6/06/2019,Banglore,Delhi,BLR → DEL,18:55,21:50,2h 55m,non-stop,No info,4990
+2667,IndiGo,1/05/2019,Kolkata,Banglore,CCU → BLR,20:20,22:55,2h 35m,non-stop,No info,4804
+2669,IndiGo,18/06/2019,Banglore,Delhi,BLR → DEL,00:25,03:15,2h 50m,non-stop,No info,3419
+2670,IndiGo,21/05/2019,Kolkata,Banglore,CCU → RPR → HYD → BLR,06:35,12:10,5h 35m,2 stops,No info,6103
+2675,IndiGo,18/03/2019,Chennai,Kolkata,MAA → CCU,22:05,00:25 19 Mar,2h 20m,non-stop,No info,5277
+2683,IndiGo,21/03/2019,Kolkata,Banglore,CCU → BLR,05:30,08:20,2h 50m,non-stop,No info,4148
+2684,IndiGo,27/05/2019,Chennai,Kolkata,MAA → CCU,14:45,17:05,2h 20m,non-stop,No info,3597
+2689,IndiGo,12/05/2019,Delhi,Cochin,DEL → COK,14:25,17:40,3h 15m,non-stop,No info,5000
+2694,IndiGo,15/04/2019,Kolkata,Banglore,CCU → BBI → BLR,19:35,23:15,3h 40m,1 stop,No info,4226
+2696,IndiGo,12/06/2019,Mumbai,Hyderabad,BOM → HYD,12:00,13:30,1h 30m,non-stop,No info,2754
+2697,IndiGo,6/06/2019,Kolkata,Banglore,CCU → VTZ → BLR,10:30,16:05,5h 35m,1 stop,No info,6301
+2705,IndiGo,6/05/2019,Kolkata,Banglore,CCU → NAG → BLR,18:05,23:30,5h 25m,1 stop,No info,6218
+2706,IndiGo,1/03/2019,Chennai,Kolkata,MAA → CCU,05:15,07:35,2h 20m,non-stop,No info,7295
+2709,IndiGo,15/05/2019,Kolkata,Banglore,CCU → BLR,14:25,16:55,2h 30m,non-stop,No info,5224
+2725,IndiGo,21/03/2019,Delhi,Cochin,DEL → BOM → COK,06:40,13:20,6h 40m,1 stop,No info,10208
+2726,IndiGo,21/05/2019,Delhi,Cochin,DEL → BOM → COK,20:25,01:30 22 May,5h 5m,1 stop,No info,5054
+2727,IndiGo,3/03/2019,Delhi,Cochin,DEL → BOM → COK,08:25,15:30,7h 5m,1 stop,No info,14871
+2734,IndiGo,03/03/2019,Banglore,New Delhi,BLR → DEL,10:05,13:00,2h 55m,non-stop,No info,7648
+2737,IndiGo,15/05/2019,Delhi,Cochin,DEL → BOM → COK,11:25,01:30 16 May,14h 5m,1 stop,No info,6979
+2740,IndiGo,12/05/2019,Banglore,Delhi,BLR → DEL,10:10,13:00,2h 50m,non-stop,No info,3943
+2741,IndiGo,12/06/2019,Delhi,Cochin,DEL → BOM → COK,09:15,21:00,11h 45m,1 stop,No info,6838
+2745,IndiGo,12/03/2019,Kolkata,Banglore,CCU → BLR,05:30,08:20,2h 50m,non-stop,No info,4148
+2749,IndiGo,15/05/2019,Delhi,Cochin,DEL → BOM → COK,16:00,01:30 16 May,9h 30m,1 stop,No info,7923
+2764,IndiGo,18/04/2019,Banglore,Delhi,BLR → DEL,21:15,00:15 19 Apr,3h,non-stop,No info,4591
+2765,IndiGo,12/05/2019,Banglore,Delhi,BLR → DEL,21:15,00:15 13 May,3h,non-stop,No info,3943
+2769,IndiGo,9/04/2019,Delhi,Cochin,DEL → BOM → COK,09:15,01:30 10 Apr,16h 15m,1 stop,No info,6573
+2772,IndiGo,15/05/2019,Chennai,Kolkata,MAA → CCU,11:35,14:00,2h 25m,non-stop,No info,4332
+2778,IndiGo,18/04/2019,Delhi,Cochin,DEL → COK,14:20,17:35,3h 15m,non-stop,No info,6015
+2781,IndiGo,3/06/2019,Banglore,Delhi,BLR → DEL,06:05,08:50,2h 45m,non-stop,No info,3943
+2788,IndiGo,21/03/2019,Delhi,Cochin,DEL → HYD → COK,07:35,16:10,8h 35m,1 stop,No info,6558
+2789,IndiGo,21/04/2019,Kolkata,Banglore,CCU → BLR,09:35,12:20,2h 45m,non-stop,No info,4804
+2793,IndiGo,1/06/2019,Kolkata,Banglore,CCU → BLR,14:25,16:55,2h 30m,non-stop,No info,6064
+2799,IndiGo,27/05/2019,Delhi,Cochin,DEL → HYD → COK,08:35,16:10,7h 35m,1 stop,No info,6442
+2807,IndiGo,18/05/2019,Banglore,Delhi,BLR → DEL,10:30,13:20,2h 50m,non-stop,No info,3943
+2808,IndiGo,15/03/2019,Mumbai,Hyderabad,BOM → HYD,06:20,07:45,1h 25m,non-stop,No info,3342
+2815,IndiGo,9/06/2019,Mumbai,Hyderabad,BOM → HYD,09:10,10:40,1h 30m,non-stop,No info,4049
+2818,IndiGo,3/05/2019,Chennai,Kolkata,MAA → CCU,05:15,07:40,2h 25m,non-stop,No info,3850
+2830,IndiGo,21/03/2019,Delhi,Cochin,DEL → BOM → COK,16:00,21:00,5h,1 stop,No info,6232
+2831,IndiGo,09/03/2019,Banglore,New Delhi,BLR → DEL,05:30,08:20,2h 50m,non-stop,No info,4777
+2835,IndiGo,3/06/2019,Delhi,Cochin,DEL → BOM → COK,06:40,21:00,14h 20m,1 stop,No info,6093
+2843,IndiGo,21/05/2019,Kolkata,Banglore,CCU → BLR,15:30,18:05,2h 35m,non-stop,No info,4804
+2848,IndiGo,18/03/2019,Delhi,Cochin,DEL → COK,14:30,17:35,3h 5m,non-stop,No info,5406
+2854,IndiGo,21/04/2019,Kolkata,Banglore,CCU → BLR,20:20,22:55,2h 35m,non-stop,No info,4804
+2856,IndiGo,3/05/2019,Banglore,Delhi,BLR → DEL,10:10,13:00,2h 50m,non-stop,No info,3943
+2863,IndiGo,24/06/2019,Delhi,Cochin,DEL → BOM → COK,17:10,01:30 25 Jun,8h 20m,1 stop,No info,5684
+2872,IndiGo,6/05/2019,Mumbai,Hyderabad,BOM → HYD,12:00,13:30,1h 30m,non-stop,No info,2754
+2886,IndiGo,27/03/2019,Delhi,Cochin,DEL → COK,05:35,08:50,3h 15m,non-stop,No info,4729
+2890,IndiGo,27/04/2019,Banglore,Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,4823
+2896,IndiGo,24/03/2019,Kolkata,Banglore,CCU → BLR,15:20,17:55,2h 35m,non-stop,No info,6985
+2898,IndiGo,21/06/2019,Kolkata,Banglore,CCU → BLR,22:15,00:50 22 Jun,2h 35m,non-stop,No info,4804
+2910,IndiGo,24/06/2019,Kolkata,Banglore,CCU → BLR,17:15,19:50,2h 35m,non-stop,No info,4804
+2921,IndiGo,3/03/2019,Mumbai,Hyderabad,BOM → HYD,06:20,07:45,1h 25m,non-stop,No info,4784
+2945,IndiGo,21/03/2019,Delhi,Cochin,DEL → BOM → COK,10:45,15:30,4h 45m,1 stop,No info,6218
+2952,IndiGo,6/05/2019,Kolkata,Banglore,CCU → BLR,22:15,00:50 07 May,2h 35m,non-stop,No info,4804
+2959,IndiGo,24/05/2019,Banglore,Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,3419
+2962,IndiGo,27/06/2019,Delhi,Cochin,DEL → BOM → COK,16:00,01:30 28 Jun,9h 30m,1 stop,No info,6316
+2975,IndiGo,9/05/2019,Delhi,Cochin,DEL → HYD → COK,14:20,22:30,8h 10m,1 stop,No info,6704
+2982,IndiGo,24/05/2019,Delhi,Cochin,DEL → BOM → COK,10:35,01:30 25 May,14h 55m,1 stop,No info,7081
+2983,IndiGo,27/04/2019,Banglore,Delhi,BLR → DEL,21:15,00:15 28 Apr,3h,non-stop,No info,3943
+2991,IndiGo,3/06/2019,Chennai,Kolkata,MAA → CCU,05:15,07:40,2h 25m,non-stop,No info,3540
+2993,IndiGo,18/04/2019,Banglore,Delhi,BLR → DEL,06:05,08:50,2h 45m,non-stop,No info,4591
+3002,IndiGo,15/05/2019,Delhi,Cochin,DEL → HYD → COK,06:50,22:30,15h 40m,1 stop,No info,6442
+3004,IndiGo,21/05/2019,Mumbai,Hyderabad,BOM → HYD,20:05,21:40,1h 35m,non-stop,No info,2227
+3009,IndiGo,21/03/2019,Kolkata,Banglore,CCU → BLR,21:25,00:05 22 Mar,2h 40m,non-stop,No info,4148
+3028,IndiGo,24/06/2019,Banglore,Delhi,BLR → DEL,10:10,13:00,2h 50m,non-stop,No info,3943
+3036,IndiGo,15/04/2019,Banglore,Delhi,BLR → DEL,23:30,02:20 16 Apr,2h 50m,non-stop,No info,4591
+3037,IndiGo,18/05/2019,Chennai,Kolkata,MAA → CCU,19:35,21:55,2h 20m,non-stop,No info,3597
+3038,IndiGo,27/05/2019,Delhi,Cochin,DEL → HYD → COK,16:10,22:30,6h 20m,1 stop,No info,6938
+3051,IndiGo,6/03/2019,Kolkata,Banglore,CCU → BLR,21:25,00:05 07 Mar,2h 40m,non-stop,No info,4778
+3052,IndiGo,9/06/2019,Delhi,Cochin,DEL → BOM → COK,08:30,21:00,12h 30m,1 stop,No info,6838
+3056,IndiGo,24/06/2019,Banglore,Delhi,BLR → DEL,08:30,11:20,2h 50m,non-stop,No info,4823
+3061,IndiGo,18/06/2019,Chennai,Kolkata,MAA → CCU,11:35,14:00,2h 25m,non-stop,No info,3858
+3062,IndiGo,24/05/2019,Kolkata,Banglore,CCU → BLR,22:15,00:50 25 May,2h 35m,non-stop,No info,4804
+3068,IndiGo,18/03/2019,Chennai,Kolkata,MAA → CCU,11:35,14:00,2h 25m,non-stop,No info,3858
+3074,IndiGo,6/06/2019,Banglore,Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,3943
+3076,IndiGo,27/03/2019,Delhi,Cochin,DEL → BOM → COK,06:40,21:00,14h 20m,1 stop,No info,8784
+3078,IndiGo,24/05/2019,Chennai,Kolkata,MAA → CCU,22:05,00:25 25 May,2h 20m,non-stop,No info,5277
+3080,IndiGo,9/03/2019,Delhi,Cochin,DEL → COK,05:35,08:50,3h 15m,non-stop,No info,6885
+3082,IndiGo,1/06/2019,Delhi,Cochin,DEL → PNQ → COK,23:30,04:35 02 Jun,5h 5m,1 stop,No info,10112
+3083,IndiGo,6/03/2019,Delhi,Cochin,DEL → BOM → COK,17:30,01:35 07 Mar,8h 5m,1 stop,No info,14871
+3093,IndiGo,9/06/2019,Delhi,Cochin,DEL → BOM → COK,16:00,01:30 10 Jun,9h 30m,1 stop,No info,6316
+3100,IndiGo,1/06/2019,Banglore,Delhi,BLR → DEL,06:05,08:50,2h 45m,non-stop,No info,3943
+3107,IndiGo,24/03/2019,Kolkata,Banglore,CCU → HYD → BLR,15:10,20:15,5h 5m,1 stop,No info,6762
+3110,IndiGo,6/04/2019,Kolkata,Banglore,CCU → HYD → BLR,19:20,23:45,4h 25m,1 stop,No info,3480
+3114,IndiGo,21/05/2019,Kolkata,Banglore,CCU → MAA → BLR,16:35,22:15,5h 40m,1 stop,No info,5268
+3126,IndiGo,03/03/2019,Banglore,New Delhi,BLR → DEL,18:25,21:20,2h 55m,non-stop,No info,7648
+3128,IndiGo,18/06/2019,Chennai,Kolkata,MAA → CCU,13:15,15:35,2h 20m,non-stop,No info,3597
+3129,IndiGo,24/06/2019,Delhi,Cochin,DEL → HYD → COK,07:35,16:10,8h 35m,1 stop,No info,6442
+3130,IndiGo,9/03/2019,Delhi,Cochin,DEL → BOM → COK,06:40,21:00,14h 20m,1 stop,No info,12351
+3132,IndiGo,15/05/2019,Banglore,Delhi,BLR → DEL,20:00,22:50,2h 50m,non-stop,No info,4823
+3136,IndiGo,9/05/2019,Delhi,Cochin,DEL → MAA → COK,02:00,07:25,5h 25m,1 stop,No info,6582
+3138,IndiGo,1/04/2019,Banglore,Delhi,BLR → DEL,20:00,22:50,2h 50m,non-stop,No info,4823
+3141,IndiGo,27/05/2019,Delhi,Cochin,DEL → MAA → COK,07:15,12:30,5h 15m,1 stop,No info,5636
+3143,IndiGo,6/06/2019,Banglore,Delhi,BLR → DEL,18:25,21:20,2h 55m,non-stop,No info,4823
+3146,IndiGo,24/04/2019,Kolkata,Banglore,CCU → BBI → BLR,19:35,23:15,3h 40m,1 stop,No info,4226
+3156,IndiGo,12/04/2019,Kolkata,Banglore,CCU → BLR,15:30,18:05,2h 35m,non-stop,No info,4174
+3159,IndiGo,15/06/2019,Banglore,Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,4423
+3162,IndiGo,21/05/2019,Mumbai,Hyderabad,BOM → HYD,06:25,07:55,1h 30m,non-stop,No info,4049
+3166,IndiGo,21/05/2019,Delhi,Cochin,DEL → HYD → COK,05:05,12:10,7h 5m,1 stop,No info,6818
+3172,IndiGo,27/06/2019,Banglore,Delhi,BLR → DEL,08:30,11:20,2h 50m,non-stop,No info,4823
+3181,IndiGo,1/05/2019,Banglore,Delhi,BLR → DEL,13:00,15:50,2h 50m,non-stop,No info,4423
+3187,IndiGo,3/03/2019,Mumbai,Hyderabad,BOM → HYD,02:30,04:00,1h 30m,non-stop,No info,4575
+3190,IndiGo,1/05/2019,Chennai,Kolkata,MAA → CCU,14:45,17:05,2h 20m,non-stop,No info,3597
+3196,IndiGo,21/04/2019,Banglore,Delhi,BLR → DEL,21:15,00:15 22 Apr,3h,non-stop,No info,4423
+3198,IndiGo,1/06/2019,Delhi,Cochin,DEL → BOM → COK,09:15,21:00,11h 45m,1 stop,No info,7258
+3205,IndiGo,24/06/2019,Mumbai,Hyderabad,BOM → HYD,19:05,20:35,1h 30m,non-stop,No info,2754
+3206,IndiGo,9/06/2019,Delhi,Cochin,DEL → BLR → COK,17:05,22:15,5h 10m,1 stop,No info,6493
+3207,IndiGo,24/05/2019,Kolkata,Banglore,CCU → NAG → BLR,18:05,23:30,5h 25m,1 stop,No info,6218
+3209,IndiGo,6/03/2019,Delhi,Cochin,DEL → HYD → COK,07:35,16:10,8h 35m,1 stop,No info,7094
+3218,IndiGo,9/06/2019,Delhi,Cochin,DEL → COK,05:35,08:50,3h 15m,non-stop,No info,5601
+3221,IndiGo,6/04/2019,Kolkata,Banglore,CCU → MAA → BLR,06:15,10:30,4h 15m,1 stop,No info,4226
+3223,IndiGo,27/03/2019,Delhi,Cochin,DEL → BOM → COK,10:45,01:35 28 Mar,14h 50m,1 stop,No info,6628
+3224,IndiGo,09/03/2019,Banglore,New Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,8033
+3226,IndiGo,24/06/2019,Kolkata,Banglore,CCU → BLR,15:30,18:05,2h 35m,non-stop,No info,4804
+3243,IndiGo,27/05/2019,Delhi,Cochin,DEL → BOM → COK,10:35,21:00,10h 25m,1 stop,No info,6314
+3249,IndiGo,6/04/2019,Kolkata,Banglore,CCU → BLR,15:15,17:45,2h 30m,non-stop,No info,4174
+3251,IndiGo,9/03/2019,Delhi,Cochin,DEL → BOM → COK,04:45,21:00,16h 15m,1 stop,No info,10518
+3252,IndiGo,6/04/2019,Banglore,Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,4823
+3258,IndiGo,27/06/2019,Kolkata,Banglore,CCU → BLR,15:15,17:45,2h 30m,non-stop,No info,4804
+3261,IndiGo,21/06/2019,Banglore,Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,4823
+3262,IndiGo,3/06/2019,Mumbai,Hyderabad,BOM → HYD,21:20,22:50,1h 30m,non-stop,No info,2227
+3273,IndiGo,15/05/2019,Mumbai,Hyderabad,BOM → HYD,09:10,10:40,1h 30m,non-stop,No info,4575
+3275,IndiGo,12/06/2019,Delhi,Cochin,DEL → MAA → COK,02:00,07:25,5h 25m,1 stop,No info,5636
+3279,IndiGo,18/06/2019,Kolkata,Banglore,CCU → BLR,15:15,17:45,2h 30m,non-stop,No info,4804
+3285,IndiGo,21/03/2019,Delhi,Cochin,DEL → HYD → COK,04:55,12:00,7h 5m,1 stop,No info,6287
+3292,IndiGo,24/05/2019,Chennai,Kolkata,MAA → CCU,11:35,14:00,2h 25m,non-stop,No info,4332
+3296,IndiGo,15/06/2019,Kolkata,Banglore,CCU → BLR,17:15,19:50,2h 35m,non-stop,No info,4804
+3316,IndiGo,15/06/2019,Kolkata,Banglore,CCU → BLR,14:25,16:55,2h 30m,non-stop,No info,4804
+3323,IndiGo,21/05/2019,Delhi,Cochin,DEL → BOM → COK,17:10,01:30 22 May,8h 20m,1 stop,No info,6794
+3330,IndiGo,12/06/2019,Mumbai,Hyderabad,BOM → HYD,19:05,20:35,1h 30m,non-stop,No info,2754
+3342,IndiGo,1/05/2019,Banglore,Delhi,BLR → DEL,16:55,19:55,3h,non-stop,No info,4823
+3347,IndiGo,3/05/2019,Banglore,Delhi,BLR → DEL,18:25,21:20,2h 55m,non-stop,No info,4823
+3351,IndiGo,21/03/2019,Banglore,New Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,4777
+3353,IndiGo,1/04/2019,Kolkata,Banglore,CCU → PAT → BLR,09:20,14:15,4h 55m,1 stop,No info,10308
+3355,IndiGo,6/05/2019,Kolkata,Banglore,CCU → PAT → BLR,09:20,14:15,4h 55m,1 stop,No info,11319
+3360,IndiGo,9/06/2019,Delhi,Cochin,DEL → HYD → COK,07:35,12:10,4h 35m,1 stop,No info,5054
+3368,IndiGo,15/04/2019,Banglore,Delhi,BLR → DEL,06:05,08:50,2h 45m,non-stop,No info,4423
+3377,IndiGo,15/05/2019,Kolkata,Banglore,CCU → HYD → BLR,15:15,20:05,4h 50m,1 stop,No info,5380
+3382,IndiGo,15/06/2019,Delhi,Cochin,DEL → BOM → COK,17:30,01:30 16 Jun,8h,1 stop,No info,5883
+3383,IndiGo,9/03/2019,Delhi,Cochin,DEL → HYD → COK,04:55,12:00,7h 5m,1 stop,No info,6171
+3384,IndiGo,21/05/2019,Mumbai,Hyderabad,BOM → HYD,16:55,18:25,1h 30m,non-stop,No info,3175
+3385,IndiGo,27/03/2019,Delhi,Cochin,DEL → AMD → COK,07:45,13:40,5h 55m,1 stop,No info,4832
+3395,IndiGo,9/05/2019,Mumbai,Hyderabad,BOM → HYD,02:35,04:05,1h 30m,non-stop,No info,2754
+3398,IndiGo,21/04/2019,Kolkata,Banglore,CCU → BLR,15:30,18:05,2h 35m,non-stop,No info,4804
+3399,IndiGo,09/03/2019,Banglore,New Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,4545
+3403,IndiGo,9/06/2019,Chennai,Kolkata,MAA → CCU,22:05,00:25 10 Jun,2h 20m,non-stop,No info,5277
+3404,IndiGo,27/03/2019,Delhi,Cochin,DEL → BOM → COK,11:30,01:35 28 Mar,14h 5m,1 stop,No info,6206
+3409,IndiGo,24/03/2019,Banglore,New Delhi,BLR → DEL,23:30,02:20 25 Mar,2h 50m,non-stop,No info,6860
+3414,IndiGo,12/06/2019,Banglore,Delhi,BLR → DEL,20:00,22:50,2h 50m,non-stop,No info,4823
+3417,IndiGo,3/06/2019,Delhi,Cochin,DEL → HYD → COK,06:50,22:30,15h 40m,1 stop,No info,7514
+3421,IndiGo,1/05/2019,Chennai,Kolkata,MAA → CCU,07:55,10:15,2h 20m,non-stop,No info,3850
+3429,IndiGo,27/06/2019,Delhi,Cochin,DEL → BOM → COK,16:00,21:00,5h,1 stop,No info,6069
+3433,IndiGo,3/04/2019,Banglore,Delhi,BLR → DEL,13:00,15:50,2h 50m,non-stop,No info,4077
+3434,IndiGo,9/05/2019,Kolkata,Banglore,CCU → PNQ → BLR,21:00,02:15 10 May,5h 15m,1 stop,No info,7605
+3436,IndiGo,3/03/2019,Delhi,Cochin,DEL → HYD → COK,07:35,22:20,14h 45m,1 stop,No info,11600
+3443,IndiGo,3/03/2019,Mumbai,Hyderabad,BOM → HYD,19:05,20:30,1h 25m,non-stop,No info,5755
+3446,IndiGo,18/03/2019,Banglore,New Delhi,BLR → DEL,22:20,01:10 19 Mar,2h 50m,non-stop,No info,4545
+3449,IndiGo,6/05/2019,Mumbai,Hyderabad,BOM → HYD,06:25,07:55,1h 30m,non-stop,No info,4049
+3463,IndiGo,09/03/2019,Banglore,New Delhi,BLR → IDR → DEL,17:55,22:55,5h,1 stop,No info,6351
+3466,IndiGo,15/05/2019,Kolkata,Banglore,CCU → PNQ → BLR,21:00,02:15 16 May,5h 15m,1 stop,No info,7228
+3480,IndiGo,27/05/2019,Kolkata,Banglore,CCU → BLR,15:15,17:45,2h 30m,non-stop,No info,4804
+3486,IndiGo,12/06/2019,Kolkata,Banglore,CCU → PAT → BLR,09:20,14:15,4h 55m,1 stop,No info,11160
+3492,IndiGo,18/05/2019,Chennai,Kolkata,MAA → CCU,11:35,14:00,2h 25m,non-stop,No info,4332
+3493,IndiGo,6/05/2019,Kolkata,Banglore,CCU → MAA → BLR,08:10,13:00,4h 50m,1 stop,No info,5069
+3499,IndiGo,24/03/2019,Kolkata,Banglore,CCU → BLR,15:10,17:45,2h 35m,non-stop,No info,7615
+3500,IndiGo,27/05/2019,Banglore,Delhi,BLR → DEL,18:25,21:20,2h 55m,non-stop,No info,4823
+3508,IndiGo,27/05/2019,Mumbai,Hyderabad,BOM → HYD,16:55,18:25,1h 30m,non-stop,No info,3175
+3519,IndiGo,27/06/2019,Delhi,Cochin,DEL → HYD → COK,06:50,22:30,15h 40m,1 stop,No info,6442
+3522,IndiGo,24/06/2019,Banglore,Delhi,BLR → DEL,18:55,21:50,2h 55m,non-stop,No info,4823
+3528,IndiGo,27/05/2019,Delhi,Cochin,DEL → MAA → COK,02:00,07:25,5h 25m,1 stop,No info,7164
+3541,IndiGo,18/06/2019,Mumbai,Hyderabad,BOM → HYD,02:35,04:05,1h 30m,non-stop,No info,2754
+3543,IndiGo,01/03/2019,Banglore,New Delhi,BLR → DEL,10:05,13:00,2h 55m,non-stop,No info,10067
+3567,IndiGo,21/03/2019,Delhi,Cochin,DEL → BBI → COK,02:35,08:30,5h 55m,1 stop,No info,8470
+3585,IndiGo,3/06/2019,Banglore,Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,3943
+3594,IndiGo,6/06/2019,Kolkata,Banglore,CCU → BLR,17:15,19:50,2h 35m,non-stop,No info,4804
+3599,IndiGo,15/03/2019,Banglore,New Delhi,BLR → DEL,20:00,22:55,2h 55m,non-stop,No info,8855
+3602,IndiGo,27/06/2019,Banglore,Delhi,BLR → DEL,06:05,08:50,2h 45m,non-stop,No info,3943
+3607,IndiGo,6/05/2019,Kolkata,Banglore,CCU → MAA → BLR,17:35,22:15,4h 40m,1 stop,No info,5699
+3613,IndiGo,9/04/2019,Banglore,Delhi,BLR → DEL,23:30,02:20 10 Apr,2h 50m,non-stop,No info,4591
+3622,IndiGo,21/05/2019,Delhi,Cochin,DEL → HYD → COK,06:50,12:10,5h 20m,1 stop,No info,5530
+3623,IndiGo,18/05/2019,Delhi,Cochin,DEL → BOM → COK,08:30,21:00,12h 30m,1 stop,No info,7081
+3627,IndiGo,1/05/2019,Delhi,Cochin,DEL → BOM → COK,07:30,21:00,13h 30m,1 stop,No info,8542
+3628,IndiGo,15/04/2019,Banglore,Delhi,BLR → DEL,16:55,19:55,3h,non-stop,No info,4823
+3647,IndiGo,3/03/2019,Mumbai,Hyderabad,BOM → HYD,12:00,13:25,1h 25m,non-stop,No info,5755
+3651,IndiGo,9/03/2019,Chennai,Kolkata,MAA → CCU,07:55,10:15,2h 20m,non-stop,No info,6297
+3654,IndiGo,24/06/2019,Mumbai,Hyderabad,BOM → HYD,09:10,10:40,1h 30m,non-stop,No info,4049
+3658,IndiGo,3/04/2019,Banglore,Delhi,BLR → DEL,08:30,11:20,2h 50m,non-stop,No info,4823
+3663,IndiGo,21/06/2019,Kolkata,Banglore,CCU → BLR,14:25,16:55,2h 30m,non-stop,No info,5224
+3669,IndiGo,9/05/2019,Chennai,Kolkata,MAA → CCU,13:15,15:35,2h 20m,non-stop,No info,3597
+3679,IndiGo,1/04/2019,Mumbai,Hyderabad,BOM → HYD,02:35,04:05,1h 30m,non-stop,No info,2754
+3682,IndiGo,18/05/2019,Kolkata,Banglore,CCU → BLR,14:25,16:55,2h 30m,non-stop,No info,5224
+3683,IndiGo,9/06/2019,Delhi,Cochin,DEL → BOM → COK,16:00,21:00,5h,1 stop,No info,6069
+3694,IndiGo,27/04/2019,Banglore,Delhi,BLR → DEL,00:30,03:25,2h 55m,non-stop,No info,4591
+3696,IndiGo,6/06/2019,Kolkata,Banglore,CCU → BLR,14:25,16:55,2h 30m,non-stop,No info,4804
+3702,IndiGo,6/06/2019,Kolkata,Banglore,CCU → MAA → BLR,08:10,13:00,4h 50m,1 stop,No info,5069
+3710,IndiGo,9/05/2019,Mumbai,Hyderabad,BOM → HYD,06:25,07:55,1h 30m,non-stop,No info,4049
+3712,IndiGo,09/03/2019,Banglore,New Delhi,BLR → GOI → DEL,19:30,00:40 13 Mar,5h 10m,1 stop,No info,7280
+3716,IndiGo,3/06/2019,Chennai,Kolkata,MAA → CCU,07:55,10:15,2h 20m,non-stop,No info,3850
+3719,IndiGo,27/04/2019,Banglore,Delhi,BLR → DEL,18:55,21:50,2h 55m,non-stop,No info,4823
+3720,IndiGo,15/05/2019,Banglore,Delhi,BLR → DEL,18:55,21:50,2h 55m,non-stop,No info,4823
+3722,IndiGo,21/04/2019,Banglore,Delhi,BLR → DEL,18:55,21:50,2h 55m,non-stop,No info,4823
+3724,IndiGo,6/06/2019,Delhi,Cochin,DEL → HYD → COK,05:05,16:10,11h 5m,1 stop,No info,6818
+3727,IndiGo,6/06/2019,Delhi,Cochin,DEL → HYD → COK,16:10,22:30,6h 20m,1 stop,No info,6938
+3742,IndiGo,21/04/2019,Kolkata,Banglore,CCU → BLR,22:15,00:50 22 Apr,2h 35m,non-stop,No info,4804
+3749,IndiGo,18/05/2019,Mumbai,Hyderabad,BOM → HYD,12:00,13:30,1h 30m,non-stop,No info,2754
+3753,IndiGo,27/06/2019,Mumbai,Hyderabad,BOM → HYD,21:20,22:50,1h 30m,non-stop,No info,2227
+3755,IndiGo,3/05/2019,Banglore,Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,3943
+3762,IndiGo,18/06/2019,Chennai,Kolkata,MAA → CCU,14:45,17:05,2h 20m,non-stop,No info,3597
+3764,IndiGo,9/06/2019,Banglore,Delhi,BLR → DEL,22:10,01:00 10 Jun,2h 50m,non-stop,No info,3749
+3767,IndiGo,27/05/2019,Banglore,Delhi,BLR → DEL,20:00,22:50,2h 50m,non-stop,No info,4823
+3773,IndiGo,21/03/2019,Delhi,Cochin,DEL → BOM → COK,09:10,21:00,11h 50m,1 stop,No info,8285
+3776,IndiGo,27/03/2019,Kolkata,Banglore,CCU → BLR,22:10,00:55 28 Mar,2h 45m,non-stop,No info,4148
+3777,IndiGo,24/06/2019,Delhi,Cochin,DEL → BLR → COK,05:10,10:05,4h 55m,1 stop,No info,6496
+3778,IndiGo,18/03/2019,Kolkata,Banglore,CCU → BLR,22:10,00:55 19 Mar,2h 45m,non-stop,No info,4148
+3781,IndiGo,12/05/2019,Banglore,Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,3943
+3797,IndiGo,9/06/2019,Kolkata,Banglore,CCU → PAT → BLR,09:20,14:15,4h 55m,1 stop,No info,11465
+3807,IndiGo,1/05/2019,Delhi,Cochin,DEL → BOM → COK,18:35,01:30 02 May,6h 55m,1 stop,No info,8854
+3808,IndiGo,6/03/2019,Delhi,Cochin,DEL → HYD → MAA → COK,08:35,21:20,12h 45m,2 stops,No info,7682
+3809,IndiGo,9/05/2019,Kolkata,Banglore,CCU → BLR,17:15,19:50,2h 35m,non-stop,No info,4804
+3814,IndiGo,24/05/2019,Kolkata,Banglore,CCU → MAA → BLR,08:10,13:00,4h 50m,1 stop,No info,5069
+3820,IndiGo,12/05/2019,Banglore,Delhi,BLR → DEL,13:00,15:50,2h 50m,non-stop,No info,4591
+3822,IndiGo,18/04/2019,Banglore,Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,4591
+3823,IndiGo,24/06/2019,Mumbai,Hyderabad,BOM → HYD,06:25,07:55,1h 30m,non-stop,No info,4049
+3824,IndiGo,3/05/2019,Kolkata,Banglore,CCU → BLR,15:30,18:05,2h 35m,non-stop,No info,4804
+3828,IndiGo,9/05/2019,Banglore,Delhi,BLR → DEL,06:05,08:50,2h 45m,non-stop,No info,4077
+3834,IndiGo,12/06/2019,Delhi,Cochin,DEL → LKO → COK,21:50,03:35 13 Jun,5h 45m,1 stop,No info,5775
+3847,IndiGo,9/03/2019,Chennai,Kolkata,MAA → CCU,17:05,19:40,2h 35m,non-stop,No info,6297
+3850,IndiGo,21/03/2019,Delhi,Cochin,DEL → BLR → COK,02:00,07:45,5h 45m,1 stop,No info,6426
+3861,IndiGo,12/05/2019,Mumbai,Hyderabad,BOM → HYD,16:55,18:25,1h 30m,non-stop,No info,3603
+3866,IndiGo,15/03/2019,Kolkata,Banglore,CCU → BLR,14:20,16:55,2h 35m,non-stop,No info,4778
+3867,IndiGo,24/05/2019,Kolkata,Banglore,CCU → BLR,17:15,19:50,2h 35m,non-stop,No info,4804
+3879,IndiGo,3/05/2019,Kolkata,Banglore,CCU → BLR,22:15,00:50 04 May,2h 35m,non-stop,No info,4804
+3888,IndiGo,6/05/2019,Kolkata,Banglore,CCU → BLR,09:35,12:20,2h 45m,non-stop,No info,4804
+3891,IndiGo,1/03/2019,Mumbai,Hyderabad,BOM → HYD,16:55,18:25,1h 30m,non-stop,No info,8853
+3892,IndiGo,1/06/2019,Delhi,Cochin,DEL → MAA → COK,07:15,12:30,5h 15m,1 stop,No info,6582
+3897,IndiGo,1/06/2019,Kolkata,Banglore,CCU → BLR,22:15,00:50 02 Jun,2h 35m,non-stop,No info,4804
+3898,IndiGo,1/06/2019,Chennai,Kolkata,MAA → CCU,22:05,00:25 02 Jun,2h 20m,non-stop,No info,5277
+3900,IndiGo,1/04/2019,Banglore,Delhi,BLR → DEL,13:00,15:50,2h 50m,non-stop,No info,4591
+3901,IndiGo,6/05/2019,Chennai,Kolkata,MAA → CCU,14:45,17:05,2h 20m,non-stop,No info,3597
+3903,IndiGo,6/06/2019,Chennai,Kolkata,MAA → CCU,07:55,10:15,2h 20m,non-stop,No info,3850
+3923,IndiGo,3/03/2019,Chennai,Kolkata,MAA → CCU,05:15,07:35,2h 20m,non-stop,No info,6482
+3924,IndiGo,1/06/2019,Delhi,Cochin,DEL → BOM → COK,17:30,01:30 02 Jun,8h,1 stop,No info,6628
+3929,IndiGo,6/06/2019,Kolkata,Banglore,CCU → HYD → BLR,15:15,20:30,5h 15m,1 stop,No info,5170
+3931,IndiGo,1/03/2019,Chennai,Kolkata,MAA → CCU,13:20,15:35,2h 15m,non-stop,No info,7295
+3941,IndiGo,24/06/2019,Delhi,Cochin,DEL → BLR → COK,17:05,22:15,5h 10m,1 stop,No info,6147
+3942,IndiGo,12/06/2019,Delhi,Cochin,DEL → BOM → COK,07:30,21:00,13h 30m,1 stop,No info,6093
+3947,IndiGo,15/05/2019,Kolkata,Banglore,CCU → BLR,20:20,22:55,2h 35m,non-stop,No info,4804
+3958,IndiGo,27/03/2019,Delhi,Cochin,DEL → HYD → COK,06:40,12:00,5h 20m,1 stop,No info,5298
+3964,IndiGo,21/03/2019,Delhi,Cochin,DEL → HYD → COK,08:35,22:20,13h 45m,1 stop,No info,6790
+3965,IndiGo,18/05/2019,Mumbai,Hyderabad,BOM → HYD,06:25,07:55,1h 30m,non-stop,No info,4392
+3973,IndiGo,27/05/2019,Banglore,Delhi,BLR → DEL,06:05,08:50,2h 45m,non-stop,No info,4423
+3982,IndiGo,15/05/2019,Delhi,Cochin,DEL → BOM → COK,07:30,21:00,13h 30m,1 stop,No info,7191
+3989,IndiGo,21/03/2019,Banglore,New Delhi,BLR → HYD → DEL,07:30,12:20,4h 50m,1 stop,No info,5694
+4000,IndiGo,3/06/2019,Banglore,Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,4823
+4002,IndiGo,6/03/2019,Delhi,Cochin,DEL → BBI → COK,02:35,08:30,5h 55m,1 stop,No info,13790
+4006,IndiGo,6/06/2019,Delhi,Cochin,DEL → BOM → COK,08:30,21:00,12h 30m,1 stop,No info,6416
+4007,IndiGo,9/03/2019,Delhi,Cochin,DEL → BOM → COK,16:00,21:00,5h,1 stop,No info,7725
+4020,IndiGo,6/05/2019,Kolkata,Banglore,CCU → BLR,14:25,16:55,2h 30m,non-stop,No info,5224
+4024,IndiGo,6/06/2019,Delhi,Cochin,DEL → BOM → COK,16:00,01:30 07 Jun,9h 30m,1 stop,No info,6316
+4025,IndiGo,21/06/2019,Mumbai,Hyderabad,BOM → HYD,16:55,18:25,1h 30m,non-stop,No info,4392
+4035,IndiGo,27/05/2019,Mumbai,Hyderabad,BOM → HYD,12:00,13:30,1h 30m,non-stop,No info,2754
+4036,IndiGo,3/06/2019,Delhi,Cochin,DEL → BLR → COK,05:10,10:05,4h 55m,1 stop,No info,6842
+4051,IndiGo,21/03/2019,Delhi,Cochin,DEL → MAA → COK,02:05,07:25,5h 20m,1 stop,No info,4862
+4059,IndiGo,12/05/2019,Banglore,Delhi,BLR → DEL,18:55,21:50,2h 55m,non-stop,No info,4823
+4065,IndiGo,21/03/2019,Banglore,New Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,6860
+4071,IndiGo,9/04/2019,Kolkata,Banglore,CCU → BLR,21:25,00:05 10 Apr,2h 40m,non-stop,No info,4174
+4073,IndiGo,24/05/2019,Kolkata,Banglore,CCU → PAT → BLR,09:20,14:15,4h 55m,1 stop,No info,9376
+4081,IndiGo,6/06/2019,Delhi,Cochin,DEL → HYD → COK,06:50,22:30,15h 40m,1 stop,No info,6674
+4082,IndiGo,3/03/2019,Delhi,Cochin,DEL → HYD → COK,08:35,16:10,7h 35m,1 stop,No info,7663
+4090,IndiGo,15/06/2019,Delhi,Cochin,DEL → BLR → COK,02:00,07:45,5h 45m,1 stop,No info,6386
+4094,IndiGo,21/03/2019,Delhi,Cochin,DEL → TRV → COK,21:05,01:45 22 Mar,4h 40m,1 stop,No info,5947
+4098,IndiGo,6/06/2019,Mumbai,Hyderabad,BOM → HYD,06:25,07:55,1h 30m,non-stop,No info,4049
+4101,IndiGo,6/05/2019,Banglore,Delhi,BLR → DEL,21:15,00:15 07 May,3h,non-stop,No info,3943
+4104,IndiGo,18/06/2019,Banglore,Delhi,BLR → DEL,22:10,01:00 19 Jun,2h 50m,non-stop,No info,3419
+4109,IndiGo,1/03/2019,Delhi,Cochin,DEL → HYD → MAA → COK,04:55,21:20,16h 25m,2 stops,No info,10278
+4110,IndiGo,15/04/2019,Delhi,Cochin,DEL → HYD → COK,06:50,16:10,9h 20m,1 stop,No info,6442
+4113,IndiGo,27/05/2019,Chennai,Kolkata,MAA → CCU,13:15,15:35,2h 20m,non-stop,No info,3597
+4134,IndiGo,18/04/2019,Banglore,Delhi,BLR → DEL,08:30,11:20,2h 50m,non-stop,No info,5740
+4140,IndiGo,9/03/2019,Chennai,Kolkata,MAA → CCU,11:35,14:00,2h 25m,non-stop,No info,6297
+4149,IndiGo,9/03/2019,Kolkata,Banglore,CCU → BLR,17:15,19:55,2h 40m,non-stop,No info,4778
+4151,IndiGo,15/04/2019,Delhi,Cochin,DEL → HYD → COK,08:35,16:10,7h 35m,1 stop,No info,6442
+4155,IndiGo,9/05/2019,Mumbai,Hyderabad,BOM → HYD,16:55,18:25,1h 30m,non-stop,No info,4784
+4162,IndiGo,18/06/2019,Kolkata,Banglore,CCU → BLR,21:25,00:05 19 Jun,2h 40m,non-stop,No info,4804
+4164,IndiGo,3/05/2019,Banglore,Delhi,BLR → DEL,22:10,01:00 04 May,2h 50m,non-stop,No info,4284
+4166,IndiGo,15/03/2019,Banglore,New Delhi,BLR → HYD → DEL,07:30,12:20,4h 50m,1 stop,No info,6114
+4168,IndiGo,6/03/2019,Delhi,Cochin,DEL → BOM → COK,04:45,15:30,10h 45m,1 stop,No info,13611
+4172,IndiGo,21/05/2019,Delhi,Cochin,DEL → BOM → COK,04:55,11:50,6h 55m,1 stop,No info,6794
+4186,IndiGo,27/06/2019,Delhi,Cochin,DEL → HYD → COK,16:10,22:30,6h 20m,1 stop,No info,6412
+4188,IndiGo,1/04/2019,Mumbai,Hyderabad,BOM → HYD,21:20,22:50,1h 30m,non-stop,No info,2227
+4207,IndiGo,3/03/2019,Kolkata,Banglore,CCU → BLR,09:35,12:20,2h 45m,non-stop,No info,6565
+4210,IndiGo,6/03/2019,Mumbai,Hyderabad,BOM → HYD,02:30,04:00,1h 30m,non-stop,No info,3175
+4215,IndiGo,9/05/2019,Kolkata,Banglore,CCU → BLR,09:35,12:20,2h 45m,non-stop,No info,4804
+4216,IndiGo,3/03/2019,Delhi,Cochin,DEL → HYD → COK,06:40,12:00,5h 20m,1 stop,No info,9304
+4217,IndiGo,15/04/2019,Banglore,Delhi,BLR → DEL,21:15,00:15 16 Apr,3h,non-stop,No info,3943
+4218,IndiGo,1/06/2019,Delhi,Cochin,DEL → BLR → COK,17:05,22:25,5h 20m,1 stop,No info,7060
+4229,IndiGo,18/05/2019,Kolkata,Banglore,CCU → HYD → BLR,15:15,20:05,4h 50m,1 stop,No info,4775
+4230,IndiGo,3/05/2019,Banglore,Delhi,BLR → DEL,18:55,21:50,2h 55m,non-stop,No info,4823
+4232,IndiGo,15/06/2019,Delhi,Cochin,DEL → BOM → COK,10:35,01:30 16 Jun,14h 55m,1 stop,No info,5883
+4242,IndiGo,6/06/2019,Mumbai,Hyderabad,BOM → HYD,09:15,10:45,1h 30m,non-stop,No info,4049
+4248,IndiGo,15/05/2019,Kolkata,Banglore,CCU → BLR,15:30,18:05,2h 35m,non-stop,No info,4804
+4249,IndiGo,24/06/2019,Delhi,Cochin,DEL → BOM → COK,17:30,01:30 25 Jun,8h,1 stop,No info,6104
+4251,IndiGo,9/05/2019,Delhi,Cochin,DEL → BLR → COK,17:05,22:25,5h 20m,1 stop,No info,6027
+4253,IndiGo,21/05/2019,Delhi,Cochin,DEL → BOM → COK,10:35,01:30 22 May,14h 55m,1 stop,No info,6794
+4256,IndiGo,21/05/2019,Delhi,Cochin,DEL → BOM → COK,15:00,01:30 22 May,10h 30m,1 stop,No info,6896
+4257,IndiGo,21/03/2019,Banglore,New Delhi,BLR → DEL,18:25,21:20,2h 55m,non-stop,No info,6144
+4263,IndiGo,12/05/2019,Mumbai,Hyderabad,BOM → HYD,19:05,20:35,1h 30m,non-stop,No info,2754
+4266,IndiGo,15/04/2019,Banglore,Delhi,BLR → DEL,00:30,03:25,2h 55m,non-stop,No info,4284
+4268,IndiGo,15/06/2019,Banglore,Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,3419
+4275,IndiGo,12/05/2019,Banglore,Delhi,BLR → DEL,06:05,08:50,2h 45m,non-stop,No info,4423
+4284,IndiGo,1/03/2019,Mumbai,Hyderabad,BOM → HYD,06:20,07:45,1h 25m,non-stop,No info,17501
+4289,IndiGo,3/06/2019,Delhi,Cochin,DEL → HYD → COK,08:35,16:10,7h 35m,1 stop,No info,6442
+4290,IndiGo,24/06/2019,Kolkata,Banglore,CCU → BLR,09:35,12:20,2h 45m,non-stop,No info,4804
+4291,IndiGo,1/04/2019,Banglore,Delhi,BLR → DEL,08:30,11:20,2h 50m,non-stop,No info,4823
+4296,IndiGo,24/03/2019,Mumbai,Hyderabad,BOM → HYD,02:30,04:00,1h 30m,non-stop,No info,2754
+4302,IndiGo,12/06/2019,Kolkata,Banglore,CCU → BLR,11:30,14:05,2h 35m,non-stop,No info,4804
+4310,IndiGo,27/06/2019,Delhi,Cochin,DEL → BOM → COK,07:30,21:00,13h 30m,1 stop,No info,6093
+4318,IndiGo,15/05/2019,Delhi,Cochin,DEL → HYD → COK,05:05,12:10,7h 5m,1 stop,No info,6818
+4319,IndiGo,9/03/2019,Chennai,Kolkata,MAA → CCU,05:15,07:35,2h 20m,non-stop,No info,6482
+4334,IndiGo,6/06/2019,Chennai,Kolkata,MAA → CCU,05:15,07:40,2h 25m,non-stop,No info,3540
+4337,IndiGo,09/03/2019,Banglore,New Delhi,BLR → MAA → DEL,06:25,11:30,5h 5m,1 stop,No info,8434
+4348,IndiGo,27/05/2019,Kolkata,Banglore,CCU → BLR,14:25,16:55,2h 30m,non-stop,No info,5224
+4349,IndiGo,6/04/2019,Banglore,Delhi,BLR → DEL,18:55,21:50,2h 55m,non-stop,No info,4823
+4350,IndiGo,3/03/2019,Delhi,Cochin,DEL → BOM → COK,04:45,15:30,10h 45m,1 stop,No info,14871
+4352,IndiGo,3/05/2019,Kolkata,Banglore,CCU → BLR,11:30,14:05,2h 35m,non-stop,No info,5224
+4354,IndiGo,27/06/2019,Mumbai,Hyderabad,BOM → HYD,19:05,20:35,1h 30m,non-stop,No info,2754
+4355,IndiGo,1/06/2019,Mumbai,Hyderabad,BOM → HYD,20:05,21:40,1h 35m,non-stop,No info,2227
+4360,IndiGo,3/04/2019,Banglore,Delhi,BLR → DEL,23:30,02:20 04 Apr,2h 50m,non-stop,No info,4591
+4361,IndiGo,1/04/2019,Kolkata,Banglore,CCU → PNQ → BLR,21:00,02:15 02 Apr,5h 15m,1 stop,No info,5930
+4365,IndiGo,18/06/2019,Banglore,Delhi,BLR → DEL,08:30,11:20,2h 50m,non-stop,No info,4823
+4370,IndiGo,12/06/2019,Banglore,Delhi,BLR → DEL,13:00,15:50,2h 50m,non-stop,No info,3943
+4371,IndiGo,21/03/2019,Banglore,New Delhi,BLR → DEL,00:40,03:25,2h 45m,non-stop,No info,4944
+4374,IndiGo,3/06/2019,Delhi,Cochin,DEL → HYD → COK,07:35,16:10,8h 35m,1 stop,No info,7514
+4379,IndiGo,3/06/2019,Delhi,Cochin,DEL → BLR → COK,17:05,22:25,5h 20m,1 stop,No info,6493
+4392,IndiGo,21/03/2019,Delhi,Cochin,DEL → HYD → COK,16:10,22:20,6h 10m,1 stop,No info,6528
+4395,IndiGo,15/04/2019,Delhi,Cochin,DEL → HYD → COK,06:50,12:10,5h 20m,1 stop,No info,5761
+4403,IndiGo,15/03/2019,Delhi,Cochin,DEL → COK,14:30,17:35,3h 5m,non-stop,No info,5895
+4409,IndiGo,27/05/2019,Mumbai,Hyderabad,BOM → HYD,09:10,10:40,1h 30m,non-stop,No info,4049
+4424,IndiGo,6/05/2019,Delhi,Cochin,DEL → HYD → COK,14:20,22:30,8h 10m,1 stop,No info,7054
+4432,IndiGo,3/05/2019,Kolkata,Banglore,CCU → BLR,21:25,00:05 04 May,2h 40m,non-stop,No info,4804
+4434,IndiGo,1/04/2019,Mumbai,Hyderabad,BOM → HYD,16:55,18:25,1h 30m,non-stop,No info,3175
+4441,IndiGo,15/05/2019,Banglore,Delhi,BLR → DEL,13:00,15:50,2h 50m,non-stop,No info,3943
+4449,IndiGo,9/05/2019,Banglore,Delhi,BLR → DEL,10:10,13:00,2h 50m,non-stop,No info,3943
+4456,IndiGo,6/06/2019,Chennai,Kolkata,MAA → CCU,13:15,15:35,2h 20m,non-stop,No info,3597
+4458,IndiGo,21/05/2019,Chennai,Kolkata,MAA → CCU,22:05,00:25 22 May,2h 20m,non-stop,No info,5277
+4459,IndiGo,27/06/2019,Banglore,Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,4823
+4460,IndiGo,3/03/2019,Delhi,Cochin,DEL → HYD → MAA → COK,08:35,21:20,12h 45m,2 stops,No info,8049
+4464,IndiGo,12/06/2019,Delhi,Cochin,DEL → BLR → COK,05:10,10:05,4h 55m,1 stop,No info,6496
+4468,IndiGo,9/05/2019,Banglore,Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,3943
+4474,IndiGo,3/03/2019,Delhi,Cochin,DEL → BLR → COK,05:05,10:05,5h,1 stop,No info,9581
+4475,IndiGo,15/05/2019,Kolkata,Banglore,CCU → BLR,21:25,00:05 16 May,2h 40m,non-stop,No info,4804
+4478,IndiGo,27/06/2019,Delhi,Cochin,DEL → HYD → COK,08:35,16:10,7h 35m,1 stop,No info,6442
+4485,IndiGo,21/03/2019,Delhi,Cochin,DEL → HYD → COK,06:40,12:00,5h 20m,1 stop,No info,5761
+4493,IndiGo,6/04/2019,Kolkata,Banglore,CCU → BLR,22:15,00:50 07 Apr,2h 35m,non-stop,No info,4174
+4495,IndiGo,27/05/2019,Delhi,Cochin,DEL → COK,21:05,00:20 28 May,3h 15m,non-stop,No info,5601
+4496,IndiGo,3/04/2019,Banglore,Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,3419
+4505,IndiGo,21/06/2019,Kolkata,Banglore,CCU → BLR,21:25,00:05 22 Jun,2h 40m,non-stop,No info,4804
+4507,IndiGo,1/03/2019,Kolkata,Banglore,CCU → BLR,20:25,23:05,2h 40m,non-stop,No info,4778
+4509,IndiGo,1/06/2019,Chennai,Kolkata,MAA → CCU,05:15,07:40,2h 25m,non-stop,No info,3540
+4510,IndiGo,27/06/2019,Delhi,Cochin,DEL → HYD → COK,08:35,22:30,13h 55m,1 stop,No info,6442
+4512,IndiGo,9/06/2019,Kolkata,Banglore,CCU → BLR,14:25,16:55,2h 30m,non-stop,No info,5644
+4513,IndiGo,3/05/2019,Kolkata,Banglore,CCU → BLR,14:25,16:55,2h 30m,non-stop,No info,5224
+4518,IndiGo,15/03/2019,Banglore,New Delhi,BLR → IDR → DEL,13:40,18:35,4h 55m,1 stop,No info,7166
+4528,IndiGo,6/03/2019,Chennai,Kolkata,MAA → CCU,14:40,17:05,2h 25m,non-stop,No info,7295
+4551,IndiGo,6/05/2019,Kolkata,Banglore,CCU → BLR,04:40,07:15,2h 35m,non-stop,No info,4804
+4557,IndiGo,3/03/2019,Delhi,Cochin,DEL → BOM → COK,10:45,15:30,4h 45m,1 stop,No info,7725
+4560,IndiGo,1/03/2019,Kolkata,Banglore,CCU → BLR,14:20,16:55,2h 35m,non-stop,No info,6565
+4569,IndiGo,3/03/2019,Delhi,Cochin,DEL → MAA → COK,07:20,12:30,5h 10m,1 stop,No info,12214
+4579,IndiGo,15/06/2019,Delhi,Cochin,DEL → BLR → COK,15:10,20:00,4h 50m,1 stop,No info,6147
+4587,IndiGo,3/03/2019,Delhi,Cochin,DEL → COK,14:30,17:35,3h 5m,non-stop,No info,7673
+4590,IndiGo,24/04/2019,Kolkata,Banglore,CCU → BLR,15:30,18:05,2h 35m,non-stop,No info,4804
+4594,IndiGo,6/04/2019,Banglore,Delhi,BLR → DEL,16:55,19:55,3h,non-stop,No info,4823
+4597,IndiGo,6/06/2019,Delhi,Cochin,DEL → HYD → COK,07:35,16:10,8h 35m,1 stop,No info,6674
+4601,IndiGo,1/05/2019,Kolkata,Banglore,CCU → MAA → BLR,08:10,13:00,4h 50m,1 stop,No info,5069
+4616,IndiGo,21/06/2019,Banglore,Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,3943
+4623,IndiGo,21/06/2019,Mumbai,Hyderabad,BOM → HYD,19:05,20:35,1h 30m,non-stop,No info,4049
+4626,IndiGo,6/03/2019,Delhi,Cochin,DEL → COK,05:35,08:50,3h 15m,non-stop,No info,7673
+4631,IndiGo,9/03/2019,Delhi,Cochin,DEL → BOM → COK,16:00,01:35 10 Mar,9h 35m,1 stop,No info,13611
+4634,IndiGo,1/04/2019,Banglore,Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,4823
+4638,IndiGo,12/04/2019,Banglore,Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,4591
+4640,IndiGo,21/03/2019,Mumbai,Hyderabad,BOM → HYD,02:30,04:00,1h 30m,non-stop,No info,3603
+4641,IndiGo,1/05/2019,Kolkata,Banglore,CCU → BLR,15:30,18:05,2h 35m,non-stop,No info,4804
+4642,IndiGo,21/05/2019,Banglore,Delhi,BLR → DEL,18:25,21:20,2h 55m,non-stop,No info,4823
+4652,IndiGo,15/05/2019,Chennai,Kolkata,MAA → CCU,19:35,21:55,2h 20m,non-stop,No info,3597
+4654,IndiGo,6/06/2019,Banglore,Delhi,BLR → DEL,08:30,11:20,2h 50m,non-stop,No info,4823
+4666,IndiGo,18/04/2019,Banglore,Delhi,BLR → DEL,18:55,21:50,2h 55m,non-stop,No info,5780
+4668,IndiGo,01/03/2019,Banglore,New Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,11934
+4670,IndiGo,6/03/2019,Delhi,Cochin,DEL → BOM → COK,18:35,01:35 07 Mar,7h,1 stop,No info,14871
+4674,IndiGo,9/06/2019,Delhi,Cochin,DEL → HYD → COK,05:05,16:10,11h 5m,1 stop,No info,6600
+4675,IndiGo,6/06/2019,Kolkata,Banglore,CCU → PAT → BLR,09:20,14:15,4h 55m,1 stop,No info,11160
+4679,IndiGo,12/05/2019,Delhi,Cochin,DEL → COK,21:05,00:20 13 May,3h 15m,non-stop,No info,8626
+4688,IndiGo,24/03/2019,Banglore,New Delhi,BLR → DEL,21:20,00:15 25 Mar,2h 55m,non-stop,No info,6144
+4693,IndiGo,15/05/2019,Delhi,Cochin,DEL → BOM → COK,09:15,01:30 16 May,16h 15m,1 stop,No info,7503
+4703,IndiGo,9/06/2019,Kolkata,Banglore,CCU → BLR,20:20,22:55,2h 35m,non-stop,No info,4804
+4707,IndiGo,6/06/2019,Banglore,Delhi,BLR → DEL,20:00,22:50,2h 50m,non-stop,No info,4823
+4713,IndiGo,21/03/2019,Delhi,Cochin,DEL → HYD → COK,06:40,16:10,9h 30m,1 stop,No info,6558
+4717,IndiGo,9/05/2019,Delhi,Cochin,DEL → COK,05:35,08:50,3h 15m,non-stop,No info,5000
+4720,IndiGo,27/03/2019,Delhi,Cochin,DEL → BOM → COK,04:45,13:20,8h 35m,1 stop,No info,7048
+4724,IndiGo,1/06/2019,Mumbai,Hyderabad,BOM → HYD,09:15,10:45,1h 30m,non-stop,No info,4049
+4730,IndiGo,18/04/2019,Kolkata,Banglore,CCU → BLR,21:25,00:05 19 Apr,2h 40m,non-stop,No info,4174
+4731,IndiGo,12/06/2019,Chennai,Kolkata,MAA → CCU,05:15,07:40,2h 25m,non-stop,No info,3540
+4734,IndiGo,18/03/2019,Mumbai,Hyderabad,BOM → HYD,06:20,07:45,1h 25m,non-stop,No info,3342
+4742,IndiGo,9/03/2019,Delhi,Cochin,DEL → HYD → COK,07:35,16:10,8h 35m,1 stop,No info,6674
+4743,IndiGo,9/05/2019,Delhi,Cochin,DEL → BOM → COK,17:30,01:30 10 May,8h,1 stop,No info,8330
+4749,IndiGo,18/06/2019,Chennai,Kolkata,MAA → CCU,22:05,00:25 19 Jun,2h 20m,non-stop,No info,5277
+4767,IndiGo,9/05/2019,Mumbai,Hyderabad,BOM → HYD,19:05,20:35,1h 30m,non-stop,No info,4392
+4770,IndiGo,27/06/2019,Delhi,Cochin,DEL → BOM → COK,18:35,01:30 28 Jun,6h 55m,1 stop,No info,5883
+4773,IndiGo,1/06/2019,Kolkata,Banglore,CCU → BLR,21:25,00:05 02 Jun,2h 40m,non-stop,No info,4804
+4777,IndiGo,12/06/2019,Kolkata,Banglore,CCU → BLR,09:35,12:20,2h 45m,non-stop,No info,4804
+4788,IndiGo,6/03/2019,Delhi,Cochin,DEL → HYD → COK,04:55,16:10,11h 15m,1 stop,No info,6171
+4794,IndiGo,24/03/2019,Banglore,New Delhi,BLR → DEL,10:10,13:00,2h 50m,non-stop,No info,4777
+4799,IndiGo,27/04/2019,Banglore,Delhi,BLR → DEL,10:30,13:20,2h 50m,non-stop,No info,4423
+4808,IndiGo,09/03/2019,Banglore,New Delhi,BLR → DEL,08:30,11:30,3h,non-stop,No info,7648
+4812,IndiGo,18/03/2019,Banglore,New Delhi,BLR → HYD → DEL,16:55,21:50,4h 55m,1 stop,No info,4049
+4816,IndiGo,21/03/2019,Delhi,Cochin,DEL → BOM → COK,07:30,15:30,8h,1 stop,No info,10208
+4826,IndiGo,15/04/2019,Delhi,Cochin,DEL → BOM → COK,16:00,21:00,5h,1 stop,No info,5947
+4830,IndiGo,24/03/2019,Kolkata,Banglore,CCU → HYD → BLR,15:10,19:50,4h 40m,1 stop,No info,7476
+4840,IndiGo,27/03/2019,Delhi,Cochin,DEL → MAA → COK,02:05,07:25,5h 20m,1 stop,No info,4744
+4843,IndiGo,15/03/2019,Kolkata,Banglore,CCU → BLR,20:25,23:05,2h 40m,non-stop,No info,4462
+4850,IndiGo,12/04/2019,Banglore,Delhi,BLR → DEL,21:15,00:15 13 Apr,3h,non-stop,No info,4990
+4852,IndiGo,27/03/2019,Delhi,Cochin,DEL → BLR → COK,02:00,07:45,5h 45m,1 stop,No info,5733
+4855,IndiGo,3/05/2019,Banglore,Delhi,BLR → DEL,20:00,22:50,2h 50m,non-stop,No info,4823
+4856,IndiGo,9/05/2019,Delhi,Cochin,DEL → BOM → COK,04:55,21:00,16h 5m,1 stop,No info,6979
+4860,IndiGo,27/05/2019,Delhi,Cochin,DEL → HYD → COK,05:05,16:10,11h 5m,1 stop,No info,6600
+4862,IndiGo,21/03/2019,Kolkata,Banglore,CCU → BLR,10:10,12:55,2h 45m,non-stop,No info,5198
+4864,IndiGo,27/03/2019,Mumbai,Hyderabad,BOM → HYD,19:05,20:30,1h 25m,non-stop,No info,2754
+4866,IndiGo,9/05/2019,Delhi,Cochin,DEL → BOM → COK,20:25,01:30 10 May,5h 5m,1 stop,No info,7255
+4876,IndiGo,9/06/2019,Delhi,Cochin,DEL → BLR → COK,02:00,07:45,5h 45m,1 stop,No info,6386
+4880,IndiGo,27/03/2019,Delhi,Cochin,DEL → BOM → COK,07:30,13:20,5h 50m,1 stop,No info,8227
+4888,IndiGo,15/04/2019,Banglore,Delhi,BLR → DEL,22:10,01:00 16 Apr,2h 50m,non-stop,No info,3943
+4892,IndiGo,1/05/2019,Kolkata,Banglore,CCU → HYD → BLR,15:15,20:05,4h 50m,1 stop,No info,4775
+4898,IndiGo,21/06/2019,Kolkata,Banglore,CCU → BLR,11:30,14:05,2h 35m,non-stop,No info,4804
+4899,IndiGo,6/05/2019,Kolkata,Banglore,CCU → PNQ → BLR,21:00,02:15 07 May,5h 15m,1 stop,No info,7252
+4900,IndiGo,3/06/2019,Delhi,Cochin,DEL → HYD → COK,07:35,12:10,4h 35m,1 stop,No info,6069
+4902,IndiGo,18/05/2019,Chennai,Kolkata,MAA → CCU,15:40,18:25,2h 45m,non-stop,No info,3850
+4910,IndiGo,21/03/2019,Delhi,Cochin,DEL → BOM → COK,15:00,01:35 22 Mar,10h 35m,1 stop,No info,7006
+4911,IndiGo,09/03/2019,Banglore,New Delhi,BLR → HYD → DEL,16:55,21:50,4h 55m,1 stop,No info,4259
+4915,IndiGo,3/04/2019,Kolkata,Banglore,CCU → BLR,17:15,19:50,2h 35m,non-stop,No info,4174
+4922,IndiGo,18/04/2019,Banglore,Delhi,BLR → DEL,18:25,21:20,2h 55m,non-stop,No info,4990
+4923,IndiGo,24/03/2019,Kolkata,Banglore,CCU → BLR,22:10,00:55 25 Mar,2h 45m,non-stop,No info,6985
+4924,IndiGo,3/04/2019,Banglore,Delhi,BLR → DEL,16:55,19:55,3h,non-stop,No info,4823
+4928,IndiGo,3/06/2019,Delhi,Cochin,DEL → HYD → COK,05:05,16:10,11h 5m,1 stop,No info,6818
+4944,IndiGo,9/04/2019,Delhi,Cochin,DEL → BOM → COK,18:35,01:30 10 Apr,6h 55m,1 stop,No info,6573
+4947,IndiGo,27/06/2019,Banglore,Delhi,BLR → DEL,23:30,02:20 28 Jun,2h 50m,non-stop,No info,3943
+4949,IndiGo,24/03/2019,Banglore,New Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,6860
+4950,IndiGo,12/05/2019,Banglore,Delhi,BLR → DEL,18:25,21:20,2h 55m,non-stop,No info,4823
+4954,IndiGo,6/03/2019,Chennai,Kolkata,MAA → CCU,22:05,00:25 07 Mar,2h 20m,non-stop,No info,5277
+4962,IndiGo,9/05/2019,Delhi,Cochin,DEL → HYD → COK,06:50,22:30,15h 40m,1 stop,No info,6734
+4966,IndiGo,27/03/2019,Chennai,Kolkata,MAA → CCU,07:55,10:15,2h 20m,non-stop,No info,3384
+4968,IndiGo,3/04/2019,Kolkata,Banglore,CCU → HYD → BLR,19:20,23:45,4h 25m,1 stop,No info,3480
+4976,IndiGo,18/05/2019,Kolkata,Banglore,CCU → BLR,04:40,07:15,2h 35m,non-stop,No info,4804
+4977,IndiGo,09/03/2019,Banglore,New Delhi,BLR → HYD → DEL,07:30,12:20,4h 50m,1 stop,No info,5694
+4979,IndiGo,15/06/2019,Banglore,Delhi,BLR → DEL,23:30,02:20 16 Jun,2h 50m,non-stop,No info,4077
+4981,IndiGo,9/05/2019,Kolkata,Banglore,CCU → BLR,11:30,14:05,2h 35m,non-stop,No info,5224
+4982,IndiGo,24/04/2019,Kolkata,Banglore,CCU → BLR,21:25,00:05 25 Apr,2h 40m,non-stop,No info,4804
+5000,IndiGo,15/03/2019,Banglore,New Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,5694
+5008,IndiGo,12/04/2019,Banglore,Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,4823
+5016,IndiGo,1/06/2019,Delhi,Cochin,DEL → BOM → COK,20:25,01:30 02 Jun,5h 5m,1 stop,No info,6593
+5028,IndiGo,12/06/2019,Chennai,Kolkata,MAA → CCU,11:35,14:00,2h 25m,non-stop,No info,3858
+5029,IndiGo,6/04/2019,Kolkata,Banglore,CCU → BLR,15:30,18:05,2h 35m,non-stop,No info,4174
+5031,IndiGo,15/05/2019,Mumbai,Hyderabad,BOM → HYD,16:55,18:25,1h 30m,non-stop,No info,3175
+5032,IndiGo,24/05/2019,Chennai,Kolkata,MAA → CCU,14:45,17:05,2h 20m,non-stop,No info,3858
+5035,IndiGo,21/06/2019,Banglore,Delhi,BLR → DEL,16:55,19:55,3h,non-stop,No info,4990
+5037,IndiGo,09/03/2019,Banglore,New Delhi,BLR → DEL,10:05,13:00,2h 55m,non-stop,No info,6860
+5041,IndiGo,27/06/2019,Banglore,Delhi,BLR → DEL,00:25,03:15,2h 50m,non-stop,No info,3419
+5043,IndiGo,24/03/2019,Kolkata,Banglore,CCU → BLR,17:15,20:00,2h 45m,non-stop,No info,6565
+5054,IndiGo,24/05/2019,Mumbai,Hyderabad,BOM → HYD,12:00,13:30,1h 30m,non-stop,No info,4392
+5057,IndiGo,15/06/2019,Delhi,Cochin,DEL → HYD → COK,08:35,22:30,13h 55m,1 stop,No info,6442
+5063,IndiGo,3/03/2019,Delhi,Cochin,DEL → HYD → MAA → COK,07:35,21:20,13h 45m,2 stops,No info,9413
+5080,IndiGo,18/05/2019,Delhi,Cochin,DEL → HYD → COK,11:55,22:30,10h 35m,1 stop,No info,8216
+5089,IndiGo,12/06/2019,Delhi,Cochin,DEL → BOM → COK,20:25,01:30 13 Jun,5h 5m,1 stop,No info,5058
+5105,IndiGo,27/04/2019,Delhi,Cochin,DEL → HYD → COK,08:35,16:10,7h 35m,1 stop,No info,6442
+5107,IndiGo,21/03/2019,Delhi,Cochin,DEL → HYD → MAA → COK,06:40,21:20,14h 40m,2 stops,No info,6494
+5111,IndiGo,9/05/2019,Kolkata,Banglore,CCU → BLR,20:20,22:55,2h 35m,non-stop,No info,4804
+5112,IndiGo,15/06/2019,Banglore,Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,4823
+5122,IndiGo,24/05/2019,Banglore,Delhi,BLR → DEL,13:00,15:50,2h 50m,non-stop,No info,4990
+5123,IndiGo,24/05/2019,Mumbai,Hyderabad,BOM → HYD,06:25,07:55,1h 30m,non-stop,No info,4049
+5125,IndiGo,6/05/2019,Mumbai,Hyderabad,BOM → HYD,09:10,10:40,1h 30m,non-stop,No info,4049
+5132,IndiGo,12/04/2019,Banglore,Delhi,BLR → DEL,20:00,22:50,2h 50m,non-stop,No info,4990
+5138,IndiGo,21/06/2019,Chennai,Kolkata,MAA → CCU,22:05,00:25 22 Jun,2h 20m,non-stop,No info,5277
+5140,IndiGo,9/04/2019,Kolkata,Banglore,CCU → BLR,17:15,19:50,2h 35m,non-stop,No info,4174
+5155,IndiGo,12/05/2019,Kolkata,Banglore,CCU → BLR,20:20,22:55,2h 35m,non-stop,No info,4804
+5156,IndiGo,3/03/2019,Delhi,Cochin,DEL → BOM → COK,07:30,13:20,5h 50m,1 stop,No info,13628
+5163,IndiGo,1/06/2019,Delhi,Cochin,DEL → BOM → COK,17:10,01:30 02 Jun,8h 20m,1 stop,No info,6628
+5166,IndiGo,15/06/2019,Delhi,Cochin,DEL → BLR → COK,05:10,10:05,4h 55m,1 stop,No info,7010
+5168,IndiGo,09/03/2019,Banglore,New Delhi,BLR → DEL,13:10,16:10,3h,non-stop,No info,8033
+5170,IndiGo,9/06/2019,Kolkata,Banglore,CCU → PNQ → BLR,21:00,02:15 10 Jun,5h 15m,1 stop,No info,6911
+5173,IndiGo,24/05/2019,Banglore,Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,3943
+5175,IndiGo,6/03/2019,Delhi,Cochin,DEL → BOM → COK,11:30,21:00,9h 30m,1 stop,No info,14871
+5180,IndiGo,12/04/2019,Kolkata,Banglore,CCU → BLR,11:30,14:05,2h 35m,non-stop,No info,4174
+5181,IndiGo,9/06/2019,Banglore,Delhi,BLR → DEL,16:55,19:45,2h 50m,non-stop,No info,4823
+5187,IndiGo,12/04/2019,Banglore,Delhi,BLR → DEL,08:30,11:20,2h 50m,non-stop,No info,4823
+5195,IndiGo,15/05/2019,Delhi,Cochin,DEL → HYD → COK,05:05,16:10,11h 5m,1 stop,No info,6818
+5200,IndiGo,18/05/2019,Kolkata,Banglore,CCU → BBI → BLR,19:35,23:15,3h 40m,1 stop,No info,4226
+5208,IndiGo,18/04/2019,Kolkata,Banglore,CCU → BLR,11:30,14:05,2h 35m,non-stop,No info,5224
+5213,IndiGo,3/04/2019,Banglore,Delhi,BLR → DEL,18:55,21:50,2h 55m,non-stop,No info,4823
+5216,IndiGo,27/06/2019,Mumbai,Hyderabad,BOM → HYD,12:00,13:30,1h 30m,non-stop,No info,2754
+5218,IndiGo,9/03/2019,Delhi,Cochin,DEL → TRV → COK,21:05,01:45 10 Mar,4h 40m,1 stop,No info,6937
+5224,IndiGo,18/03/2019,Mumbai,Hyderabad,BOM → HYD,21:20,22:45,1h 25m,non-stop,No info,2227
+5228,IndiGo,18/03/2019,Mumbai,Hyderabad,BOM → HYD,02:30,04:00,1h 30m,non-stop,No info,2754
+5235,IndiGo,27/04/2019,Kolkata,Banglore,CCU → BLR,22:15,00:50 28 Apr,2h 35m,non-stop,No info,4804
+5243,IndiGo,03/03/2019,Banglore,New Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,6860
+5249,IndiGo,24/06/2019,Kolkata,Banglore,CCU → BLR,14:25,16:55,2h 30m,non-stop,No info,4804
+5251,IndiGo,27/03/2019,Delhi,Cochin,DEL → BOM → COK,11:30,21:00,9h 30m,1 stop,No info,6416
+5262,IndiGo,12/06/2019,Delhi,Cochin,DEL → HYD → COK,08:35,22:30,13h 55m,1 stop,No info,6442
+5264,IndiGo,1/04/2019,Delhi,Cochin,DEL → HYD → COK,06:50,12:10,5h 20m,1 stop,No info,5298
+5267,IndiGo,12/05/2019,Kolkata,Banglore,CCU → HYD → BLR,04:50,09:50,5h,1 stop,No info,4176
+5268,IndiGo,15/06/2019,Delhi,Cochin,DEL → BOM → COK,11:25,01:30 16 Jun,14h 5m,1 stop,No info,5883
+5270,IndiGo,12/05/2019,Chennai,Kolkata,MAA → CCU,07:55,10:15,2h 20m,non-stop,No info,3850
+5271,IndiGo,27/05/2019,Chennai,Kolkata,MAA → CCU,19:35,21:55,2h 20m,non-stop,No info,3597
+5281,IndiGo,24/06/2019,Delhi,Cochin,DEL → HYD → COK,11:55,22:30,10h 35m,1 stop,No info,6442
+5282,IndiGo,6/06/2019,Delhi,Cochin,DEL → BOM → COK,09:15,21:00,11h 45m,1 stop,No info,6838
+5290,IndiGo,1/05/2019,Kolkata,Banglore,CCU → BLR,22:15,00:50 02 May,2h 35m,non-stop,No info,4804
+5292,IndiGo,24/05/2019,Delhi,Cochin,DEL → HYD → COK,14:20,22:30,8h 10m,1 stop,No info,7640
+5300,IndiGo,21/05/2019,Banglore,Delhi,BLR → DEL,22:10,01:00 22 May,2h 50m,non-stop,No info,3625
+5301,IndiGo,21/05/2019,Banglore,Delhi,BLR → DEL,00:30,03:25,2h 55m,non-stop,No info,3419
+5302,IndiGo,24/05/2019,Chennai,Kolkata,MAA → CCU,05:15,07:40,2h 25m,non-stop,No info,3850
+5305,IndiGo,3/06/2019,Delhi,Cochin,DEL → BOM → COK,17:10,01:30 04 Jun,8h 20m,1 stop,No info,6104
+5306,IndiGo,21/06/2019,Banglore,Delhi,BLR → DEL,21:15,00:15 22 Jun,3h,non-stop,No info,3943
+5307,IndiGo,3/06/2019,Delhi,Cochin,DEL → HYD → COK,06:50,16:10,9h 20m,1 stop,No info,7514
+5312,IndiGo,1/04/2019,Banglore,Delhi,BLR → DEL,00:30,03:25,2h 55m,non-stop,No info,4423
+5316,IndiGo,3/06/2019,Mumbai,Hyderabad,BOM → HYD,06:25,07:55,1h 30m,non-stop,No info,4049
+5317,IndiGo,24/03/2019,Kolkata,Banglore,CCU → BLR,14:20,16:55,2h 35m,non-stop,No info,5618
+5342,IndiGo,27/04/2019,Banglore,Delhi,BLR → DEL,13:00,15:50,2h 50m,non-stop,No info,4423
+5368,IndiGo,9/04/2019,Banglore,Delhi,BLR → DEL,21:15,00:15 10 Apr,3h,non-stop,No info,3943
+5378,IndiGo,27/03/2019,Delhi,Cochin,DEL → HYD → COK,06:40,22:20,15h 40m,1 stop,No info,6442
+5381,IndiGo,3/04/2019,Mumbai,Hyderabad,BOM → HYD,12:00,13:30,1h 30m,non-stop,No info,2754
+5384,IndiGo,9/05/2019,Delhi,Cochin,DEL → BOM → COK,10:35,01:30 10 May,14h 55m,1 stop,No info,8330
+5388,IndiGo,1/03/2019,Mumbai,Hyderabad,BOM → HYD,02:30,04:00,1h 30m,non-stop,No info,16000
+5399,IndiGo,21/03/2019,Chennai,Kolkata,MAA → CCU,11:35,14:00,2h 25m,non-stop,No info,3858
+5400,IndiGo,27/06/2019,Delhi,Cochin,DEL → HYD → COK,14:20,22:30,8h 10m,1 stop,No info,6412
+5404,IndiGo,03/03/2019,Banglore,New Delhi,BLR → DEL,18:25,21:20,2h 55m,non-stop,No info,8855
+5412,IndiGo,15/05/2019,Banglore,Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,3943
+5424,IndiGo,6/05/2019,Banglore,Delhi,BLR → DEL,08:30,11:20,2h 50m,non-stop,No info,4823
+5425,IndiGo,12/05/2019,Chennai,Kolkata,MAA → CCU,22:05,00:25 13 May,2h 20m,non-stop,No info,5277
+5430,IndiGo,3/05/2019,Banglore,Delhi,BLR → DEL,06:05,08:50,2h 45m,non-stop,No info,3943
+5431,IndiGo,15/05/2019,Banglore,Delhi,BLR → DEL,21:15,00:15 16 May,3h,non-stop,No info,3943
+5438,IndiGo,12/06/2019,Delhi,Cochin,DEL → COK,21:05,00:20 13 Jun,3h 15m,non-stop,No info,6015
+5440,IndiGo,27/03/2019,Delhi,Cochin,DEL → BOM → COK,20:30,01:35 28 Mar,5h 5m,1 stop,No info,5073
+5441,IndiGo,21/03/2019,Chennai,Kolkata,MAA → CCU,05:15,07:35,2h 20m,non-stop,No info,4326
+5445,IndiGo,15/06/2019,Banglore,Delhi,BLR → DEL,13:00,15:50,2h 50m,non-stop,No info,3943
+5448,IndiGo,3/04/2019,Kolkata,Banglore,CCU → BLR,11:30,14:05,2h 35m,non-stop,No info,4174
+5452,IndiGo,3/04/2019,Delhi,Cochin,DEL → BOM → COK,10:35,15:35,5h,1 stop,No info,5073
+5460,IndiGo,12/06/2019,Chennai,Kolkata,MAA → CCU,14:45,17:05,2h 20m,non-stop,No info,3597
+5473,IndiGo,15/05/2019,Delhi,Cochin,DEL → BOM → COK,17:10,01:30 16 May,8h 20m,1 stop,No info,6979
+5477,IndiGo,6/03/2019,Chennai,Kolkata,MAA → CCU,11:35,14:00,2h 25m,non-stop,No info,7295
+5484,IndiGo,27/05/2019,Delhi,Cochin,DEL → HYD → COK,06:50,12:10,5h 20m,1 stop,No info,5530
+5494,IndiGo,3/06/2019,Kolkata,Banglore,CCU → BLR,04:40,07:15,2h 35m,non-stop,No info,5224
+5495,IndiGo,27/06/2019,Kolkata,Banglore,CCU → BLR,09:35,12:10,2h 35m,non-stop,No info,4804
+5505,IndiGo,21/06/2019,Delhi,Cochin,DEL → COK,14:25,17:40,3h 15m,non-stop,No info,5000
+5511,IndiGo,15/04/2019,Kolkata,Banglore,CCU → BLR,17:15,19:50,2h 35m,non-stop,No info,4174
+5514,IndiGo,24/05/2019,Banglore,Delhi,BLR → DEL,21:15,00:15 25 May,3h,non-stop,No info,3943
+5515,IndiGo,3/06/2019,Delhi,Cochin,DEL → HYD → COK,11:55,22:30,10h 35m,1 stop,No info,6442
+5518,IndiGo,18/06/2019,Kolkata,Banglore,CCU → BLR,04:40,07:15,2h 35m,non-stop,No info,4804
+5521,IndiGo,15/03/2019,Banglore,New Delhi,BLR → DEL,22:20,01:10 16 Mar,2h 50m,non-stop,No info,8855
+5531,IndiGo,21/06/2019,Kolkata,Banglore,CCU → BLR,15:15,17:45,2h 30m,non-stop,No info,4804
+5532,IndiGo,9/03/2019,Delhi,Cochin,DEL → MAA → COK,02:05,07:10,5h 5m,1 stop,No info,10482
+5539,IndiGo,24/03/2019,Kolkata,Banglore,CCU → IXA → BLR,14:30,20:10,5h 40m,1 stop,No info,9413
+5552,IndiGo,3/06/2019,Kolkata,Banglore,CCU → BLR,15:15,17:45,2h 30m,non-stop,No info,4804
+5556,IndiGo,3/03/2019,Kolkata,Banglore,CCU → BLR,22:10,00:55 04 Mar,2h 45m,non-stop,No info,5618
+5557,IndiGo,3/03/2019,Kolkata,Banglore,CCU → BLR,14:20,16:55,2h 35m,non-stop,No info,6565
+5562,IndiGo,24/06/2019,Delhi,Cochin,DEL → HYD → COK,06:50,16:10,9h 20m,1 stop,No info,6442
+5563,IndiGo,24/06/2019,Banglore,Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,4823
+5566,IndiGo,27/04/2019,Banglore,Delhi,BLR → DEL,10:10,13:00,2h 50m,non-stop,No info,4423
+5574,IndiGo,24/06/2019,Delhi,Cochin,DEL → HYD → COK,05:05,16:10,11h 5m,1 stop,No info,6442
+5575,IndiGo,12/05/2019,Kolkata,Banglore,CCU → BLR,21:25,00:05 13 May,2h 40m,non-stop,No info,4804
+5580,IndiGo,15/06/2019,Delhi,Cochin,DEL → BOM → COK,08:30,21:00,12h 30m,1 stop,No info,6416
+5582,IndiGo,21/03/2019,Delhi,Cochin,DEL → BOM → COK,16:00,01:35 22 Mar,9h 35m,1 stop,No info,9264
+5587,IndiGo,1/06/2019,Kolkata,Banglore,CCU → BLR,20:20,22:55,2h 35m,non-stop,No info,4804
+5594,IndiGo,9/03/2019,Kolkata,Banglore,CCU → BLR,20:25,23:05,2h 40m,non-stop,No info,4148
+5596,IndiGo,27/04/2019,Banglore,Delhi,BLR → DEL,22:10,01:00 28 Apr,2h 50m,non-stop,No info,3943
+5600,IndiGo,6/05/2019,Delhi,Cochin,DEL → BOM → COK,11:25,01:30 07 May,14h 5m,1 stop,No info,6979
+5602,IndiGo,1/04/2019,Kolkata,Banglore,CCU → NAG → BLR,18:05,23:30,5h 25m,1 stop,No info,6284
+5603,IndiGo,24/05/2019,Kolkata,Banglore,CCU → BBI → BLR,19:35,23:15,3h 40m,1 stop,No info,4226
+5604,IndiGo,9/03/2019,Delhi,Cochin,DEL → HYD → COK,06:40,16:10,9h 30m,1 stop,No info,6442
+5614,IndiGo,15/06/2019,Mumbai,Hyderabad,BOM → HYD,21:20,22:50,1h 30m,non-stop,No info,2227
+5615,IndiGo,15/05/2019,Delhi,Cochin,DEL → MAA → COK,07:15,12:30,5h 15m,1 stop,No info,5636
+5617,IndiGo,24/06/2019,Delhi,Cochin,DEL → BOM → COK,20:25,01:30 25 Jun,5h 5m,1 stop,No info,5054
+5619,IndiGo,1/05/2019,Banglore,Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,4823
+5627,IndiGo,1/05/2019,Kolkata,Banglore,CCU → HYD → BLR,19:20,23:45,4h 25m,1 stop,No info,3809
+5629,IndiGo,9/06/2019,Kolkata,Banglore,CCU → BLR,22:15,00:50 10 Jun,2h 35m,non-stop,No info,5224
+5630,IndiGo,9/05/2019,Delhi,Cochin,DEL → BOM → COK,17:10,01:30 10 May,8h 20m,1 stop,No info,8330
+5633,IndiGo,21/06/2019,Mumbai,Hyderabad,BOM → HYD,02:35,04:05,1h 30m,non-stop,No info,2754
+5643,IndiGo,1/05/2019,Banglore,Delhi,BLR → DEL,23:30,02:20 02 May,2h 50m,non-stop,No info,4591
+5648,IndiGo,6/04/2019,Delhi,Cochin,DEL → HYD → COK,06:50,12:10,5h 20m,1 stop,No info,5298
+5653,IndiGo,15/05/2019,Mumbai,Hyderabad,BOM → HYD,21:20,22:50,1h 30m,non-stop,No info,2227
+5656,IndiGo,3/06/2019,Delhi,Cochin,DEL → BLR → COK,02:00,07:45,5h 45m,1 stop,No info,6386
+5659,IndiGo,9/04/2019,Delhi,Cochin,DEL → BOM → COK,10:35,01:30 10 Apr,14h 55m,1 stop,No info,6270
+5666,IndiGo,3/04/2019,Delhi,Cochin,DEL → COK,05:35,08:50,3h 15m,non-stop,No info,4729
+5668,IndiGo,15/05/2019,Kolkata,Banglore,CCU → BLR,17:15,19:50,2h 35m,non-stop,No info,4804
+5669,IndiGo,3/06/2019,Kolkata,Banglore,CCU → BLR,20:25,23:10,2h 45m,non-stop,No info,4804
+5674,IndiGo,9/04/2019,Banglore,Delhi,BLR → DEL,18:25,21:20,2h 55m,non-stop,No info,4823
+5677,IndiGo,18/05/2019,Delhi,Cochin,DEL → BOM → COK,06:40,21:00,14h 20m,1 stop,No info,6758
+5683,IndiGo,6/03/2019,Delhi,Cochin,DEL → BOM → COK,09:10,21:00,11h 50m,1 stop,No info,14871
+5685,IndiGo,6/03/2019,Mumbai,Hyderabad,BOM → HYD,21:20,22:45,1h 25m,non-stop,No info,4784
+5686,IndiGo,1/06/2019,Banglore,Delhi,BLR → DEL,20:00,22:50,2h 50m,non-stop,No info,4823
+5692,IndiGo,15/05/2019,Delhi,Cochin,DEL → BOM → COK,04:55,21:00,16h 5m,1 stop,No info,6979
+5693,IndiGo,15/05/2019,Chennai,Kolkata,MAA → CCU,07:55,10:15,2h 20m,non-stop,No info,3850
+5697,IndiGo,1/06/2019,Banglore,Delhi,BLR → DEL,08:30,11:20,2h 50m,non-stop,No info,4823
+5699,IndiGo,3/06/2019,Mumbai,Hyderabad,BOM → HYD,20:05,21:40,1h 35m,non-stop,No info,2227
+5714,IndiGo,9/06/2019,Delhi,Cochin,DEL → BOM → COK,10:35,21:00,10h 25m,1 stop,No info,6314
+5720,IndiGo,3/03/2019,Delhi,Cochin,DEL → BOM → COK,08:25,21:00,12h 35m,1 stop,No info,14871
+5722,IndiGo,24/04/2019,Kolkata,Banglore,CCU → BLR,22:15,00:50 25 Apr,2h 35m,non-stop,No info,4804
+5723,IndiGo,03/03/2019,Banglore,New Delhi,BLR → DEL,20:00,22:55,2h 55m,non-stop,No info,7303
+5726,IndiGo,1/03/2019,Chennai,Kolkata,MAA → CCU,14:40,17:05,2h 25m,non-stop,No info,7295
+5736,IndiGo,1/05/2019,Banglore,Delhi,BLR → DEL,22:10,01:00 02 May,2h 50m,non-stop,No info,3943
+5748,IndiGo,27/05/2019,Delhi,Cochin,DEL → BOM → COK,04:55,21:00,16h 5m,1 stop,No info,8784
+5749,IndiGo,9/05/2019,Delhi,Cochin,DEL → HYD → COK,06:50,12:10,5h 20m,1 stop,No info,5298
+5755,IndiGo,21/05/2019,Kolkata,Banglore,CCU → PNQ → BLR,21:00,02:15 22 May,5h 15m,1 stop,No info,7228
+5756,IndiGo,15/04/2019,Delhi,Cochin,DEL → HYD → COK,05:05,12:10,7h 5m,1 stop,No info,6287
+5758,IndiGo,3/03/2019,Kolkata,Banglore,CCU → BLR,17:15,20:00,2h 45m,non-stop,No info,6985
+5764,IndiGo,6/06/2019,Delhi,Cochin,DEL → BOM → COK,07:30,21:00,13h 30m,1 stop,No info,6093
+5766,IndiGo,18/05/2019,Kolkata,Banglore,CCU → BLR,11:30,14:05,2h 35m,non-stop,No info,4804
+5778,IndiGo,1/06/2019,Delhi,Cochin,DEL → HYD → COK,06:50,12:10,5h 20m,1 stop,No info,5298
+5784,IndiGo,15/03/2019,Delhi,Cochin,DEL → COK,05:35,08:50,3h 15m,non-stop,No info,5406
+5787,IndiGo,9/05/2019,Delhi,Cochin,DEL → MAA → COK,07:15,12:30,5h 15m,1 stop,No info,5636
+5790,IndiGo,12/03/2019,Kolkata,Banglore,CCU → BLR,14:20,16:55,2h 35m,non-stop,No info,4148
+5791,IndiGo,9/05/2019,Delhi,Cochin,DEL → BOM → COK,06:40,21:00,14h 20m,1 stop,No info,7191
+5799,IndiGo,3/06/2019,Banglore,Delhi,BLR → DEL,08:30,11:20,2h 50m,non-stop,No info,4823
+5803,IndiGo,24/03/2019,Banglore,New Delhi,BLR → DEL,23:30,02:20 22 Mar,2h 50m,non-stop,No info,4944
+5813,IndiGo,27/05/2019,Banglore,Delhi,BLR → DEL,10:10,13:00,2h 50m,non-stop,No info,3943
+5815,IndiGo,21/06/2019,Banglore,Delhi,BLR → DEL,18:15,21:20,3h 5m,non-stop,No info,4990
+5828,IndiGo,6/06/2019,Delhi,Cochin,DEL → BLR → COK,17:05,22:25,5h 20m,1 stop,No info,6493
+5837,IndiGo,9/04/2019,Delhi,Cochin,DEL → BOM → COK,07:30,21:00,13h 30m,1 stop,No info,6093
+5846,IndiGo,1/03/2019,Kolkata,Banglore,CCU → BLR,17:15,19:55,2h 40m,non-stop,No info,6565
+5850,IndiGo,01/03/2019,Banglore,New Delhi,BLR → BOM → DEL,19:35,00:35 02 Mar,5h,1 stop,No info,22153
+5860,IndiGo,15/06/2019,Chennai,Kolkata,MAA → CCU,11:35,14:00,2h 25m,non-stop,No info,3858
+5861,IndiGo,15/03/2019,Banglore,New Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,5694
+5869,IndiGo,18/05/2019,Banglore,Delhi,BLR → DEL,13:00,15:50,2h 50m,non-stop,No info,4423
+5871,IndiGo,15/04/2019,Delhi,Cochin,DEL → BLR → COK,17:05,22:15,5h 10m,1 stop,No info,5912
+5875,IndiGo,27/06/2019,Delhi,Cochin,DEL → BLR → COK,15:10,20:00,4h 50m,1 stop,No info,6147
+5877,IndiGo,21/03/2019,Delhi,Cochin,DEL → AMD → COK,07:45,13:40,5h 55m,1 stop,No info,6101
+5887,IndiGo,27/05/2019,Delhi,Cochin,DEL → BOM → COK,09:15,01:30 28 May,16h 15m,1 stop,No info,6628
+5889,IndiGo,27/03/2019,Kolkata,Banglore,CCU → BLR,15:10,17:45,2h 35m,non-stop,No info,4148
+5898,IndiGo,15/03/2019,Chennai,Kolkata,MAA → CCU,07:55,10:15,2h 20m,non-stop,No info,6297
+5901,IndiGo,27/04/2019,Banglore,Delhi,BLR → DEL,06:05,08:50,2h 45m,non-stop,No info,4423
+5903,IndiGo,12/03/2019,Chennai,Kolkata,MAA → CCU,22:05,00:30 13 Mar,2h 25m,non-stop,No info,6297
+5906,IndiGo,12/05/2019,Kolkata,Banglore,CCU → HYD → BLR,19:20,23:45,4h 25m,1 stop,No info,4205
+5916,IndiGo,3/06/2019,Banglore,Delhi,BLR → DEL,18:55,21:50,2h 55m,non-stop,No info,4823
+5921,IndiGo,27/06/2019,Banglore,Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,3419
+5922,IndiGo,1/04/2019,Banglore,Delhi,BLR → DEL,10:10,13:00,2h 50m,non-stop,No info,3943
+5925,IndiGo,9/03/2019,Mumbai,Hyderabad,BOM → HYD,09:10,10:35,1h 25m,non-stop,No info,7417
+5930,IndiGo,21/04/2019,Kolkata,Banglore,CCU → BLR,04:40,07:15,2h 35m,non-stop,No info,4804
+5932,IndiGo,24/05/2019,Kolkata,Banglore,CCU → GAU → BLR,15:10,20:30,5h 20m,1 stop,No info,6991
+5934,IndiGo,21/03/2019,Delhi,Cochin,DEL → HYD → COK,07:35,12:00,4h 25m,1 stop,No info,5073
+5941,IndiGo,6/06/2019,Delhi,Cochin,DEL → HYD → COK,06:50,16:10,9h 20m,1 stop,No info,6674
+5946,IndiGo,6/06/2019,Mumbai,Hyderabad,BOM → HYD,19:05,20:35,1h 30m,non-stop,No info,2754
+5950,IndiGo,24/03/2019,Banglore,New Delhi,BLR → DEL,00:40,03:25,2h 45m,non-stop,No info,4238
+5955,IndiGo,15/04/2019,Kolkata,Banglore,CCU → HYD → BLR,19:20,23:45,4h 25m,1 stop,No info,3809
+5958,IndiGo,24/04/2019,Kolkata,Banglore,CCU → HYD → BLR,15:15,20:05,4h 50m,1 stop,No info,4565
+5959,IndiGo,9/03/2019,Delhi,Cochin,DEL → BOM → COK,18:35,01:35 10 Mar,7h,1 stop,No info,12351
+5960,IndiGo,18/03/2019,Delhi,Cochin,DEL → COK,21:05,00:20 19 Mar,3h 15m,non-stop,No info,5021
+5970,IndiGo,1/04/2019,Kolkata,Banglore,CCU → BLR,20:20,22:55,2h 35m,non-stop,No info,4488
+5975,IndiGo,6/05/2019,Kolkata,Banglore,CCU → BBI → BLR,07:10,12:40,5h 30m,1 stop,No info,4864
+5988,IndiGo,9/06/2019,Delhi,Cochin,DEL → BLR → COK,15:10,20:00,4h 50m,1 stop,No info,7060
+5989,IndiGo,1/03/2019,Chennai,Kolkata,MAA → CCU,11:35,14:00,2h 25m,non-stop,No info,7900
+5991,IndiGo,24/04/2019,Kolkata,Banglore,CCU → MAA → BLR,19:35,00:10 25 Apr,4h 35m,1 stop,No info,4860
+5993,IndiGo,12/06/2019,Kolkata,Banglore,CCU → MAA → BLR,08:10,13:00,4h 50m,1 stop,No info,5069
+5995,IndiGo,6/04/2019,Delhi,Cochin,DEL → BOM → COK,10:35,15:35,5h,1 stop,No info,5073
+5999,IndiGo,27/03/2019,Delhi,Cochin,DEL → COK,14:30,17:35,3h 5m,non-stop,No info,4729
+6000,IndiGo,21/05/2019,Kolkata,Banglore,CCU → BLR,22:15,00:50 22 May,2h 35m,non-stop,No info,4804
+6004,IndiGo,27/03/2019,Delhi,Cochin,DEL → HYD → COK,06:40,16:10,9h 30m,1 stop,No info,6442
+6009,IndiGo,18/05/2019,Delhi,Cochin,DEL → HYD → COK,08:35,22:30,13h 55m,1 stop,No info,7144
+6015,IndiGo,6/05/2019,Banglore,Delhi,BLR → DEL,00:30,03:25,2h 55m,non-stop,No info,4284
+6021,IndiGo,1/06/2019,Banglore,Delhi,BLR → DEL,13:00,15:50,2h 50m,non-stop,No info,3943
+6022,IndiGo,9/05/2019,Chennai,Kolkata,MAA → CCU,11:35,14:00,2h 25m,non-stop,No info,4332
+6027,IndiGo,24/03/2019,Banglore,New Delhi,BLR → DEL,18:25,21:20,2h 55m,non-stop,No info,8033
+6028,IndiGo,27/06/2019,Banglore,Delhi,BLR → DEL,16:55,19:55,3h,non-stop,No info,4823
+6032,IndiGo,27/06/2019,Chennai,Kolkata,MAA → CCU,13:15,15:35,2h 20m,non-stop,No info,3597
+6041,IndiGo,21/06/2019,Chennai,Kolkata,MAA → CCU,19:35,21:55,2h 20m,non-stop,No info,3597
+6042,IndiGo,12/05/2019,Kolkata,Banglore,CCU → BLR,15:15,17:45,2h 30m,non-stop,No info,4804
+6043,IndiGo,15/06/2019,Banglore,Delhi,BLR → DEL,06:05,08:50,2h 45m,non-stop,No info,4423
+6046,IndiGo,12/04/2019,Kolkata,Banglore,CCU → BLR,21:25,00:05 13 Apr,2h 40m,non-stop,No info,4174
+6051,IndiGo,18/05/2019,Delhi,Cochin,DEL → HYD → COK,05:05,16:10,11h 5m,1 stop,No info,6818
+6053,IndiGo,9/06/2019,Delhi,Cochin,DEL → BOM → COK,15:00,01:30 10 Jun,10h 30m,1 stop,No info,6316
+6055,IndiGo,18/05/2019,Delhi,Cochin,DEL → PNQ → COK,23:30,04:35 19 May,5h 5m,1 stop,No info,10958
+6056,IndiGo,21/06/2019,Chennai,Kolkata,MAA → CCU,11:35,14:00,2h 25m,non-stop,No info,3858
+6064,IndiGo,27/05/2019,Banglore,Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,4823
+6078,IndiGo,9/06/2019,Kolkata,Banglore,CCU → BLR,15:15,17:45,2h 30m,non-stop,No info,5224
+6080,IndiGo,3/03/2019,Kolkata,Banglore,CCU → BLR,05:30,08:20,2h 50m,non-stop,No info,4778
+6088,IndiGo,3/03/2019,Delhi,Cochin,DEL → BOM → COK,11:30,21:00,9h 30m,1 stop,No info,14871
+6092,IndiGo,21/05/2019,Kolkata,Banglore,CCU → MAA → BLR,17:35,22:15,4h 40m,1 stop,No info,5386
+6096,IndiGo,1/06/2019,Mumbai,Hyderabad,BOM → HYD,12:00,13:30,1h 30m,non-stop,No info,2754
+6100,IndiGo,24/03/2019,Banglore,New Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,6144
+6106,IndiGo,15/05/2019,Delhi,Cochin,DEL → HYD → COK,08:35,16:10,7h 35m,1 stop,No info,6442
+6117,IndiGo,18/05/2019,Banglore,Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,4823
+6118,IndiGo,12/04/2019,Kolkata,Banglore,CCU → BLR,15:15,17:45,2h 30m,non-stop,No info,4174
+6122,IndiGo,3/06/2019,Delhi,Cochin,DEL → LKO → COK,21:50,03:35 04 Jun,5h 45m,1 stop,No info,7189
+6130,IndiGo,24/05/2019,Kolkata,Banglore,CCU → BLR,20:20,22:55,2h 35m,non-stop,No info,4804
+6132,IndiGo,6/03/2019,Delhi,Cochin,DEL → COK,14:30,17:35,3h 5m,non-stop,No info,7673
+6141,IndiGo,12/05/2019,Banglore,Delhi,BLR → DEL,08:30,11:20,2h 50m,non-stop,No info,5740
+6144,IndiGo,6/04/2019,Kolkata,Banglore,CCU → BLR,09:35,12:20,2h 45m,non-stop,No info,4174
+6145,IndiGo,21/03/2019,Delhi,Cochin,DEL → BOM → COK,04:45,13:20,8h 35m,1 stop,No info,7738
+6153,IndiGo,9/06/2019,Banglore,Delhi,BLR → DEL,10:10,13:00,2h 50m,non-stop,No info,4423
+6159,IndiGo,27/05/2019,Banglore,Delhi,BLR → DEL,16:55,19:55,3h,non-stop,No info,4823
+6161,IndiGo,1/05/2019,Kolkata,Banglore,CCU → BBI → BLR,07:10,12:40,5h 30m,1 stop,No info,6111
+6163,IndiGo,27/03/2019,Delhi,Cochin,DEL → BOM → COK,04:45,21:00,16h 15m,1 stop,No info,7258
+6168,IndiGo,24/06/2019,Delhi,Cochin,DEL → HYD → COK,06:50,12:10,5h 20m,1 stop,No info,5298
+6175,IndiGo,15/04/2019,Banglore,Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,4823
+6182,IndiGo,12/05/2019,Banglore,Delhi,BLR → DEL,23:30,02:20 13 May,2h 50m,non-stop,No info,4591
+6194,IndiGo,3/03/2019,Delhi,Cochin,DEL → MAA → COK,09:55,15:10,5h 15m,1 stop,No info,12214
+6196,IndiGo,03/03/2019,Banglore,New Delhi,BLR → DEL,08:30,11:30,3h,non-stop,No info,6860
+6201,IndiGo,27/03/2019,Delhi,Cochin,DEL → BOM → COK,15:00,01:35 28 Mar,10h 35m,1 stop,No info,8075
+6203,IndiGo,6/03/2019,Kolkata,Banglore,CCU → BLR,22:10,00:55 07 Mar,2h 45m,non-stop,No info,4778
+6207,IndiGo,6/05/2019,Delhi,Cochin,DEL → BOM → COK,10:35,01:30 07 May,14h 55m,1 stop,No info,6979
+6211,IndiGo,15/04/2019,Kolkata,Banglore,CCU → MAA → BLR,06:20,10:30,4h 10m,1 stop,No info,4226
+6222,IndiGo,21/03/2019,Delhi,Cochin,DEL → BOM → COK,10:45,21:00,10h 15m,1 stop,No info,6838
+6229,IndiGo,27/05/2019,Delhi,Cochin,DEL → BOM → COK,15:00,01:30 28 May,10h 30m,1 stop,No info,6628
+6237,IndiGo,18/04/2019,Kolkata,Banglore,CCU → BLR,04:40,07:15,2h 35m,non-stop,No info,4174
+6238,IndiGo,27/06/2019,Mumbai,Hyderabad,BOM → HYD,20:05,21:40,1h 35m,non-stop,No info,2227
+6242,IndiGo,12/06/2019,Chennai,Kolkata,MAA → CCU,22:05,00:25 13 Jun,2h 20m,non-stop,No info,5277
+6256,IndiGo,12/06/2019,Banglore,Delhi,BLR → DEL,08:30,11:20,2h 50m,non-stop,No info,4823
+6263,IndiGo,27/05/2019,Delhi,Cochin,DEL → BOM → COK,17:30,01:30 28 May,8h,1 stop,No info,6206
+6267,IndiGo,21/04/2019,Banglore,Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,4591
+6275,IndiGo,3/04/2019,Delhi,Cochin,DEL → COK,14:20,17:35,3h 15m,non-stop,No info,4729
+6278,IndiGo,27/06/2019,Mumbai,Hyderabad,BOM → HYD,02:35,04:05,1h 30m,non-stop,No info,2754
+6286,IndiGo,21/05/2019,Kolkata,Banglore,CCU → BBI → BLR,19:55,23:50,3h 55m,1 stop,No info,4226
+6291,IndiGo,21/03/2019,Chennai,Kolkata,MAA → CCU,19:35,21:55,2h 20m,non-stop,No info,3384
+6292,IndiGo,6/05/2019,Banglore,Delhi,BLR → DEL,18:55,21:50,2h 55m,non-stop,No info,4823
+6293,IndiGo,15/06/2019,Chennai,Kolkata,MAA → CCU,19:35,21:55,2h 20m,non-stop,No info,3597
+6296,IndiGo,21/03/2019,Chennai,Kolkata,MAA → CCU,13:20,15:35,2h 15m,non-stop,No info,3384
+6299,IndiGo,9/06/2019,Banglore,Delhi,BLR → DEL,23:30,02:20 10 Jun,2h 50m,non-stop,No info,4591
+6304,IndiGo,3/03/2019,Delhi,Cochin,DEL → BOM → COK,06:40,15:30,8h 50m,1 stop,No info,14871
+6310,IndiGo,9/06/2019,Delhi,Cochin,DEL → BOM → COK,17:10,01:30 10 Jun,8h 20m,1 stop,No info,6206
+6317,IndiGo,27/04/2019,Kolkata,Banglore,CCU → BLR,20:20,22:55,2h 35m,non-stop,No info,4804
+6320,IndiGo,9/05/2019,Kolkata,Banglore,CCU → BLR,22:15,00:50 10 May,2h 35m,non-stop,No info,4804
+6323,IndiGo,27/05/2019,Delhi,Cochin,DEL → BOM → COK,08:30,21:00,12h 30m,1 stop,No info,6838
+6324,IndiGo,3/03/2019,Delhi,Cochin,DEL → HYD → COK,07:35,12:00,4h 25m,1 stop,No info,8258
+6328,IndiGo,21/03/2019,Kolkata,Banglore,CCU → BLR,15:10,17:45,2h 35m,non-stop,No info,4148
+6333,IndiGo,27/06/2019,Delhi,Cochin,DEL → MAA → COK,07:15,12:30,5h 15m,1 stop,No info,6582
+6343,IndiGo,3/03/2019,Delhi,Cochin,DEL → BOM → COK,09:10,01:35 04 Mar,16h 25m,1 stop,No info,14871
+6348,IndiGo,1/05/2019,Mumbai,Hyderabad,BOM → HYD,16:55,18:25,1h 30m,non-stop,No info,3175
+6354,IndiGo,3/03/2019,Delhi,Cochin,DEL → BLR → COK,02:00,07:45,5h 45m,1 stop,No info,9257
+6357,IndiGo,21/03/2019,Delhi,Cochin,DEL → BOM → COK,07:30,13:20,5h 50m,1 stop,No info,9861
+6358,IndiGo,15/03/2019,Banglore,New Delhi,BLR → NAG → DEL,16:50,21:35,4h 45m,1 stop,No info,10406
+6368,IndiGo,12/06/2019,Kolkata,Banglore,CCU → BLR,17:15,19:50,2h 35m,non-stop,No info,4804
+6369,IndiGo,9/05/2019,Kolkata,Banglore,CCU → PAT → BLR,09:20,14:15,4h 55m,1 stop,No info,11465
+6370,IndiGo,21/04/2019,Banglore,Delhi,BLR → DEL,23:30,02:20 22 Apr,2h 50m,non-stop,No info,4591
+6371,IndiGo,9/06/2019,Delhi,Cochin,DEL → BOM → COK,09:15,01:30 10 Jun,16h 15m,1 stop,No info,6628
+6372,IndiGo,6/03/2019,Delhi,Cochin,DEL → BLR → COK,02:00,07:45,5h 45m,1 stop,No info,8025
+6374,IndiGo,3/04/2019,Banglore,Delhi,BLR → DEL,10:10,13:00,2h 50m,non-stop,No info,3943
+6382,IndiGo,21/03/2019,Delhi,Cochin,DEL → BOM → COK,20:30,01:35 22 Mar,5h 5m,1 stop,No info,6232
+6383,IndiGo,9/05/2019,Delhi,Cochin,DEL → BLR → COK,05:10,10:05,4h 55m,1 stop,No info,6496
+6384,IndiGo,24/06/2019,Banglore,Delhi,BLR → DEL,18:15,21:20,3h 5m,non-stop,No info,4823
+6385,IndiGo,6/06/2019,Kolkata,Banglore,CCU → BBI → BLR,19:35,23:15,3h 40m,1 stop,No info,6116
+6390,IndiGo,24/05/2019,Kolkata,Banglore,CCU → BLR,15:30,18:05,2h 35m,non-stop,No info,4804
+6391,IndiGo,1/06/2019,Banglore,Delhi,BLR → DEL,10:10,13:00,2h 50m,non-stop,No info,3943
+6404,IndiGo,24/06/2019,Mumbai,Hyderabad,BOM → HYD,12:00,13:30,1h 30m,non-stop,No info,2754
+6405,IndiGo,21/03/2019,Delhi,Cochin,DEL → HYD → MAA → COK,07:35,21:20,13h 45m,2 stops,No info,6494
+6406,IndiGo,15/03/2019,Banglore,New Delhi,BLR → HYD → DEL,16:15,20:35,4h 20m,1 stop,No info,5607
+6408,IndiGo,3/05/2019,Banglore,Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,4823
+6420,IndiGo,3/04/2019,Banglore,Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,4823
+6426,IndiGo,18/05/2019,Banglore,Delhi,BLR → DEL,18:25,21:20,2h 55m,non-stop,No info,4823
+6432,IndiGo,27/06/2019,Mumbai,Hyderabad,BOM → HYD,16:55,18:25,1h 30m,non-stop,No info,3175
+6439,IndiGo,12/05/2019,Mumbai,Hyderabad,BOM → HYD,02:35,04:05,1h 30m,non-stop,No info,3175
+6443,IndiGo,9/05/2019,Delhi,Cochin,DEL → LKO → COK,21:50,03:35 10 May,5h 45m,1 stop,No info,6058
+6453,IndiGo,18/05/2019,Mumbai,Hyderabad,BOM → HYD,16:55,18:25,1h 30m,non-stop,No info,3838
+6465,IndiGo,1/06/2019,Chennai,Kolkata,MAA → CCU,07:55,10:15,2h 20m,non-stop,No info,3850
+6471,IndiGo,1/05/2019,Banglore,Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,4077
+6480,IndiGo,9/03/2019,Delhi,Cochin,DEL → HYD → COK,07:35,12:00,4h 25m,1 stop,No info,6937
+6481,IndiGo,21/03/2019,Mumbai,Hyderabad,BOM → HYD,19:05,20:30,1h 25m,non-stop,No info,2754
+6483,IndiGo,21/05/2019,Kolkata,Banglore,CCU → MAA → BLR,06:20,10:20,4h,1 stop,No info,4226
+6485,IndiGo,27/06/2019,Delhi,Cochin,DEL → PNQ → COK,23:30,04:35 28 Jun,5h 5m,1 stop,No info,9165
+6496,IndiGo,15/03/2019,Kolkata,Banglore,CCU → BLR,05:30,08:20,2h 50m,non-stop,No info,4148
+6500,IndiGo,21/05/2019,Delhi,Cochin,DEL → HYD → COK,08:35,18:10,9h 35m,1 stop,No info,6442
+6512,IndiGo,18/06/2019,Mumbai,Hyderabad,BOM → HYD,20:05,21:40,1h 35m,non-stop,No info,2227
+6514,IndiGo,27/06/2019,Delhi,Cochin,DEL → BOM → COK,09:15,01:30 28 Jun,16h 15m,1 stop,No info,6628
+6522,IndiGo,3/04/2019,Delhi,Cochin,DEL → COK,21:05,00:20 04 Apr,3h 15m,non-stop,No info,5021
+6526,IndiGo,3/03/2019,Delhi,Cochin,DEL → COK,05:35,08:50,3h 15m,non-stop,No info,7673
+6527,IndiGo,18/06/2019,Banglore,Delhi,BLR → DEL,20:00,22:50,2h 50m,non-stop,No info,4823
+6530,IndiGo,18/05/2019,Kolkata,Banglore,CCU → BLR,15:30,18:05,2h 35m,non-stop,No info,4804
+6532,IndiGo,15/05/2019,Delhi,Cochin,DEL → BOM → COK,09:15,21:00,11h 45m,1 stop,No info,7503
+6534,IndiGo,9/06/2019,Mumbai,Hyderabad,BOM → HYD,06:25,07:55,1h 30m,non-stop,No info,4049
+6544,IndiGo,21/06/2019,Banglore,Delhi,BLR → DEL,08:30,11:20,2h 50m,non-stop,No info,4823
+6548,IndiGo,12/06/2019,Delhi,Cochin,DEL → COK,05:35,08:50,3h 15m,non-stop,No info,5601
+6552,IndiGo,12/04/2019,Kolkata,Banglore,CCU → BLR,09:35,12:20,2h 45m,non-stop,No info,4174
+6553,IndiGo,24/03/2019,Banglore,New Delhi,BLR → DEL,20:00,22:55,2h 55m,non-stop,No info,6144
+6555,IndiGo,15/06/2019,Delhi,Cochin,DEL → LKO → COK,21:50,03:35 16 Jun,5h 45m,1 stop,No info,6195
+6557,IndiGo,01/03/2019,Banglore,New Delhi,BLR → DEL,22:20,01:10 02 Mar,2h 50m,non-stop,No info,11934
+6565,IndiGo,27/05/2019,Delhi,Cochin,DEL → BOM → COK,11:25,01:30 28 May,14h 5m,1 stop,No info,6104
+6566,IndiGo,6/03/2019,Delhi,Cochin,DEL → HYD → COK,07:35,22:20,14h 45m,1 stop,No info,7094
+6578,IndiGo,01/03/2019,Banglore,New Delhi,BLR → DEL,23:30,02:20 02 Mar,2h 50m,non-stop,No info,10067
+6580,IndiGo,27/04/2019,Kolkata,Banglore,CCU → BLR,15:30,18:05,2h 35m,non-stop,No info,4804
+6592,IndiGo,1/05/2019,Banglore,Delhi,BLR → DEL,00:30,03:25,2h 55m,non-stop,No info,4284
+6616,IndiGo,6/05/2019,Kolkata,Banglore,CCU → MAA → BLR,06:20,10:20,4h,1 stop,No info,4226
+6622,IndiGo,3/06/2019,Delhi,Cochin,DEL → BOM → COK,09:15,21:00,11h 45m,1 stop,No info,6838
+6624,IndiGo,12/04/2019,Kolkata,Banglore,CCU → BLR,14:25,16:55,2h 30m,non-stop,No info,5224
+6628,IndiGo,18/04/2019,Banglore,Delhi,BLR → DEL,22:10,01:00 19 Apr,2h 50m,non-stop,No info,4591
+6635,IndiGo,6/05/2019,Banglore,Delhi,BLR → DEL,23:30,02:20 07 May,2h 50m,non-stop,No info,4077
+6638,IndiGo,24/04/2019,Kolkata,Banglore,CCU → HYD → BLR,19:20,23:45,4h 25m,1 stop,No info,3480
+6644,IndiGo,6/03/2019,Delhi,Cochin,DEL → HYD → COK,08:35,22:20,13h 45m,1 stop,No info,7514
+6648,IndiGo,3/03/2019,Delhi,Cochin,DEL → BOM → COK,07:30,21:00,13h 30m,1 stop,No info,14871
+6650,IndiGo,12/06/2019,Delhi,Cochin,DEL → HYD → COK,07:35,22:30,14h 55m,1 stop,No info,6442
+6651,IndiGo,21/05/2019,Kolkata,Banglore,CCU → HYD → BLR,15:15,20:05,4h 50m,1 stop,No info,5170
+6652,IndiGo,15/05/2019,Delhi,Cochin,DEL → HYD → COK,07:35,22:30,14h 55m,1 stop,No info,6442
+6653,IndiGo,27/05/2019,Banglore,Delhi,BLR → DEL,00:30,03:25,2h 55m,non-stop,No info,3419
+6672,IndiGo,12/06/2019,Banglore,Delhi,BLR → DEL,06:05,08:50,2h 45m,non-stop,No info,3943
+6675,IndiGo,09/03/2019,Banglore,New Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,7303
+6679,IndiGo,1/06/2019,Delhi,Cochin,DEL → BOM → COK,15:00,01:30 02 Jun,10h 30m,1 stop,No info,6628
+6697,IndiGo,27/06/2019,Chennai,Kolkata,MAA → CCU,14:45,17:05,2h 20m,non-stop,No info,3597
+6703,IndiGo,1/05/2019,Kolkata,Banglore,CCU → BLR,11:30,14:05,2h 35m,non-stop,No info,5644
+6706,IndiGo,9/06/2019,Kolkata,Banglore,CCU → MAA → BLR,06:20,10:20,4h,1 stop,No info,4226
+6707,IndiGo,09/03/2019,Banglore,New Delhi,BLR → HYD → DEL,12:05,17:05,5h,1 stop,No info,4588
+6726,IndiGo,1/05/2019,Mumbai,Hyderabad,BOM → HYD,09:10,10:40,1h 30m,non-stop,No info,4575
+6727,IndiGo,15/06/2019,Delhi,Cochin,DEL → COK,05:35,08:50,3h 15m,non-stop,No info,5601
+6731,IndiGo,27/05/2019,Delhi,Cochin,DEL → BLR → COK,02:00,07:45,5h 45m,1 stop,No info,6147
+6732,IndiGo,27/06/2019,Kolkata,Banglore,CCU → BLR,14:25,16:55,2h 30m,non-stop,No info,4804
+6740,IndiGo,15/05/2019,Delhi,Cochin,DEL → BLR → COK,15:10,20:00,4h 50m,1 stop,No info,6027
+6743,IndiGo,24/06/2019,Banglore,Delhi,BLR → DEL,23:30,02:20 25 Jun,2h 50m,non-stop,No info,3943
+6745,IndiGo,6/06/2019,Delhi,Cochin,DEL → BOM → COK,18:35,01:30 07 Jun,6h 55m,1 stop,No info,6628
+6749,IndiGo,9/06/2019,Delhi,Cochin,DEL → BOM → COK,11:25,21:00,9h 35m,1 stop,No info,6416
+6751,IndiGo,27/05/2019,Banglore,Delhi,BLR → DEL,13:00,15:50,2h 50m,non-stop,No info,3943
+6759,IndiGo,27/06/2019,Delhi,Cochin,DEL → BOM → COK,06:40,21:00,14h 20m,1 stop,No info,6093
+6760,IndiGo,6/04/2019,Delhi,Cochin,DEL → BOM → COK,04:55,13:20,8h 25m,1 stop,No info,5307
+6765,IndiGo,9/04/2019,Kolkata,Banglore,CCU → BLR,20:20,22:55,2h 35m,non-stop,No info,4488
+6787,IndiGo,9/06/2019,Banglore,Delhi,BLR → DEL,00:25,03:15,2h 50m,non-stop,No info,3943
+6789,IndiGo,12/06/2019,Mumbai,Hyderabad,BOM → HYD,06:25,07:55,1h 30m,non-stop,No info,4049
+6793,IndiGo,15/04/2019,Kolkata,Banglore,CCU → BLR,21:25,00:05 16 Apr,2h 40m,non-stop,No info,4174
+6802,IndiGo,24/03/2019,Banglore,New Delhi,BLR → DEL,08:30,11:30,3h,non-stop,No info,6144
+6809,IndiGo,27/03/2019,Kolkata,Banglore,CCU → BLR,20:25,23:05,2h 40m,non-stop,No info,4462
+6817,IndiGo,3/03/2019,Delhi,Cochin,DEL → HYD → COK,16:10,22:20,6h 10m,1 stop,No info,11237
+6825,IndiGo,24/05/2019,Kolkata,Banglore,CCU → BLR,11:30,14:05,2h 35m,non-stop,No info,5224
+6826,IndiGo,15/05/2019,Delhi,Cochin,DEL → COK,21:05,00:20 16 May,3h 15m,non-stop,No info,6834
+6827,IndiGo,15/06/2019,Delhi,Cochin,DEL → BOM → COK,16:00,01:30 16 Jun,9h 30m,1 stop,No info,6316
+6830,IndiGo,21/04/2019,Kolkata,Banglore,CCU → BLR,14:25,16:55,2h 30m,non-stop,No info,5644
+6836,IndiGo,1/06/2019,Mumbai,Hyderabad,BOM → HYD,21:20,22:50,1h 30m,non-stop,No info,2227
+6837,IndiGo,18/05/2019,Delhi,Cochin,DEL → HYD → COK,07:35,16:10,8h 35m,1 stop,No info,6442
+6841,IndiGo,24/03/2019,Banglore,New Delhi,BLR → DEL,10:10,13:00,2h 50m,non-stop,No info,10067
+6844,IndiGo,18/05/2019,Delhi,Cochin,DEL → HYD → COK,06:50,22:30,15h 40m,1 stop,No info,7144
+6853,IndiGo,21/03/2019,Banglore,New Delhi,BLR → STV → DEL,11:20,15:25,4h 5m,1 stop,No info,5746
+6858,IndiGo,12/05/2019,Kolkata,Banglore,CCU → BLR,17:15,19:50,2h 35m,non-stop,No info,4804
+6859,IndiGo,9/03/2019,Delhi,Cochin,DEL → BOM → COK,04:45,12:55,8h 10m,1 stop,No info,16162
+6860,IndiGo,24/04/2019,Banglore,Delhi,BLR → DEL,00:30,03:25,2h 55m,non-stop,No info,3419
+6864,IndiGo,15/03/2019,Banglore,New Delhi,BLR → HYD → DEL,16:55,21:50,4h 55m,1 stop,No info,5397
+6878,IndiGo,3/03/2019,Mumbai,Hyderabad,BOM → HYD,20:05,21:35,1h 30m,non-stop,No info,5232
+6881,IndiGo,6/03/2019,Delhi,Cochin,DEL → HYD → COK,07:35,12:00,4h 25m,1 stop,No info,7725
+6906,IndiGo,6/04/2019,Kolkata,Banglore,CCU → BLR,11:30,14:05,2h 35m,non-stop,No info,4174
+6916,IndiGo,03/03/2019,Banglore,New Delhi,BLR → DEL,22:20,01:10 07 Mar,2h 50m,non-stop,No info,7648
+6918,IndiGo,15/06/2019,Chennai,Kolkata,MAA → CCU,13:15,15:35,2h 20m,non-stop,No info,3597
+6928,IndiGo,12/06/2019,Kolkata,Banglore,CCU → HYD → BLR,19:20,23:45,4h 25m,1 stop,No info,3574
+6935,IndiGo,24/03/2019,Banglore,New Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,5694
+6941,IndiGo,12/05/2019,Chennai,Kolkata,MAA → CCU,19:35,21:55,2h 20m,non-stop,No info,3597
+6945,IndiGo,1/06/2019,Kolkata,Banglore,CCU → BLR,04:40,07:15,2h 35m,non-stop,No info,4804
+6947,IndiGo,24/06/2019,Chennai,Kolkata,MAA → CCU,11:35,14:00,2h 25m,non-stop,No info,3858
+6951,IndiGo,9/06/2019,Kolkata,Banglore,CCU → GAU → BLR,15:10,20:30,5h 20m,1 stop,No info,7095
+6959,IndiGo,03/03/2019,Banglore,New Delhi,BLR → DEL,20:00,22:55,2h 55m,non-stop,No info,6860
+6962,IndiGo,1/05/2019,Kolkata,Banglore,CCU → BBI → BLR,19:35,23:15,3h 40m,1 stop,No info,4226
+6963,IndiGo,9/05/2019,Delhi,Cochin,DEL → BOM → COK,16:00,01:30 10 May,9h 30m,1 stop,No info,9274
+6965,IndiGo,9/06/2019,Kolkata,Banglore,CCU → BLR,09:35,12:20,2h 45m,non-stop,No info,4804
+6968,IndiGo,9/06/2019,Mumbai,Hyderabad,BOM → HYD,16:55,18:25,1h 30m,non-stop,No info,3175
+6974,IndiGo,3/06/2019,Kolkata,Banglore,CCU → BLR,09:35,12:10,2h 35m,non-stop,No info,4804
+6977,IndiGo,1/06/2019,Kolkata,Banglore,CCU → BLR,17:15,19:50,2h 35m,non-stop,No info,5224
+6988,IndiGo,15/05/2019,Kolkata,Banglore,CCU → MAA → BLR,08:10,13:00,4h 50m,1 stop,No info,5069
+7003,IndiGo,24/03/2019,Banglore,New Delhi,BLR → DEL,13:00,15:50,2h 50m,non-stop,No info,8033
+7004,IndiGo,15/06/2019,Delhi,Cochin,DEL → HYD → COK,05:05,12:10,7h 5m,1 stop,No info,6818
+7019,IndiGo,6/06/2019,Kolkata,Banglore,CCU → BLR,09:35,12:10,2h 35m,non-stop,No info,4804
+7023,IndiGo,21/03/2019,Kolkata,Banglore,CCU → BLR,09:35,12:20,2h 45m,non-stop,No info,4148
+7024,IndiGo,1/05/2019,Chennai,Kolkata,MAA → CCU,05:15,07:40,2h 25m,non-stop,No info,3850
+7025,IndiGo,27/04/2019,Banglore,Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,4591
+7027,IndiGo,18/05/2019,Kolkata,Banglore,CCU → BLR,15:15,17:45,2h 30m,non-stop,No info,4804
+7029,IndiGo,21/05/2019,Delhi,Cochin,DEL → BOM → COK,06:40,21:00,14h 20m,1 stop,No info,7006
+7032,IndiGo,9/03/2019,Delhi,Cochin,DEL → HYD → COK,06:40,12:00,5h 20m,1 stop,No info,5647
+7033,IndiGo,21/05/2019,Delhi,Cochin,DEL → PNQ → COK,23:30,04:35 22 May,5h 5m,1 stop,No info,8745
+7039,IndiGo,9/03/2019,Kolkata,Banglore,CCU → BLR,15:20,17:55,2h 35m,non-stop,No info,4148
+7040,IndiGo,1/05/2019,Banglore,Delhi,BLR → DEL,18:25,21:20,2h 55m,non-stop,No info,4823
+7046,IndiGo,6/04/2019,Kolkata,Banglore,CCU → BLR,20:20,22:55,2h 35m,non-stop,No info,4174
+7050,IndiGo,27/06/2019,Delhi,Cochin,DEL → HYD → COK,06:50,16:10,9h 20m,1 stop,No info,6442
+7054,IndiGo,21/04/2019,Delhi,Cochin,DEL → BLR → COK,02:00,07:45,5h 45m,1 stop,No info,6258
+7056,IndiGo,6/03/2019,Delhi,Cochin,DEL → BOM → COK,06:40,13:20,6h 40m,1 stop,No info,14871
+7060,IndiGo,21/05/2019,Delhi,Cochin,DEL → BLR → COK,15:10,20:50,5h 40m,1 stop,No info,6027
+7064,IndiGo,27/05/2019,Delhi,Cochin,DEL → COK,14:25,17:40,3h 15m,non-stop,No info,6015
+7065,IndiGo,18/04/2019,Banglore,Delhi,BLR → DEL,13:00,15:50,2h 50m,non-stop,No info,4990
+7069,IndiGo,27/05/2019,Kolkata,Banglore,CCU → BLR,17:15,19:50,2h 35m,non-stop,No info,4804
+7071,IndiGo,1/05/2019,Chennai,Kolkata,MAA → CCU,19:35,21:55,2h 20m,non-stop,No info,3597
+7072,IndiGo,6/05/2019,Banglore,Delhi,BLR → DEL,22:10,01:00 07 May,2h 50m,non-stop,No info,3419
+7083,IndiGo,6/06/2019,Banglore,Delhi,BLR → DEL,23:30,02:20 07 Jun,2h 50m,non-stop,No info,4591
+7084,IndiGo,18/03/2019,Kolkata,Banglore,CCU → BLR,20:25,23:05,2h 40m,non-stop,No info,4462
+7096,IndiGo,18/05/2019,Banglore,Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,5780
+7114,IndiGo,21/03/2019,Delhi,Cochin,DEL → BOM → COK,06:40,21:00,14h 20m,1 stop,No info,8784
+7128,IndiGo,15/06/2019,Banglore,Delhi,BLR → DEL,10:30,13:20,2h 50m,non-stop,No info,3943
+7133,IndiGo,15/05/2019,Delhi,Cochin,DEL → HYD → COK,06:50,12:10,5h 20m,1 stop,No info,5298
+7136,IndiGo,01/03/2019,Banglore,New Delhi,BLR → DEL,21:20,00:15 02 Mar,2h 55m,non-stop,No info,12649
+7137,IndiGo,24/03/2019,Kolkata,Banglore,CCU → MAA → BLR,08:15,13:00,4h 45m,1 stop,No info,6303
+7139,IndiGo,21/05/2019,Banglore,Delhi,BLR → DEL,08:30,11:20,2h 50m,non-stop,No info,4823
+7160,IndiGo,9/06/2019,Kolkata,Banglore,CCU → BBI → BLR,19:35,23:15,3h 40m,1 stop,No info,5276
+7161,IndiGo,24/06/2019,Kolkata,Banglore,CCU → BLR,04:40,07:15,2h 35m,non-stop,No info,4804
+7165,IndiGo,12/06/2019,Delhi,Cochin,DEL → BOM → COK,09:15,01:30 13 Jun,16h 15m,1 stop,No info,6628
+7170,IndiGo,15/06/2019,Kolkata,Banglore,CCU → BLR,22:15,00:50 16 Jun,2h 35m,non-stop,No info,4804
+7175,IndiGo,24/06/2019,Delhi,Cochin,DEL → BOM → COK,09:15,01:30 25 Jun,16h 15m,1 stop,No info,6628
+7176,IndiGo,15/05/2019,Delhi,Cochin,DEL → PNQ → COK,23:30,04:35 16 May,5h 5m,1 stop,No info,10123
+7190,IndiGo,18/05/2019,Banglore,Delhi,BLR → DEL,22:10,01:00 19 May,2h 50m,non-stop,No info,3943
+7195,IndiGo,6/03/2019,Delhi,Cochin,DEL → BOM → COK,08:25,15:30,7h 5m,1 stop,No info,14871
+7201,IndiGo,1/04/2019,Kolkata,Banglore,CCU → BLR,15:30,18:05,2h 35m,non-stop,No info,4174
+7213,IndiGo,9/06/2019,Kolkata,Banglore,CCU → MAA → BLR,17:35,22:15,4h 40m,1 stop,No info,5699
+7219,IndiGo,18/05/2019,Kolkata,Banglore,CCU → PAT → BLR,09:20,14:15,4h 55m,1 stop,No info,12198
+7221,IndiGo,3/03/2019,Mumbai,Hyderabad,BOM → HYD,09:10,10:40,1h 30m,non-stop,No info,5755
+7230,IndiGo,18/04/2019,Banglore,Delhi,BLR → DEL,16:55,19:55,3h,non-stop,No info,4990
+7236,IndiGo,24/05/2019,Banglore,Delhi,BLR → DEL,22:10,01:00 25 May,2h 50m,non-stop,No info,3419
+7240,IndiGo,9/05/2019,Banglore,Delhi,BLR → DEL,08:30,11:20,2h 50m,non-stop,No info,4823
+7250,IndiGo,03/03/2019,Banglore,New Delhi,BLR → DEL,21:20,00:15 04 Mar,2h 55m,non-stop,No info,6144
+7254,IndiGo,15/03/2019,Mumbai,Hyderabad,BOM → HYD,16:55,18:25,1h 30m,non-stop,No info,3175
+7256,IndiGo,6/03/2019,Mumbai,Hyderabad,BOM → HYD,06:20,07:45,1h 25m,non-stop,No info,4784
+7262,IndiGo,15/06/2019,Kolkata,Banglore,CCU → BLR,15:15,17:45,2h 30m,non-stop,No info,4804
+7264,IndiGo,21/03/2019,Kolkata,Banglore,CCU → BLR,22:10,00:55 22 Mar,2h 45m,non-stop,No info,4148
+7280,IndiGo,21/03/2019,Delhi,Cochin,DEL → BOM → COK,04:45,21:00,16h 15m,1 stop,No info,6314
+7287,IndiGo,21/04/2019,Banglore,Delhi,BLR → DEL,06:05,08:50,2h 45m,non-stop,No info,4423
+7288,IndiGo,21/03/2019,Delhi,Cochin,DEL → BOM → COK,09:10,15:30,6h 20m,1 stop,No info,9709
+7294,IndiGo,12/06/2019,Delhi,Cochin,DEL → HYD → COK,07:35,16:10,8h 35m,1 stop,No info,6442
+7297,IndiGo,15/03/2019,Mumbai,Hyderabad,BOM → HYD,12:00,13:25,1h 25m,non-stop,No info,3175
+7311,IndiGo,18/05/2019,Delhi,Cochin,DEL → HYD → COK,16:10,22:30,6h 20m,1 stop,No info,7640
+7314,IndiGo,15/06/2019,Delhi,Cochin,DEL → HYD → COK,06:50,12:10,5h 20m,1 stop,No info,5298
+7315,IndiGo,24/03/2019,Mumbai,Hyderabad,BOM → HYD,20:05,21:35,1h 30m,non-stop,No info,2227
+7318,IndiGo,9/06/2019,Delhi,Cochin,DEL → BOM → COK,20:25,01:30 10 Jun,5h 5m,1 stop,No info,5458
+7319,IndiGo,12/06/2019,Banglore,Delhi,BLR → DEL,23:30,02:20 13 Jun,2h 50m,non-stop,No info,3943
+7324,IndiGo,18/06/2019,Banglore,Delhi,BLR → DEL,18:55,21:50,2h 55m,non-stop,No info,4823
+7327,IndiGo,3/03/2019,Kolkata,Banglore,CCU → BLR,15:10,17:45,2h 35m,non-stop,No info,6985
+7334,IndiGo,21/03/2019,Banglore,New Delhi,BLR → DEL,13:00,15:50,2h 50m,non-stop,No info,5694
+7337,IndiGo,27/04/2019,Banglore,Delhi,BLR → DEL,16:55,19:55,3h,non-stop,No info,4823
+7340,IndiGo,24/06/2019,Banglore,Delhi,BLR → DEL,16:55,19:55,3h,non-stop,No info,4823
+7345,IndiGo,27/03/2019,Chennai,Kolkata,MAA → CCU,13:20,15:35,2h 15m,non-stop,No info,3384
+7347,IndiGo,3/06/2019,Delhi,Cochin,DEL → BOM → COK,10:35,21:00,10h 25m,1 stop,No info,6093
+7352,IndiGo,15/05/2019,Kolkata,Banglore,CCU → BBI → BLR,19:35,23:15,3h 40m,1 stop,No info,4226
+7359,IndiGo,1/04/2019,Kolkata,Banglore,CCU → BLR,17:15,19:50,2h 35m,non-stop,No info,4174
+7360,IndiGo,15/05/2019,Mumbai,Hyderabad,BOM → HYD,12:00,13:30,1h 30m,non-stop,No info,2754
+7361,IndiGo,21/05/2019,Mumbai,Hyderabad,BOM → HYD,12:00,13:30,1h 30m,non-stop,No info,2754
+7363,IndiGo,12/06/2019,Kolkata,Banglore,CCU → BLR,15:30,18:05,2h 35m,non-stop,No info,4804
+7369,IndiGo,27/06/2019,Kolkata,Banglore,CCU → BLR,21:25,00:05 28 Jun,2h 40m,non-stop,No info,4804
+7370,IndiGo,9/03/2019,Kolkata,Banglore,CCU → BLR,09:35,12:20,2h 45m,non-stop,No info,4148
+7371,IndiGo,1/04/2019,Delhi,Cochin,DEL → MAA → COK,02:00,07:25,5h 25m,1 stop,No info,5164
+7374,IndiGo,6/04/2019,Kolkata,Banglore,CCU → HYD → BLR,15:15,20:30,5h 15m,1 stop,No info,4268
+7379,IndiGo,3/04/2019,Banglore,Delhi,BLR → DEL,18:25,21:20,2h 55m,non-stop,No info,4823
+7380,IndiGo,6/03/2019,Delhi,Cochin,DEL → BOM → COK,07:30,13:20,5h 50m,1 stop,No info,13628
+7384,IndiGo,1/06/2019,Chennai,Kolkata,MAA → CCU,11:35,14:00,2h 25m,non-stop,No info,3858
+7397,IndiGo,3/06/2019,Delhi,Cochin,DEL → BLR → COK,15:10,20:00,4h 50m,1 stop,No info,6493
+7402,IndiGo,9/06/2019,Delhi,Cochin,DEL → HYD → COK,14:20,22:30,8h 10m,1 stop,No info,6938
+7413,IndiGo,6/05/2019,Kolkata,Banglore,CCU → BLR,15:15,17:45,2h 30m,non-stop,No info,4804
+7416,IndiGo,1/04/2019,Mumbai,Hyderabad,BOM → HYD,20:05,21:40,1h 35m,non-stop,No info,2227
+7419,IndiGo,27/05/2019,Delhi,Cochin,DEL → BOM → COK,07:30,21:00,13h 30m,1 stop,No info,6526
+7422,IndiGo,21/04/2019,Delhi,Cochin,DEL → MAA → COK,02:00,07:25,5h 25m,1 stop,No info,5636
+7426,IndiGo,9/03/2019,Delhi,Cochin,DEL → LKO → COK,05:35,10:10,4h 35m,1 stop,No info,9476
+7428,IndiGo,27/05/2019,Delhi,Cochin,DEL → HYD → COK,07:35,22:30,14h 55m,1 stop,No info,7514
+7429,IndiGo,6/03/2019,Kolkata,Banglore,CCU → BLR,15:10,17:45,2h 35m,non-stop,No info,5618
+7431,IndiGo,18/05/2019,Banglore,Delhi,BLR → DEL,20:00,22:50,2h 50m,non-stop,No info,4823
+7437,IndiGo,6/05/2019,Chennai,Kolkata,MAA → CCU,13:15,15:35,2h 20m,non-stop,No info,3597
+7442,IndiGo,21/05/2019,Delhi,Cochin,DEL → LKO → COK,21:50,03:35 22 May,5h 45m,1 stop,No info,7189
+7456,IndiGo,12/06/2019,Delhi,Cochin,DEL → BOM → COK,15:00,01:30 13 Jun,10h 30m,1 stop,No info,5684
+7459,IndiGo,24/03/2019,Banglore,New Delhi,BLR → DEL,13:00,15:50,2h 50m,non-stop,No info,5694
+7461,IndiGo,9/04/2019,Delhi,Cochin,DEL → BOM → COK,16:00,01:30 10 Apr,9h 30m,1 stop,No info,6573
+7463,IndiGo,6/06/2019,Kolkata,Banglore,CCU → BLR,11:30,14:05,2h 35m,non-stop,No info,5224
+7475,IndiGo,15/06/2019,Banglore,Delhi,BLR → DEL,18:25,21:20,2h 55m,non-stop,No info,4823
+7480,IndiGo,27/03/2019,Delhi,Cochin,DEL → HYD → COK,07:35,16:10,8h 35m,1 stop,No info,6442
+7490,IndiGo,1/05/2019,Kolkata,Banglore,CCU → MAA → BLR,06:20,10:20,4h,1 stop,No info,4226
+7492,IndiGo,15/03/2019,Banglore,New Delhi,BLR → DEL,08:30,11:30,3h,non-stop,No info,6860
+7495,IndiGo,24/03/2019,Banglore,New Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,4238
+7500,IndiGo,6/06/2019,Kolkata,Banglore,CCU → BLR,20:25,23:10,2h 45m,non-stop,No info,4804
+7509,IndiGo,03/03/2019,Banglore,New Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,6860
+7532,IndiGo,18/05/2019,Banglore,Delhi,BLR → DEL,16:55,19:55,3h,non-stop,No info,4823
+7535,IndiGo,1/05/2019,Chennai,Kolkata,MAA → CCU,11:35,14:00,2h 25m,non-stop,No info,4332
+7546,IndiGo,21/05/2019,Mumbai,Hyderabad,BOM → HYD,09:10,10:40,1h 30m,non-stop,No info,4049
+7548,IndiGo,15/03/2019,Banglore,New Delhi,BLR → DEL,10:10,13:00,2h 50m,non-stop,No info,6144
+7558,IndiGo,27/06/2019,Chennai,Kolkata,MAA → CCU,19:35,21:55,2h 20m,non-stop,No info,3597
+7563,IndiGo,6/05/2019,Mumbai,Hyderabad,BOM → HYD,21:20,22:50,1h 30m,non-stop,No info,2227
+7565,IndiGo,24/03/2019,Kolkata,Banglore,CCU → BOM → BLR,05:35,11:20,5h 45m,1 stop,No info,9319
+7570,IndiGo,12/04/2019,Banglore,Delhi,BLR → DEL,18:25,21:20,2h 55m,non-stop,No info,4990
+7584,IndiGo,3/06/2019,Delhi,Cochin,DEL → BOM → COK,16:00,21:00,5h,1 stop,No info,6593
+7589,IndiGo,24/04/2019,Delhi,Cochin,DEL → BOM → COK,04:55,21:00,16h 5m,1 stop,No info,6162
+7596,IndiGo,27/03/2019,Chennai,Kolkata,MAA → CCU,14:40,17:05,2h 25m,non-stop,No info,3384
+7597,IndiGo,6/06/2019,Kolkata,Banglore,CCU → BLR,15:15,17:45,2h 30m,non-stop,No info,4804
+7602,IndiGo,18/03/2019,Mumbai,Hyderabad,BOM → HYD,12:00,13:25,1h 25m,non-stop,No info,2754
+7615,IndiGo,3/03/2019,Delhi,Cochin,DEL → BOM → COK,07:30,15:30,8h,1 stop,No info,14871
+7622,IndiGo,9/04/2019,Banglore,Delhi,BLR → DEL,08:30,11:20,2h 50m,non-stop,No info,4823
+7629,IndiGo,18/05/2019,Delhi,Cochin,DEL → BOM → COK,10:35,21:00,10h 25m,1 stop,No info,7503
+7631,IndiGo,24/06/2019,Delhi,Cochin,DEL → HYD → COK,07:35,12:10,4h 35m,1 stop,No info,5054
+7636,IndiGo,1/06/2019,Delhi,Cochin,DEL → COK,05:35,08:50,3h 15m,non-stop,No info,6541
+7638,IndiGo,3/06/2019,Delhi,Cochin,DEL → BOM → COK,18:35,01:30 04 Jun,6h 55m,1 stop,No info,6628
+7641,IndiGo,27/03/2019,Delhi,Cochin,DEL → HYD → MAA → COK,04:55,21:20,16h 25m,2 stops,No info,6223
+7642,IndiGo,9/06/2019,Kolkata,Banglore,CCU → HYD → BLR,15:15,20:30,5h 15m,1 stop,No info,5380
+7653,IndiGo,12/06/2019,Delhi,Cochin,DEL → HYD → COK,14:20,22:30,8h 10m,1 stop,No info,6938
+7655,IndiGo,1/06/2019,Delhi,Cochin,DEL → BOM → COK,16:00,21:00,5h,1 stop,No info,6593
+7662,IndiGo,24/06/2019,Chennai,Kolkata,MAA → CCU,13:15,15:35,2h 20m,non-stop,No info,3597
+7669,IndiGo,09/03/2019,Banglore,New Delhi,BLR → DEL,16:55,19:45,2h 50m,non-stop,No info,10067
+7672,IndiGo,3/03/2019,Delhi,Cochin,DEL → BOM → COK,20:30,01:35 04 Mar,5h 5m,1 stop,No info,8258
+7676,IndiGo,24/06/2019,Delhi,Cochin,DEL → BOM → COK,11:25,21:00,9h 35m,1 stop,No info,5894
+7679,IndiGo,15/04/2019,Kolkata,Banglore,CCU → BLR,22:15,00:50 16 Apr,2h 35m,non-stop,No info,4174
+7682,IndiGo,24/03/2019,Banglore,New Delhi,BLR → DEL,16:55,19:45,2h 50m,non-stop,No info,7303
+7684,IndiGo,12/05/2019,Delhi,Cochin,DEL → COK,05:35,08:50,3h 15m,non-stop,No info,6015
+7687,IndiGo,24/04/2019,Banglore,Delhi,BLR → DEL,16:55,19:55,3h,non-stop,No info,4823
+7688,IndiGo,27/06/2019,Delhi,Cochin,DEL → HYD → COK,05:05,16:10,11h 5m,1 stop,No info,6442
+7694,IndiGo,9/06/2019,Delhi,Cochin,DEL → BOM → COK,06:40,21:00,14h 20m,1 stop,No info,6093
+7700,IndiGo,24/03/2019,Banglore,New Delhi,BLR → DEL,08:30,11:30,3h,non-stop,No info,7303
+7703,IndiGo,6/06/2019,Banglore,Delhi,BLR → DEL,13:00,15:50,2h 50m,non-stop,No info,3943
+7704,IndiGo,21/05/2019,Delhi,Cochin,DEL → MAA → COK,07:15,12:30,5h 15m,1 stop,No info,5636
+7705,IndiGo,9/04/2019,Kolkata,Banglore,CCU → HYD → BLR,15:15,20:05,4h 50m,1 stop,No info,4268
+7708,IndiGo,9/04/2019,Kolkata,Banglore,CCU → BLR,15:15,17:45,2h 30m,non-stop,No info,4174
+7710,IndiGo,21/05/2019,Delhi,Cochin,DEL → BOM → COK,10:35,21:00,10h 25m,1 stop,No info,6794
+7711,IndiGo,12/05/2019,Kolkata,Banglore,CCU → PNQ → BLR,21:00,02:15 13 May,5h 15m,1 stop,No info,7228
+7719,IndiGo,24/04/2019,Kolkata,Banglore,CCU → BLR,15:15,17:45,2h 30m,non-stop,No info,4804
+7724,IndiGo,9/05/2019,Delhi,Cochin,DEL → BOM → COK,07:30,21:00,13h 30m,1 stop,No info,7191
+7729,IndiGo,3/05/2019,Chennai,Kolkata,MAA → CCU,11:35,14:00,2h 25m,non-stop,No info,4332
+7731,IndiGo,24/05/2019,Kolkata,Banglore,CCU → MAA → BLR,06:20,10:20,4h,1 stop,No info,4226
+7734,IndiGo,3/04/2019,Banglore,Delhi,BLR → DEL,00:30,03:25,2h 55m,non-stop,No info,3419
+7743,IndiGo,21/06/2019,Banglore,Delhi,BLR → DEL,23:30,02:20 22 Jun,2h 50m,non-stop,No info,4077
+7745,IndiGo,6/06/2019,Banglore,Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,4823
+7747,IndiGo,24/03/2019,Chennai,Kolkata,MAA → CCU,07:55,10:15,2h 20m,non-stop,No info,4326
+7756,IndiGo,15/05/2019,Banglore,Delhi,BLR → DEL,00:30,03:25,2h 55m,non-stop,No info,3419
+7767,IndiGo,1/05/2019,Banglore,Delhi,BLR → DEL,06:05,08:50,2h 45m,non-stop,No info,4423
+7772,IndiGo,21/04/2019,Banglore,Delhi,BLR → DEL,10:10,13:00,2h 50m,non-stop,No info,4591
+7773,IndiGo,6/05/2019,Delhi,Cochin,DEL → BOM → COK,18:35,01:30 07 May,6h 55m,1 stop,No info,7191
+7775,IndiGo,1/06/2019,Banglore,Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,3943
+7785,IndiGo,15/06/2019,Chennai,Kolkata,MAA → CCU,14:45,17:05,2h 20m,non-stop,No info,3597
+7788,IndiGo,1/05/2019,Banglore,Delhi,BLR → DEL,10:10,13:00,2h 50m,non-stop,No info,3943
+7789,IndiGo,15/03/2019,Chennai,Kolkata,MAA → CCU,13:20,15:35,2h 15m,non-stop,No info,6297
+7790,IndiGo,09/03/2019,Banglore,New Delhi,BLR → DEL,20:00,22:55,2h 55m,non-stop,No info,6144
+7799,IndiGo,27/03/2019,Kolkata,Banglore,CCU → BLR,15:20,17:55,2h 35m,non-stop,No info,5198
+7802,IndiGo,18/03/2019,Kolkata,Banglore,CCU → BLR,10:10,12:55,2h 45m,non-stop,No info,4462
+7806,IndiGo,18/03/2019,Kolkata,Banglore,CCU → BLR,17:15,19:55,2h 40m,non-stop,No info,4462
+7812,IndiGo,24/04/2019,Kolkata,Banglore,CCU → BLR,14:25,16:55,2h 30m,non-stop,No info,4804
+7820,IndiGo,27/06/2019,Banglore,Delhi,BLR → DEL,13:00,15:50,2h 50m,non-stop,No info,3943
+7825,IndiGo,01/03/2019,Banglore,New Delhi,BLR → DEL,08:30,11:30,3h,non-stop,No info,10067
+7826,IndiGo,27/06/2019,Delhi,Cochin,DEL → BOM → COK,20:25,01:30 28 Jun,5h 5m,1 stop,No info,5054
+7829,IndiGo,27/05/2019,Delhi,Cochin,DEL → BLR → COK,15:10,20:00,4h 50m,1 stop,No info,5912
+7831,IndiGo,9/06/2019,Chennai,Kolkata,MAA → CCU,13:15,15:35,2h 20m,non-stop,No info,3597
+7835,IndiGo,27/05/2019,Mumbai,Hyderabad,BOM → HYD,06:25,07:55,1h 30m,non-stop,No info,4049
+7848,IndiGo,27/03/2019,Delhi,Cochin,DEL → BOM → COK,17:10,01:35 28 Mar,8h 25m,1 stop,No info,6316
+7851,IndiGo,12/05/2019,Chennai,Kolkata,MAA → CCU,11:35,14:00,2h 25m,non-stop,No info,4332
+7853,IndiGo,12/06/2019,Kolkata,Banglore,CCU → BLR,04:40,07:15,2h 35m,non-stop,No info,4804
+7858,IndiGo,6/05/2019,Banglore,Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,4284
+7859,IndiGo,3/05/2019,Mumbai,Hyderabad,BOM → HYD,21:20,22:50,1h 30m,non-stop,No info,2437
+7866,IndiGo,15/05/2019,Kolkata,Banglore,CCU → BBI → BLR,07:10,12:40,5h 30m,1 stop,No info,4864
+7867,IndiGo,6/03/2019,Chennai,Kolkata,MAA → CCU,19:35,21:55,2h 20m,non-stop,No info,7295
+7876,IndiGo,9/05/2019,Delhi,Cochin,DEL → HYD → COK,08:35,22:30,13h 55m,1 stop,No info,6734
+7879,IndiGo,18/03/2019,Chennai,Kolkata,MAA → CCU,07:55,10:15,2h 20m,non-stop,No info,3850
+7890,IndiGo,6/05/2019,Banglore,Delhi,BLR → DEL,06:05,08:50,2h 45m,non-stop,No info,4423
+7891,IndiGo,18/06/2019,Banglore,Delhi,BLR → DEL,16:55,19:55,3h,non-stop,No info,4823
+7921,IndiGo,21/05/2019,Delhi,Cochin,DEL → HYD → COK,11:55,18:10,6h 15m,1 stop,No info,6442
+7935,IndiGo,1/04/2019,Kolkata,Banglore,CCU → MAA → BLR,17:35,22:15,4h 40m,1 stop,No info,5699
+7938,IndiGo,15/05/2019,Kolkata,Banglore,CCU → PAT → BLR,09:20,14:15,4h 55m,1 stop,No info,11319
+7939,IndiGo,9/03/2019,Mumbai,Hyderabad,BOM → HYD,21:20,22:45,1h 25m,non-stop,No info,3838
+7951,IndiGo,24/05/2019,Mumbai,Hyderabad,BOM → HYD,02:35,04:05,1h 30m,non-stop,No info,3342
+7953,IndiGo,24/06/2019,Chennai,Kolkata,MAA → CCU,22:05,00:25 25 Jun,2h 20m,non-stop,No info,5277
+7960,IndiGo,27/05/2019,Chennai,Kolkata,MAA → CCU,22:05,00:25 28 May,2h 20m,non-stop,No info,5277
+7962,IndiGo,24/03/2019,Banglore,New Delhi,BLR → DEL,10:10,13:00,2h 50m,non-stop,No info,5734
+7965,IndiGo,21/05/2019,Delhi,Cochin,DEL → COK,14:25,17:40,3h 15m,non-stop,No info,5601
+7967,IndiGo,9/05/2019,Delhi,Cochin,DEL → BOM → COK,15:00,01:30 10 May,10h 30m,1 stop,No info,8330
+7968,IndiGo,3/05/2019,Banglore,Delhi,BLR → DEL,08:30,11:20,2h 50m,non-stop,No info,4823
+7974,IndiGo,12/06/2019,Delhi,Cochin,DEL → HYD → COK,06:50,12:10,5h 20m,1 stop,No info,5298
+7980,IndiGo,21/05/2019,Delhi,Cochin,DEL → BOM → COK,16:00,21:00,5h,1 stop,No info,7255
+7982,IndiGo,01/03/2019,Banglore,New Delhi,BLR → IDR → DEL,13:40,18:35,4h 55m,1 stop,No info,8707
+7995,IndiGo,24/04/2019,Banglore,Delhi,BLR → DEL,18:55,21:50,2h 55m,non-stop,No info,4823
+8004,IndiGo,9/04/2019,Kolkata,Banglore,CCU → MAA → BLR,19:35,00:10 10 Apr,4h 35m,1 stop,No info,4860
+8008,IndiGo,1/06/2019,Delhi,Cochin,DEL → BOM → COK,04:55,21:00,16h 5m,1 stop,No info,6314
+8009,IndiGo,9/04/2019,Delhi,Cochin,DEL → BOM → COK,11:25,01:30 10 Apr,14h 5m,1 stop,No info,6270
+8015,IndiGo,6/03/2019,Delhi,Cochin,DEL → HYD → MAA → COK,11:55,21:20,9h 25m,2 stops,No info,6610
+8017,IndiGo,9/03/2019,Kolkata,Banglore,CCU → BLR,10:10,12:55,2h 45m,non-stop,No info,4462
+8020,IndiGo,6/06/2019,Kolkata,Banglore,CCU → BLR,04:40,07:15,2h 35m,non-stop,No info,4804
+8038,IndiGo,24/06/2019,Delhi,Cochin,DEL → BOM → COK,18:35,01:30 25 Jun,6h 55m,1 stop,No info,5883
+8043,IndiGo,18/03/2019,Kolkata,Banglore,CCU → BLR,15:10,17:45,2h 35m,non-stop,No info,4462
+8047,IndiGo,27/05/2019,Kolkata,Banglore,CCU → BLR,09:35,12:20,2h 45m,non-stop,No info,4804
+8056,IndiGo,9/04/2019,Banglore,Delhi,BLR → DEL,22:10,01:00 10 Apr,2h 50m,non-stop,No info,3943
+8057,IndiGo,12/05/2019,Banglore,Delhi,BLR → DEL,22:10,01:00 13 May,2h 50m,non-stop,No info,4284
+8058,IndiGo,9/03/2019,Delhi,Cochin,DEL → BLR → COK,05:05,10:05,5h,1 stop,No info,8147
+8060,IndiGo,15/03/2019,Mumbai,Hyderabad,BOM → HYD,02:30,04:00,1h 30m,non-stop,No info,3342
+8061,IndiGo,21/03/2019,Banglore,New Delhi,BLR → DEL,06:00,08:45,2h 45m,non-stop,No info,5734
+8071,IndiGo,15/04/2019,Banglore,Delhi,BLR → DEL,20:00,22:50,2h 50m,non-stop,No info,4823
+8072,IndiGo,24/05/2019,Kolkata,Banglore,CCU → BLR,04:40,07:15,2h 35m,non-stop,No info,4804
+8073,IndiGo,6/06/2019,Delhi,Cochin,DEL → PNQ → COK,23:30,04:35 07 Jun,5h 5m,1 stop,No info,10112
+8080,IndiGo,3/06/2019,Delhi,Cochin,DEL → BOM → COK,04:55,21:00,16h 5m,1 stop,No info,6838
+8084,IndiGo,12/05/2019,Mumbai,Hyderabad,BOM → HYD,06:25,07:55,1h 30m,non-stop,No info,4049
+8089,IndiGo,6/05/2019,Chennai,Kolkata,MAA → CCU,22:05,00:25 07 May,2h 20m,non-stop,No info,5277
+8092,IndiGo,12/05/2019,Kolkata,Banglore,CCU → MAA → BLR,17:35,22:15,4h 40m,1 stop,No info,6669
+8095,IndiGo,15/03/2019,Kolkata,Banglore,CCU → BLR,21:25,00:05 16 Mar,2h 40m,non-stop,No info,4148
+8100,IndiGo,1/06/2019,Mumbai,Hyderabad,BOM → HYD,02:35,04:05,1h 30m,non-stop,No info,3175
+8112,IndiGo,18/05/2019,Chennai,Kolkata,MAA → CCU,22:05,00:25 19 May,2h 20m,non-stop,No info,5277
+8115,IndiGo,21/03/2019,Mumbai,Hyderabad,BOM → HYD,06:20,07:45,1h 25m,non-stop,No info,4049
+8116,IndiGo,24/03/2019,Chennai,Kolkata,MAA → CCU,05:15,07:35,2h 20m,non-stop,No info,4326
+8117,IndiGo,09/03/2019,Banglore,New Delhi,BLR → DEL,23:30,02:20 13 Mar,2h 50m,non-stop,No info,4777
+8118,IndiGo,21/03/2019,Delhi,Cochin,DEL → BOM → COK,11:30,21:00,9h 30m,1 stop,No info,6838
+8119,IndiGo,6/06/2019,Delhi,Cochin,DEL → MAA → COK,07:15,12:30,5h 15m,1 stop,No info,6582
+8123,IndiGo,27/03/2019,Kolkata,Banglore,CCU → BLR,05:30,08:20,2h 50m,non-stop,No info,4148
+8124,IndiGo,27/03/2019,Delhi,Cochin,DEL → HYD → MAA → COK,11:55,21:20,9h 25m,2 stops,No info,6494
+8131,IndiGo,27/05/2019,Banglore,Delhi,BLR → DEL,08:30,11:20,2h 50m,non-stop,No info,4823
+8135,IndiGo,3/05/2019,Chennai,Kolkata,MAA → CCU,14:45,17:05,2h 20m,non-stop,No info,3858
+8155,IndiGo,6/06/2019,Banglore,Delhi,BLR → DEL,21:15,00:15 07 Jun,3h,non-stop,No info,3943
+8157,IndiGo,21/03/2019,Banglore,New Delhi,BLR → IDR → DEL,13:40,18:35,4h 55m,1 stop,No info,7166
+8163,IndiGo,18/06/2019,Chennai,Kolkata,MAA → CCU,07:55,10:15,2h 20m,non-stop,No info,3850
+8165,IndiGo,3/04/2019,Delhi,Cochin,DEL → MAA → COK,02:00,07:25,5h 25m,1 stop,No info,4744
+8170,IndiGo,3/03/2019,Mumbai,Hyderabad,BOM → HYD,16:55,18:25,1h 30m,non-stop,No info,6795
+8172,IndiGo,24/05/2019,Chennai,Kolkata,MAA → CCU,07:55,10:15,2h 20m,non-stop,No info,3850
+8178,IndiGo,3/06/2019,Banglore,Delhi,BLR → DEL,00:25,03:15,2h 50m,non-stop,No info,3943
+8186,IndiGo,3/04/2019,Kolkata,Banglore,CCU → BLR,09:35,12:20,2h 45m,non-stop,No info,4174
+8190,IndiGo,18/05/2019,Delhi,Cochin,DEL → BLR → COK,15:10,20:00,4h 50m,1 stop,No info,6496
+8191,IndiGo,15/06/2019,Delhi,Cochin,DEL → PNQ → COK,23:30,04:35 16 Jun,5h 5m,1 stop,No info,10112
+8193,IndiGo,1/06/2019,Delhi,Cochin,DEL → BOM → COK,10:35,01:30 02 Jun,14h 55m,1 stop,No info,6206
+8195,IndiGo,12/06/2019,Kolkata,Banglore,CCU → BLR,15:15,17:45,2h 30m,non-stop,No info,4804
+8200,IndiGo,24/04/2019,Delhi,Cochin,DEL → BOM → COK,20:25,01:30 25 Apr,5h 5m,1 stop,No info,5065
+8202,IndiGo,27/06/2019,Banglore,Delhi,BLR → DEL,22:10,01:00 28 Jun,2h 50m,non-stop,No info,3419
+8204,IndiGo,9/06/2019,Banglore,Delhi,BLR → DEL,21:15,00:15 10 Jun,3h,non-stop,No info,3943
+8214,IndiGo,18/05/2019,Delhi,Cochin,DEL → BLR → COK,05:10,10:05,4h 55m,1 stop,No info,7580
+8217,IndiGo,9/04/2019,Delhi,Cochin,DEL → BOM → COK,06:40,21:00,14h 20m,1 stop,No info,6093
+8226,IndiGo,21/05/2019,Delhi,Cochin,DEL → BOM → COK,09:15,01:30 22 May,16h 15m,1 stop,No info,7318
+8233,IndiGo,3/06/2019,Kolkata,Banglore,CCU → BLR,17:15,19:50,2h 35m,non-stop,No info,4804
+8238,IndiGo,18/05/2019,Chennai,Kolkata,MAA → CCU,14:45,17:05,2h 20m,non-stop,No info,3858
+8240,IndiGo,27/04/2019,Delhi,Cochin,DEL → BOM → COK,16:00,21:00,5h,1 stop,No info,6937
+8268,IndiGo,1/04/2019,Kolkata,Banglore,CCU → BLR,14:25,16:55,2h 30m,non-stop,No info,4174
+8278,IndiGo,9/04/2019,Kolkata,Banglore,CCU → HYD → BLR,19:20,23:45,4h 25m,1 stop,No info,3574
+8282,IndiGo,24/06/2019,Mumbai,Hyderabad,BOM → HYD,20:05,21:40,1h 35m,non-stop,No info,2227
+8283,IndiGo,9/06/2019,Chennai,Kolkata,MAA → CCU,14:45,17:05,2h 20m,non-stop,No info,3597
+8287,IndiGo,15/06/2019,Chennai,Kolkata,MAA → CCU,22:05,00:25 16 Jun,2h 20m,non-stop,No info,5277
+8293,IndiGo,27/06/2019,Delhi,Cochin,DEL → BOM → COK,10:35,01:30 28 Jun,14h 55m,1 stop,No info,5684
+8294,IndiGo,12/06/2019,Kolkata,Banglore,CCU → NAG → BLR,18:05,23:30,5h 25m,1 stop,No info,6218
+8307,IndiGo,01/03/2019,Banglore,New Delhi,BLR → DEL,18:25,21:20,2h 55m,non-stop,No info,12649
+8308,IndiGo,6/06/2019,Delhi,Cochin,DEL → BOM → COK,11:25,21:00,9h 35m,1 stop,No info,6093
+8312,IndiGo,9/06/2019,Mumbai,Hyderabad,BOM → HYD,02:35,04:05,1h 30m,non-stop,No info,2754
+8320,IndiGo,9/03/2019,Chennai,Kolkata,MAA → CCU,19:35,21:55,2h 20m,non-stop,No info,6297
+8322,IndiGo,15/06/2019,Banglore,Delhi,BLR → DEL,10:10,13:00,2h 50m,non-stop,No info,3943
+8327,IndiGo,15/03/2019,Kolkata,Banglore,CCU → BLR,22:10,00:55 16 Mar,2h 45m,non-stop,No info,4148
+8328,IndiGo,9/06/2019,Kolkata,Banglore,CCU → BLR,15:30,18:05,2h 35m,non-stop,No info,5224
+8329,IndiGo,9/05/2019,Kolkata,Banglore,CCU → BLR,04:40,07:15,2h 35m,non-stop,No info,4804
+8330,IndiGo,6/06/2019,Chennai,Kolkata,MAA → CCU,19:35,21:55,2h 20m,non-stop,No info,3597
+8331,IndiGo,27/06/2019,Kolkata,Banglore,CCU → BLR,11:30,14:05,2h 35m,non-stop,No info,4804
+8341,IndiGo,24/04/2019,Delhi,Cochin,DEL → HYD → COK,05:05,16:10,11h 5m,1 stop,No info,6171
+8356,IndiGo,6/03/2019,Delhi,Cochin,DEL → BLR → COK,05:05,10:05,5h,1 stop,No info,7894
+8357,IndiGo,24/06/2019,Banglore,Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,3943
+8361,IndiGo,21/05/2019,Delhi,Cochin,DEL → BLR → COK,17:05,22:15,5h 10m,1 stop,No info,6147
+8362,IndiGo,15/05/2019,Delhi,Cochin,DEL → BOM → COK,17:30,01:30 16 May,8h,1 stop,No info,6979
+8368,IndiGo,3/03/2019,Chennai,Kolkata,MAA → CCU,07:55,10:15,2h 20m,non-stop,No info,7295
+8369,IndiGo,18/04/2019,Banglore,Delhi,BLR → DEL,00:30,03:25,2h 55m,non-stop,No info,4423
+8370,IndiGo,24/03/2019,Banglore,New Delhi,BLR → DEL,23:30,02:20 28 Mar,2h 50m,non-stop,No info,5694
+8376,IndiGo,18/05/2019,Kolkata,Banglore,CCU → BLR,17:15,19:50,2h 35m,non-stop,No info,4804
+8379,IndiGo,1/03/2019,Kolkata,Banglore,CCU → BLR,15:20,17:55,2h 35m,non-stop,No info,6565
+8381,IndiGo,6/03/2019,Delhi,Cochin,DEL → BOM → COK,16:00,21:00,5h,1 stop,No info,7725
+8386,IndiGo,1/04/2019,Banglore,Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,3943
+8392,IndiGo,09/03/2019,Banglore,New Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,4777
+8393,IndiGo,9/04/2019,Kolkata,Banglore,CCU → BLR,15:30,18:05,2h 35m,non-stop,No info,4174
+8400,IndiGo,03/03/2019,Banglore,New Delhi,BLR → DEL,00:40,03:25,2h 45m,non-stop,No info,6860
+8401,IndiGo,18/05/2019,Kolkata,Banglore,CCU → BLR,09:35,12:20,2h 45m,non-stop,No info,4804
+8405,IndiGo,15/05/2019,Mumbai,Hyderabad,BOM → HYD,06:25,07:55,1h 30m,non-stop,No info,4049
+8412,IndiGo,1/05/2019,Mumbai,Hyderabad,BOM → HYD,06:25,07:55,1h 30m,non-stop,No info,4392
+8449,IndiGo,9/03/2019,Kolkata,Banglore,CCU → BLR,21:25,00:05 10 Mar,2h 40m,non-stop,No info,4148
+8452,IndiGo,24/04/2019,Delhi,Cochin,DEL → BLR → COK,02:00,07:45,5h 45m,1 stop,No info,5241
+8454,IndiGo,12/06/2019,Delhi,Cochin,DEL → BOM → COK,10:35,01:30 13 Jun,14h 55m,1 stop,No info,5883
+8462,IndiGo,1/06/2019,Delhi,Cochin,DEL → HYD → COK,08:35,22:30,13h 55m,1 stop,No info,6442
+8478,IndiGo,3/06/2019,Mumbai,Hyderabad,BOM → HYD,12:00,13:30,1h 30m,non-stop,No info,2754
+8480,IndiGo,27/04/2019,Delhi,Cochin,DEL → COK,14:20,17:35,3h 15m,non-stop,No info,5021
+8487,IndiGo,27/03/2019,Delhi,Cochin,DEL → BBI → COK,02:35,08:30,5h 55m,1 stop,No info,7731
+8491,IndiGo,21/03/2019,Banglore,New Delhi,BLR → DEL,10:10,13:00,2h 50m,non-stop,No info,4777
+8494,IndiGo,27/04/2019,Banglore,Delhi,BLR → DEL,18:25,21:20,2h 55m,non-stop,No info,4823
+8506,IndiGo,15/06/2019,Delhi,Cochin,DEL → BOM → COK,07:30,21:00,13h 30m,1 stop,No info,6093
+8507,IndiGo,6/03/2019,Delhi,Cochin,DEL → HYD → COK,08:35,16:10,7h 35m,1 stop,No info,7514
+8508,IndiGo,18/05/2019,Delhi,Cochin,DEL → COK,14:25,17:40,3h 15m,non-stop,No info,6015
+8511,IndiGo,15/05/2019,Banglore,Delhi,BLR → DEL,08:30,11:20,2h 50m,non-stop,No info,4823
+8513,IndiGo,1/05/2019,Chennai,Kolkata,MAA → CCU,13:15,15:35,2h 20m,non-stop,No info,3597
+8520,IndiGo,3/06/2019,Delhi,Cochin,DEL → MAA → COK,02:00,07:25,5h 25m,1 stop,No info,5636
+8521,IndiGo,15/04/2019,Banglore,Delhi,BLR → DEL,18:55,21:50,2h 55m,non-stop,No info,4823
+8524,IndiGo,1/03/2019,Mumbai,Hyderabad,BOM → HYD,09:10,10:40,1h 30m,non-stop,No info,13999
+8530,IndiGo,24/06/2019,Delhi,Cochin,DEL → MAA → COK,07:15,12:30,5h 15m,1 stop,No info,6582
+8532,IndiGo,27/03/2019,Delhi,Cochin,DEL → BOM → COK,18:35,01:35 28 Mar,7h,1 stop,No info,8574
+8533,IndiGo,9/03/2019,Mumbai,Hyderabad,BOM → HYD,02:30,04:00,1h 30m,non-stop,No info,4784
+8534,IndiGo,3/06/2019,Delhi,Cochin,DEL → HYD → COK,05:05,12:10,7h 5m,1 stop,No info,6818
+8539,IndiGo,1/03/2019,Kolkata,Banglore,CCU → BLR,22:10,00:55 02 Mar,2h 45m,non-stop,No info,4778
+8552,IndiGo,18/04/2019,Kolkata,Banglore,CCU → BLR,14:25,16:55,2h 30m,non-stop,No info,5224
+8554,IndiGo,09/03/2019,Banglore,New Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,6860
+8563,IndiGo,9/05/2019,Kolkata,Banglore,CCU → MAA → BLR,17:35,22:15,4h 40m,1 stop,No info,5386
+8566,IndiGo,15/05/2019,Delhi,Cochin,DEL → HYD → COK,11:55,22:30,10h 35m,1 stop,No info,6442
+8573,IndiGo,6/06/2019,Delhi,Cochin,DEL → BOM → COK,10:35,01:30 07 Jun,14h 55m,1 stop,No info,5883
+8577,IndiGo,15/03/2019,Chennai,Kolkata,MAA → CCU,14:40,17:05,2h 25m,non-stop,No info,6297
+8584,IndiGo,18/05/2019,Delhi,Cochin,DEL → MAA → COK,02:00,07:25,5h 25m,1 stop,No info,7464
+8595,IndiGo,21/05/2019,Delhi,Cochin,DEL → BOM → COK,17:30,01:30 22 May,8h,1 stop,No info,6794
+8599,IndiGo,9/05/2019,Kolkata,Banglore,CCU → HYD → BLR,15:15,20:30,5h 15m,1 stop,No info,4565
+8610,IndiGo,01/03/2019,Banglore,New Delhi,BLR → HYD → DEL,07:30,12:20,4h 50m,1 stop,No info,8110
+8623,IndiGo,24/04/2019,Kolkata,Banglore,CCU → BLR,20:20,22:55,2h 35m,non-stop,No info,4804
+8625,IndiGo,12/05/2019,Kolkata,Banglore,CCU → BLR,04:40,07:15,2h 35m,non-stop,No info,4804
+8627,IndiGo,24/03/2019,Mumbai,Hyderabad,BOM → HYD,19:05,20:30,1h 25m,non-stop,No info,2754
+8629,IndiGo,24/03/2019,Kolkata,Banglore,CCU → MAA → BLR,17:35,22:15,4h 40m,1 stop,No info,6933
+8635,IndiGo,27/06/2019,Delhi,Cochin,DEL → HYD → COK,07:35,16:10,8h 35m,1 stop,No info,6442
+8636,IndiGo,1/04/2019,Delhi,Cochin,DEL → COK,14:20,17:35,3h 15m,non-stop,No info,4729
+8637,IndiGo,6/03/2019,Delhi,Cochin,DEL → HYD → COK,11:55,22:20,10h 25m,1 stop,No info,6442
+8642,IndiGo,3/03/2019,Chennai,Kolkata,MAA → CCU,13:20,15:35,2h 15m,non-stop,No info,7295
+8645,IndiGo,6/03/2019,Delhi,Cochin,DEL → BOM → COK,06:40,21:00,14h 20m,1 stop,No info,14871
+8646,IndiGo,15/06/2019,Chennai,Kolkata,MAA → CCU,15:40,18:25,2h 45m,non-stop,No info,3540
+8647,IndiGo,1/06/2019,Delhi,Cochin,DEL → HYD → COK,06:50,22:30,15h 40m,1 stop,No info,6442
+8650,IndiGo,9/05/2019,Chennai,Kolkata,MAA → CCU,07:55,10:15,2h 20m,non-stop,No info,3850
+8657,IndiGo,21/04/2019,Banglore,Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,4423
+8661,IndiGo,3/05/2019,Kolkata,Banglore,CCU → BLR,17:15,19:50,2h 35m,non-stop,No info,4804
+8662,IndiGo,1/06/2019,Delhi,Cochin,DEL → HYD → COK,14:20,22:30,8h 10m,1 stop,No info,6938
+8675,IndiGo,12/04/2019,Banglore,Delhi,BLR → DEL,16:55,19:55,3h,non-stop,No info,4990
+8678,IndiGo,18/05/2019,Delhi,Cochin,DEL → COK,05:35,08:50,3h 15m,non-stop,No info,6015
+8685,IndiGo,9/06/2019,Chennai,Kolkata,MAA → CCU,07:55,10:15,2h 20m,non-stop,No info,3850
+8689,IndiGo,9/03/2019,Delhi,Cochin,DEL → HYD → COK,11:55,22:20,10h 25m,1 stop,No info,6674
+8691,IndiGo,21/04/2019,Banglore,Delhi,BLR → DEL,00:30,03:25,2h 55m,non-stop,No info,3943
+8693,IndiGo,09/03/2019,Banglore,New Delhi,BLR → DEL,18:55,21:45,2h 50m,non-stop,No info,6860
+8698,IndiGo,12/03/2019,Chennai,Kolkata,MAA → CCU,11:35,14:00,2h 25m,non-stop,No info,6297
+8699,IndiGo,24/03/2019,Chennai,Kolkata,MAA → CCU,11:35,14:00,2h 25m,non-stop,No info,4332
+8711,IndiGo,21/06/2019,Banglore,Delhi,BLR → DEL,13:00,15:50,2h 50m,non-stop,No info,3943
+8714,IndiGo,01/03/2019,Banglore,New Delhi,BLR → DEL,16:55,19:45,2h 50m,non-stop,No info,12649
+8722,IndiGo,6/04/2019,Banglore,Delhi,BLR → DEL,20:00,22:50,2h 50m,non-stop,No info,4823
+8731,IndiGo,9/06/2019,Banglore,Delhi,BLR → DEL,20:00,22:50,2h 50m,non-stop,No info,4823
+8748,IndiGo,12/06/2019,Delhi,Cochin,DEL → BLR → COK,17:05,22:25,5h 20m,1 stop,No info,6147
+8765,IndiGo,27/06/2019,Delhi,Cochin,DEL → BOM → COK,17:30,01:30 28 Jun,8h,1 stop,No info,5684
+8773,IndiGo,24/04/2019,Delhi,Cochin,DEL → HYD → COK,05:05,12:10,7h 5m,1 stop,No info,6171
+8781,IndiGo,12/04/2019,Banglore,Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,4423
+8798,IndiGo,6/06/2019,Delhi,Cochin,DEL → BOM → COK,06:40,21:00,14h 20m,1 stop,No info,6093
+8800,IndiGo,6/06/2019,Chennai,Kolkata,MAA → CCU,14:45,17:05,2h 20m,non-stop,No info,3597
+8802,IndiGo,9/03/2019,Delhi,Cochin,DEL → BLR → COK,02:00,07:45,5h 45m,1 stop,No info,7060
+8806,IndiGo,3/03/2019,Kolkata,Banglore,CCU → BLR,10:10,12:55,2h 45m,non-stop,No info,6565
+8807,IndiGo,21/06/2019,Chennai,Kolkata,MAA → CCU,14:45,17:05,2h 20m,non-stop,No info,3597
+8815,IndiGo,6/04/2019,Kolkata,Banglore,CCU → BLR,21:25,00:05 07 Apr,2h 40m,non-stop,No info,4174
+8817,IndiGo,15/05/2019,Kolkata,Banglore,CCU → MAA → BLR,17:35,22:15,4h 40m,1 stop,No info,5386
+8819,IndiGo,15/06/2019,Delhi,Cochin,DEL → HYD → COK,14:20,22:30,8h 10m,1 stop,No info,6412
+8831,IndiGo,21/03/2019,Delhi,Cochin,DEL → BOM → COK,04:45,15:30,10h 45m,1 stop,No info,7738
+8832,IndiGo,18/05/2019,Delhi,Cochin,DEL → BOM → COK,15:00,01:30 19 May,10h 30m,1 stop,No info,7503
+8833,IndiGo,3/06/2019,Delhi,Cochin,DEL → BOM → COK,11:25,01:30 04 Jun,14h 5m,1 stop,No info,5883
+8835,IndiGo,15/04/2019,Banglore,Delhi,BLR → DEL,08:30,11:20,2h 50m,non-stop,No info,4823
+8841,IndiGo,9/05/2019,Delhi,Cochin,DEL → BOM → COK,09:15,01:30 10 May,16h 15m,1 stop,No info,8854
+8842,IndiGo,15/05/2019,Mumbai,Hyderabad,BOM → HYD,02:35,04:05,1h 30m,non-stop,No info,2754
+8846,IndiGo,15/06/2019,Chennai,Kolkata,MAA → CCU,05:15,07:40,2h 25m,non-stop,No info,3540
+8848,IndiGo,09/03/2019,Banglore,New Delhi,BLR → DEL,10:30,13:20,2h 50m,non-stop,No info,6860
+8857,IndiGo,27/06/2019,Banglore,Delhi,BLR → DEL,18:55,21:50,2h 55m,non-stop,No info,4990
+8865,IndiGo,6/06/2019,Kolkata,Banglore,CCU → MAA → BLR,06:20,10:20,4h,1 stop,No info,4226
+8866,IndiGo,21/03/2019,Delhi,Cochin,DEL → BOM → COK,11:30,01:35 22 Mar,14h 5m,1 stop,No info,7318
+8876,IndiGo,6/04/2019,Banglore,Delhi,BLR → DEL,08:30,11:20,2h 50m,non-stop,No info,4823
+8878,IndiGo,27/03/2019,Kolkata,Banglore,CCU → BLR,09:35,12:20,2h 45m,non-stop,No info,4148
+8883,IndiGo,1/05/2019,Kolkata,Banglore,CCU → BLR,17:15,19:50,2h 35m,non-stop,No info,4804
+8884,IndiGo,09/03/2019,Banglore,New Delhi,BLR → STV → DEL,11:20,15:25,4h 5m,1 stop,No info,5746
+8886,IndiGo,18/03/2019,Chennai,Kolkata,MAA → CCU,19:35,21:55,2h 20m,non-stop,No info,4332
+8887,IndiGo,1/06/2019,Delhi,Cochin,DEL → BOM → COK,11:25,21:00,9h 35m,1 stop,No info,6416
+8900,IndiGo,15/05/2019,Delhi,Cochin,DEL → HYD → COK,16:10,22:30,6h 20m,1 stop,No info,6412
+8901,IndiGo,27/03/2019,Delhi,Cochin,DEL → HYD → MAA → COK,08:35,21:20,12h 45m,2 stops,No info,6494
+8913,IndiGo,03/03/2019,Banglore,New Delhi,BLR → BOM → DEL,19:35,00:35 07 Mar,5h,1 stop,No info,13292
+8914,IndiGo,9/04/2019,Kolkata,Banglore,CCU → BLR,22:15,00:50 10 Apr,2h 35m,non-stop,No info,4174
+8916,IndiGo,24/04/2019,Delhi,Cochin,DEL → BLR → COK,17:05,22:15,5h 10m,1 stop,No info,5912
+8928,IndiGo,24/04/2019,Delhi,Cochin,DEL → BOM → COK,16:00,21:00,5h,1 stop,No info,5065
+8936,IndiGo,01/03/2019,Banglore,New Delhi,BLR → DEL,13:00,15:50,2h 50m,non-stop,No info,19685
+8955,IndiGo,12/06/2019,Kolkata,Banglore,CCU → MAA → BLR,06:20,10:20,4h,1 stop,No info,4226
+8965,IndiGo,3/03/2019,Delhi,Cochin,DEL → BOM → COK,16:00,01:35 04 Mar,9h 35m,1 stop,No info,14871
+8968,IndiGo,21/05/2019,Kolkata,Banglore,CCU → BLR,21:25,00:05 22 May,2h 40m,non-stop,No info,4804
+8976,IndiGo,15/05/2019,Delhi,Cochin,DEL → BOM → COK,06:40,21:00,14h 20m,1 stop,No info,7191
+8983,IndiGo,27/03/2019,Delhi,Cochin,DEL → BOM → COK,16:00,21:00,5h,1 stop,No info,5073
+8988,IndiGo,3/03/2019,Delhi,Cochin,DEL → BOM → COK,18:35,01:35 04 Mar,7h,1 stop,No info,14871
+8993,IndiGo,3/06/2019,Kolkata,Banglore,CCU → BLR,11:30,14:05,2h 35m,non-stop,No info,4804
+8994,IndiGo,27/03/2019,Delhi,Cochin,DEL → BLR → COK,05:05,10:05,5h,1 stop,No info,6827
+9006,IndiGo,1/06/2019,Delhi,Cochin,DEL → BLR → COK,02:00,07:45,5h 45m,1 stop,No info,6386
+9011,IndiGo,03/03/2019,Banglore,New Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,7648
+9013,IndiGo,27/06/2019,Mumbai,Hyderabad,BOM → HYD,06:25,07:55,1h 30m,non-stop,No info,4049
+9019,IndiGo,1/06/2019,Chennai,Kolkata,MAA → CCU,14:45,17:05,2h 20m,non-stop,No info,3597
+9030,IndiGo,3/05/2019,Chennai,Kolkata,MAA → CCU,19:35,21:55,2h 20m,non-stop,No info,3597
+9037,IndiGo,18/06/2019,Delhi,Cochin,DEL → COK,05:35,08:50,3h 15m,non-stop,No info,5000
+9044,IndiGo,27/05/2019,Delhi,Cochin,DEL → LKO → COK,21:50,03:35 28 May,5h 45m,1 stop,No info,6769
+9047,IndiGo,1/03/2019,Chennai,Kolkata,MAA → CCU,07:55,10:15,2h 20m,non-stop,No info,8580
+9060,IndiGo,21/03/2019,Mumbai,Hyderabad,BOM → HYD,09:10,10:35,1h 25m,non-stop,No info,4049
+9066,IndiGo,1/06/2019,Delhi,Cochin,DEL → MAA → COK,02:00,07:25,5h 25m,1 stop,No info,5636
+9075,IndiGo,12/06/2019,Delhi,Cochin,DEL → BOM → COK,18:35,01:30 13 Jun,6h 55m,1 stop,No info,5883
+9089,IndiGo,24/06/2019,Kolkata,Banglore,CCU → BLR,15:15,17:45,2h 30m,non-stop,No info,4804
+9091,IndiGo,6/03/2019,Delhi,Cochin,DEL → BOM → COK,04:45,13:20,8h 35m,1 stop,No info,13611
+9092,IndiGo,6/06/2019,Delhi,Cochin,DEL → BOM → COK,09:15,01:30 07 Jun,16h 15m,1 stop,No info,6628
+9093,IndiGo,12/06/2019,Delhi,Cochin,DEL → COK,14:25,17:40,3h 15m,non-stop,No info,5601
+9095,IndiGo,21/05/2019,Banglore,Delhi,BLR → DEL,10:10,13:00,2h 50m,non-stop,No info,3943
+9099,IndiGo,15/06/2019,Delhi,Cochin,DEL → BOM → COK,18:35,01:30 16 Jun,6h 55m,1 stop,No info,5883
+9100,IndiGo,27/04/2019,Kolkata,Banglore,CCU → BLR,11:30,14:05,2h 35m,non-stop,No info,4804
+9117,IndiGo,3/05/2019,Mumbai,Hyderabad,BOM → HYD,06:25,07:55,1h 30m,non-stop,No info,4049
+9131,IndiGo,6/06/2019,Kolkata,Banglore,CCU → BLR,21:25,00:05 07 Jun,2h 40m,non-stop,No info,4804
+9137,IndiGo,12/04/2019,Kolkata,Banglore,CCU → BLR,22:15,00:50 13 Apr,2h 35m,non-stop,No info,4174
+9142,IndiGo,1/06/2019,Mumbai,Hyderabad,BOM → HYD,06:25,07:55,1h 30m,non-stop,No info,4049
+9144,IndiGo,18/05/2019,Kolkata,Banglore,CCU → BLR,20:20,22:55,2h 35m,non-stop,No info,4804
+9145,IndiGo,03/03/2019,Banglore,New Delhi,BLR → DEL,13:00,15:50,2h 50m,non-stop,No info,7648
+9146,IndiGo,3/05/2019,Chennai,Kolkata,MAA → CCU,07:55,10:15,2h 20m,non-stop,No info,3850
+9148,IndiGo,18/06/2019,Chennai,Kolkata,MAA → CCU,05:15,07:40,2h 25m,non-stop,No info,3540
+9151,IndiGo,3/06/2019,Chennai,Kolkata,MAA → CCU,22:05,00:25 04 Jun,2h 20m,non-stop,No info,5277
+9152,IndiGo,6/04/2019,Delhi,Cochin,DEL → BOM → COK,16:00,21:00,5h,1 stop,No info,5073
+9158,IndiGo,24/06/2019,Mumbai,Hyderabad,BOM → HYD,01:40,03:10,1h 30m,non-stop,No info,2754
+9169,IndiGo,3/05/2019,Banglore,Delhi,BLR → DEL,21:15,00:15 04 May,3h,non-stop,No info,3943
+9176,IndiGo,27/03/2019,Delhi,Cochin,DEL → HYD → MAA → COK,06:40,21:20,14h 40m,2 stops,No info,6494
+9177,IndiGo,24/03/2019,Banglore,New Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,4777
+9182,IndiGo,3/04/2019,Kolkata,Banglore,CCU → BLR,15:15,17:45,2h 30m,non-stop,No info,4174
+9191,IndiGo,24/05/2019,Banglore,Delhi,BLR → DEL,18:25,21:20,2h 55m,non-stop,No info,4823
+9193,IndiGo,12/06/2019,Mumbai,Hyderabad,BOM → HYD,20:05,21:40,1h 35m,non-stop,No info,2227
+9194,IndiGo,09/03/2019,Banglore,New Delhi,BLR → DEL,00:40,03:25,2h 45m,non-stop,No info,4545
+9195,IndiGo,21/03/2019,Kolkata,Banglore,CCU → BLR,17:15,19:55,2h 40m,non-stop,No info,4148
+9196,IndiGo,12/03/2019,Kolkata,Banglore,CCU → BLR,15:10,17:45,2h 35m,non-stop,No info,4148
+9200,IndiGo,27/06/2019,Delhi,Cochin,DEL → COK,14:25,17:40,3h 15m,non-stop,No info,5000
+9211,IndiGo,9/05/2019,Kolkata,Banglore,CCU → BLR,15:30,18:05,2h 35m,non-stop,No info,4804
+9212,IndiGo,9/05/2019,Kolkata,Banglore,CCU → BBI → BLR,07:10,12:40,5h 30m,1 stop,No info,4864
+9219,IndiGo,01/03/2019,Banglore,New Delhi,BLR → HYD → DEL,05:15,10:00,4h 45m,1 stop,No Info,8064
+9221,IndiGo,3/05/2019,Chennai,Kolkata,MAA → CCU,22:05,00:25 04 May,2h 20m,non-stop,No info,5277
+9235,IndiGo,24/03/2019,Kolkata,Banglore,CCU → BLR,09:35,12:20,2h 45m,non-stop,No info,6038
+9244,IndiGo,27/03/2019,Delhi,Cochin,DEL → HYD → COK,14:20,22:20,8h,1 stop,No info,6938
+9251,IndiGo,27/04/2019,Delhi,Cochin,DEL → HYD → COK,05:05,12:10,7h 5m,1 stop,No info,7160
+9263,IndiGo,3/06/2019,Banglore,Delhi,BLR → DEL,18:25,21:20,2h 55m,non-stop,No info,4823
+9268,IndiGo,3/05/2019,Kolkata,Banglore,CCU → BLR,04:40,07:15,2h 35m,non-stop,No info,4804
+9270,IndiGo,3/03/2019,Delhi,Cochin,DEL → COK,21:05,00:20 04 Mar,3h 15m,non-stop,No info,7673
+9271,IndiGo,21/04/2019,Delhi,Cochin,DEL → COK,05:35,08:50,3h 15m,non-stop,No info,6015
+9272,IndiGo,24/04/2019,Kolkata,Banglore,CCU → BLR,11:30,14:05,2h 35m,non-stop,No info,4804
+9277,IndiGo,3/04/2019,Mumbai,Hyderabad,BOM → HYD,19:05,20:35,1h 30m,non-stop,No info,2754
+9303,IndiGo,15/06/2019,Delhi,Cochin,DEL → BOM → COK,09:15,21:00,11h 45m,1 stop,No info,6838
+9305,IndiGo,18/06/2019,Banglore,Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,3943
+9317,IndiGo,3/05/2019,Banglore,Delhi,BLR → DEL,00:30,03:25,2h 55m,non-stop,No info,3943
+9318,IndiGo,15/04/2019,Kolkata,Banglore,CCU → HYD → BLR,15:15,20:05,4h 50m,1 stop,No info,4775
+9321,IndiGo,9/06/2019,Kolkata,Banglore,CCU → BLR,17:15,19:50,2h 35m,non-stop,No info,4804
+9343,IndiGo,9/05/2019,Delhi,Cochin,DEL → COK,14:25,17:40,3h 15m,non-stop,No info,6015
+9346,IndiGo,27/03/2019,Kolkata,Banglore,CCU → BLR,10:10,12:55,2h 45m,non-stop,No info,4148
+9348,IndiGo,12/05/2019,Kolkata,Banglore,CCU → BBI → BLR,19:35,23:15,3h 40m,1 stop,No info,5276
+9351,IndiGo,9/03/2019,Delhi,Cochin,DEL → HYD → MAA → COK,11:55,21:20,9h 25m,2 stops,No info,8378
+9353,IndiGo,12/06/2019,Banglore,Delhi,BLR → DEL,18:55,21:50,2h 55m,non-stop,No info,4823
+9359,IndiGo,15/05/2019,Delhi,Cochin,DEL → HYD → COK,07:35,16:10,8h 35m,1 stop,No info,6442
+9361,IndiGo,1/04/2019,Delhi,Cochin,DEL → BOM → COK,20:25,01:30 02 Apr,5h 5m,1 stop,No info,5073
+9374,IndiGo,15/06/2019,Delhi,Cochin,DEL → BOM → COK,06:40,21:00,14h 20m,1 stop,No info,6093
+9377,IndiGo,24/05/2019,Kolkata,Banglore,CCU → PNQ → BLR,21:00,02:15 25 May,5h 15m,1 stop,No info,6534
+9389,IndiGo,21/04/2019,Kolkata,Banglore,CCU → BLR,21:25,00:05 22 Apr,2h 40m,non-stop,No info,4804
+9390,IndiGo,15/05/2019,Delhi,Cochin,DEL → BOM → COK,11:25,21:00,9h 35m,1 stop,No info,6979
+9420,IndiGo,12/03/2019,Kolkata,Banglore,CCU → BLR,21:25,00:05 13 Mar,2h 40m,non-stop,No info,4148
+9429,IndiGo,27/05/2019,Delhi,Cochin,DEL → HYD → COK,07:35,12:10,4h 35m,1 stop,No info,5054
+9441,IndiGo,3/03/2019,Delhi,Cochin,DEL → HYD → COK,08:35,22:20,13h 45m,1 stop,No info,10236
+9446,IndiGo,9/05/2019,Chennai,Kolkata,MAA → CCU,19:35,21:55,2h 20m,non-stop,No info,3597
+9455,IndiGo,12/03/2019,Mumbai,Hyderabad,BOM → HYD,06:20,07:45,1h 25m,non-stop,No info,4049
+9465,IndiGo,24/06/2019,Delhi,Cochin,DEL → COK,14:20,17:35,3h 15m,non-stop,No info,5000
+9467,IndiGo,3/03/2019,Delhi,Cochin,DEL → HYD → COK,11:55,22:20,10h 25m,1 stop,No info,11600
+9470,IndiGo,09/03/2019,Banglore,New Delhi,BLR → DEL,16:55,19:45,2h 50m,non-stop,No info,7648
+9475,IndiGo,24/03/2019,Chennai,Kolkata,MAA → CCU,19:35,21:55,2h 20m,non-stop,No info,7295
+9476,IndiGo,27/06/2019,Delhi,Cochin,DEL → HYD → COK,05:05,12:10,7h 5m,1 stop,No info,6442
+9477,IndiGo,6/05/2019,Kolkata,Banglore,CCU → HYD → BLR,19:20,23:45,4h 25m,1 stop,No info,3809
+9480,IndiGo,6/05/2019,Banglore,Delhi,BLR → DEL,10:10,13:00,2h 50m,non-stop,No info,3943
+9484,IndiGo,21/05/2019,Mumbai,Hyderabad,BOM → HYD,21:20,22:50,1h 30m,non-stop,No info,2227
+9490,IndiGo,3/04/2019,Delhi,Cochin,DEL → HYD → COK,07:35,12:10,4h 35m,1 stop,No info,5073
+9492,IndiGo,24/03/2019,Chennai,Kolkata,MAA → CCU,13:20,15:35,2h 15m,non-stop,No info,4752
+9501,IndiGo,24/05/2019,Banglore,Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,4823
+9504,IndiGo,27/06/2019,Delhi,Cochin,DEL → BOM → COK,11:25,01:30 28 Jun,14h 5m,1 stop,No info,5684
+9507,IndiGo,21/05/2019,Banglore,Delhi,BLR → DEL,20:00,22:50,2h 50m,non-stop,No info,4823
+9509,IndiGo,27/06/2019,Banglore,Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,3943
+9515,IndiGo,9/06/2019,Delhi,Cochin,DEL → HYD → COK,06:50,16:10,9h 20m,1 stop,No info,6442
+9535,IndiGo,15/05/2019,Banglore,Delhi,BLR → DEL,22:10,01:00 16 May,2h 50m,non-stop,No info,3419
+9560,IndiGo,1/04/2019,Banglore,Delhi,BLR → DEL,16:55,19:55,3h,non-stop,No info,4823
+9564,IndiGo,1/04/2019,Kolkata,Banglore,CCU → BLR,11:30,14:05,2h 35m,non-stop,No info,4174
+9574,IndiGo,15/05/2019,Kolkata,Banglore,CCU → MAA → BLR,06:20,10:20,4h,1 stop,No info,4226
+9575,IndiGo,9/03/2019,Delhi,Cochin,DEL → BBI → COK,02:35,08:30,5h 55m,1 stop,No info,11532
+9592,IndiGo,21/04/2019,Kolkata,Banglore,CCU → BLR,11:30,14:05,2h 35m,non-stop,No info,5644
+9597,IndiGo,1/04/2019,Kolkata,Banglore,CCU → BLR,09:35,12:20,2h 45m,non-stop,No info,4174
+9600,IndiGo,18/06/2019,Mumbai,Hyderabad,BOM → HYD,09:15,10:45,1h 30m,non-stop,No info,4049
+9602,IndiGo,12/06/2019,Banglore,Delhi,BLR → DEL,00:30,03:25,2h 55m,non-stop,No info,3419
+9603,IndiGo,27/03/2019,Delhi,Cochin,DEL → HYD → COK,07:35,12:00,4h 25m,1 stop,No info,5073
+9604,IndiGo,6/06/2019,Delhi,Cochin,DEL → BOM → COK,16:00,21:00,5h,1 stop,No info,6069
+9605,IndiGo,21/03/2019,Delhi,Cochin,DEL → BOM → COK,08:25,15:30,7h 5m,1 stop,No info,9709
+9616,IndiGo,6/06/2019,Banglore,Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,3943
+9622,IndiGo,21/03/2019,Banglore,New Delhi,BLR → AMD → DEL,14:25,19:25,5h,1 stop,No info,7708
+9627,IndiGo,27/04/2019,Delhi,Cochin,DEL → BLR → COK,02:00,07:45,5h 45m,1 stop,No info,7173
+9629,IndiGo,6/06/2019,Delhi,Cochin,DEL → BOM → COK,20:25,01:30 07 Jun,5h 5m,1 stop,No info,5054
+9638,IndiGo,24/06/2019,Chennai,Kolkata,MAA → CCU,19:35,21:55,2h 20m,non-stop,No info,3597
+9640,IndiGo,21/06/2019,Chennai,Kolkata,MAA → CCU,13:15,15:35,2h 20m,non-stop,No info,3597
+9653,IndiGo,15/05/2019,Delhi,Cochin,DEL → BOM → COK,18:35,01:30 16 May,6h 55m,1 stop,No info,7191
+9658,IndiGo,21/03/2019,Delhi,Cochin,DEL → BOM → COK,07:30,21:00,13h 30m,1 stop,No info,8784
+9670,IndiGo,21/05/2019,Chennai,Kolkata,MAA → CCU,07:55,10:15,2h 20m,non-stop,No info,3850
+9674,IndiGo,6/03/2019,Delhi,Cochin,DEL → HYD → MAA → COK,06:40,21:20,14h 40m,2 stops,No info,6610
+9675,IndiGo,09/03/2019,Banglore,New Delhi,BLR → HYD → DEL,15:40,20:35,4h 55m,1 stop,No info,5226
+9678,IndiGo,27/05/2019,Delhi,Cochin,DEL → HYD → COK,06:50,22:30,15h 40m,1 stop,No info,6674
+9681,IndiGo,1/06/2019,Chennai,Kolkata,MAA → CCU,19:35,21:55,2h 20m,non-stop,No info,3597
+9685,IndiGo,27/05/2019,Kolkata,Banglore,CCU → BLR,22:15,00:50 28 May,2h 35m,non-stop,No info,4804
+9692,IndiGo,27/03/2019,Delhi,Cochin,DEL → HYD → COK,04:55,16:10,11h 15m,1 stop,No info,6171
+9699,IndiGo,27/05/2019,Mumbai,Hyderabad,BOM → HYD,21:20,22:50,1h 30m,non-stop,No info,2227
+9705,IndiGo,1/06/2019,Delhi,Cochin,DEL → HYD → COK,07:35,22:30,14h 55m,1 stop,No info,6442
+9710,IndiGo,9/03/2019,Chennai,Kolkata,MAA → CCU,13:20,15:35,2h 15m,non-stop,No info,6297
+9713,IndiGo,24/06/2019,Delhi,Cochin,DEL → BOM → COK,09:15,21:00,11h 45m,1 stop,No info,6838
+9722,IndiGo,9/05/2019,Delhi,Cochin,DEL → BOM → COK,11:25,01:30 10 May,14h 5m,1 stop,No info,8330
+9723,IndiGo,21/05/2019,Banglore,Delhi,BLR → DEL,07:10,10:05,2h 55m,non-stop,No info,4823
+9724,IndiGo,27/05/2019,Delhi,Cochin,DEL → BOM → COK,17:10,01:30 28 May,8h 20m,1 stop,No info,6206
+9747,IndiGo,9/06/2019,Banglore,Delhi,BLR → DEL,18:55,21:50,2h 55m,non-stop,No info,4823
+9749,IndiGo,21/03/2019,Delhi,Cochin,DEL → MAA → COK,07:20,12:30,5h 10m,1 stop,No info,6388
+9753,IndiGo,1/06/2019,Banglore,Delhi,BLR → DEL,00:25,03:15,2h 50m,non-stop,No info,4077
+9759,IndiGo,15/04/2019,Banglore,Delhi,BLR → DEL,13:00,15:50,2h 50m,non-stop,No info,4591
+9762,IndiGo,3/04/2019,Kolkata,Banglore,CCU → BLR,04:40,07:15,2h 35m,non-stop,No info,4174
+9766,IndiGo,9/03/2019,Delhi,Cochin,DEL → BOM → COK,20:30,01:35 10 Mar,5h 5m,1 stop,No info,6937
+9774,IndiGo,15/03/2019,Banglore,New Delhi,BLR → BOM → DEL,19:35,00:35 16 Mar,5h,1 stop,No info,10509
+9775,IndiGo,3/06/2019,Chennai,Kolkata,MAA → CCU,13:15,15:35,2h 20m,non-stop,No info,3597
+9782,IndiGo,27/04/2019,Delhi,Cochin,DEL → HYD → COK,07:35,12:10,4h 35m,1 stop,No info,5073
+9792,IndiGo,24/05/2019,Banglore,Delhi,BLR → DEL,18:55,21:50,2h 55m,non-stop,No info,4823
+9804,IndiGo,27/03/2019,Delhi,Cochin,DEL → HYD → COK,04:55,12:00,7h 5m,1 stop,No info,6171
+9807,IndiGo,24/06/2019,Delhi,Cochin,DEL → BOM → COK,07:30,21:00,13h 30m,1 stop,No info,6093
+9813,IndiGo,1/06/2019,Delhi,Cochin,DEL → BOM → COK,11:25,01:30 02 Jun,14h 5m,1 stop,No info,6206
+9816,IndiGo,9/06/2019,Delhi,Cochin,DEL → BOM → COK,04:55,21:00,16h 5m,1 stop,No info,6093
+9820,IndiGo,9/03/2019,Delhi,Cochin,DEL → BOM → COK,15:00,01:35 10 Mar,10h 35m,1 stop,No info,13611
+9821,IndiGo,9/05/2019,Delhi,Cochin,DEL → HYD → COK,16:10,22:30,6h 20m,1 stop,No info,6704
+9822,IndiGo,9/05/2019,Kolkata,Banglore,CCU → MAA → BLR,06:20,10:20,4h,1 stop,No info,4226
+9827,IndiGo,27/03/2019,Delhi,Cochin,DEL → BOM → COK,09:10,15:30,6h 20m,1 stop,No info,10141
+9829,IndiGo,15/04/2019,Delhi,Cochin,DEL → HYD → COK,07:35,16:10,8h 35m,1 stop,No info,6442
+9836,IndiGo,15/05/2019,Kolkata,Banglore,CCU → NAG → BLR,18:05,23:30,5h 25m,1 stop,No info,6218
+9843,IndiGo,24/03/2019,Banglore,New Delhi,BLR → DEL,21:20,00:15 22 Mar,2h 55m,non-stop,No info,4777
+9846,IndiGo,15/05/2019,Chennai,Kolkata,MAA → CCU,22:05,00:25 16 May,2h 20m,non-stop,No info,5277
+9849,IndiGo,09/03/2019,Banglore,New Delhi,BLR → DEL,22:20,01:10 10 Mar,2h 50m,non-stop,No info,6144
+9852,IndiGo,6/04/2019,Banglore,Delhi,BLR → DEL,10:30,13:20,2h 50m,non-stop,No info,4423
+9857,IndiGo,15/05/2019,Kolkata,Banglore,CCU → BLR,04:40,07:15,2h 35m,non-stop,No info,4804
+9892,IndiGo,12/06/2019,Mumbai,Hyderabad,BOM → HYD,21:20,22:50,1h 30m,non-stop,No info,2227
+9897,IndiGo,27/04/2019,Delhi,Cochin,DEL → HYD → COK,05:05,16:10,11h 5m,1 stop,No info,6171
+9903,IndiGo,3/05/2019,Mumbai,Hyderabad,BOM → HYD,20:05,21:40,1h 35m,non-stop,No info,2754
+9908,IndiGo,27/05/2019,Delhi,Cochin,DEL → HYD → COK,06:50,16:10,9h 20m,1 stop,No info,6674
+9910,IndiGo,12/06/2019,Kolkata,Banglore,CCU → PNQ → BLR,21:00,02:15 13 Jun,5h 15m,1 stop,No info,5930
+9914,IndiGo,9/06/2019,Chennai,Kolkata,MAA → CCU,05:15,07:40,2h 25m,non-stop,No info,3540
+9919,IndiGo,27/06/2019,Delhi,Cochin,DEL → BOM → COK,17:10,01:30 28 Jun,8h 20m,1 stop,No info,5684
+9926,IndiGo,27/03/2019,Chennai,Kolkata,MAA → CCU,11:35,14:00,2h 25m,non-stop,No info,3858
+9928,IndiGo,18/03/2019,Mumbai,Hyderabad,BOM → HYD,09:10,10:40,1h 30m,non-stop,No info,4049
+9933,IndiGo,3/04/2019,Mumbai,Hyderabad,BOM → HYD,02:35,04:05,1h 30m,non-stop,No info,2754
+9934,IndiGo,27/06/2019,Chennai,Kolkata,MAA → CCU,07:55,10:15,2h 20m,non-stop,No info,3850
+9935,IndiGo,6/05/2019,Chennai,Kolkata,MAA → CCU,05:15,07:40,2h 25m,non-stop,No info,3540
+9943,IndiGo,24/06/2019,Kolkata,Banglore,CCU → BLR,11:30,14:05,2h 35m,non-stop,No info,4804
+9944,IndiGo,18/04/2019,Banglore,Delhi,BLR → DEL,20:00,22:50,2h 50m,non-stop,No info,4823
+9947,IndiGo,24/06/2019,Delhi,Cochin,DEL → BLR → COK,02:00,07:45,5h 45m,1 stop,No info,6016
+9959,IndiGo,9/06/2019,Delhi,Cochin,DEL → BOM → COK,10:35,01:30 10 Jun,14h 55m,1 stop,No info,6104
+9969,IndiGo,3/03/2019,Chennai,Kolkata,MAA → CCU,11:35,14:00,2h 25m,non-stop,No info,7295
+9970,IndiGo,3/06/2019,Banglore,Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,3943
+9976,IndiGo,27/05/2019,Delhi,Cochin,DEL → BOM → COK,11:25,21:00,9h 35m,1 stop,No info,6314
+9986,IndiGo,27/06/2019,Delhi,Cochin,DEL → BLR → COK,05:10,10:05,4h 55m,1 stop,No info,6496
+9998,IndiGo,24/04/2019,Banglore,Delhi,BLR → DEL,22:10,01:00 25 Apr,2h 50m,non-stop,No info,3625
+10001,IndiGo,6/03/2019,Delhi,Cochin,DEL → MAA → COK,02:05,07:25,5h 20m,1 stop,No info,10851
+10007,IndiGo,9/05/2019,Delhi,Cochin,DEL → BOM → COK,11:25,21:00,9h 35m,1 stop,No info,6979
+10011,IndiGo,27/03/2019,Chennai,Kolkata,MAA → CCU,22:05,00:25 28 Mar,2h 20m,non-stop,No info,5277
+10013,IndiGo,1/04/2019,Kolkata,Banglore,CCU → BBI → BLR,19:35,23:15,3h 40m,1 stop,No info,4226
+10014,IndiGo,18/06/2019,Chennai,Kolkata,MAA → CCU,19:35,21:55,2h 20m,non-stop,No info,3597
+10030,IndiGo,18/04/2019,Kolkata,Banglore,CCU → BLR,15:30,18:05,2h 35m,non-stop,No info,4174
+10034,IndiGo,6/04/2019,Banglore,Delhi,BLR → DEL,10:10,13:00,2h 50m,non-stop,No info,4423
+10037,IndiGo,15/06/2019,Delhi,Cochin,DEL → BOM → COK,16:00,21:00,5h,1 stop,No info,6069
+10041,IndiGo,27/03/2019,Mumbai,Hyderabad,BOM → HYD,06:20,07:45,1h 25m,non-stop,No info,3175
+10044,IndiGo,18/05/2019,Delhi,Cochin,DEL → HYD → COK,07:35,22:30,14h 55m,1 stop,No info,7144
+10046,IndiGo,24/03/2019,Chennai,Kolkata,MAA → CCU,22:05,00:25 25 Mar,2h 20m,non-stop,No info,5277
+10064,IndiGo,12/06/2019,Banglore,Delhi,BLR → DEL,10:10,13:00,2h 50m,non-stop,No info,3943
+10065,IndiGo,15/03/2019,Banglore,New Delhi,BLR → AMD → DEL,14:25,19:25,5h,1 stop,No info,9165
+10072,IndiGo,18/04/2019,Banglore,Delhi,BLR → DEL,10:10,13:00,2h 50m,non-stop,No info,4591
+10080,IndiGo,12/06/2019,Chennai,Kolkata,MAA → CCU,07:55,10:15,2h 20m,non-stop,No info,3850
+10082,IndiGo,3/06/2019,Delhi,Cochin,DEL → BOM → COK,15:00,01:30 04 Jun,10h 30m,1 stop,No info,6104
+10083,IndiGo,1/06/2019,Banglore,Delhi,BLR → DEL,10:30,13:20,2h 50m,non-stop,No info,3943
+10090,IndiGo,6/04/2019,Delhi,Cochin,DEL → BOM → COK,20:25,01:30 07 Apr,5h 5m,1 stop,No info,5073
+10092,IndiGo,15/04/2019,Banglore,Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,4423
+10093,IndiGo,12/05/2019,Mumbai,Hyderabad,BOM → HYD,20:05,21:40,1h 35m,non-stop,No info,2227
+10095,IndiGo,27/03/2019,Chennai,Kolkata,MAA → CCU,19:35,21:55,2h 20m,non-stop,No info,3858
+10102,IndiGo,21/04/2019,Banglore,Delhi,BLR → DEL,18:25,21:20,2h 55m,non-stop,No info,4823
+10106,IndiGo,03/03/2019,Banglore,New Delhi,BLR → IDR → DEL,13:40,18:35,4h 55m,1 stop,No info,8662
+10117,IndiGo,9/04/2019,Kolkata,Banglore,CCU → MAA → BLR,11:30,16:05,4h 35m,1 stop,No info,4966
+10118,IndiGo,03/03/2019,Banglore,New Delhi,BLR → DEL,06:00,08:45,2h 45m,non-stop,No info,6144
+10122,IndiGo,9/04/2019,Banglore,Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,3419
+10124,IndiGo,3/06/2019,Delhi,Cochin,DEL → BOM → COK,10:35,01:30 04 Jun,14h 55m,1 stop,No info,5883
+10126,IndiGo,21/03/2019,Delhi,Cochin,DEL → HYD → MAA → COK,04:55,21:20,16h 25m,2 stops,No info,6223
+10128,IndiGo,03/03/2019,Banglore,New Delhi,BLR → AMD → DEL,14:25,19:25,5h,1 stop,No info,11873
+10130,IndiGo,15/05/2019,Delhi,Cochin,DEL → LKO → COK,21:50,03:35 16 May,5h 45m,1 stop,No info,7189
+10133,IndiGo,24/06/2019,Mumbai,Hyderabad,BOM → HYD,21:20,22:50,1h 30m,non-stop,No info,2227
+10140,IndiGo,6/03/2019,Kolkata,Banglore,CCU → BLR,14:20,16:55,2h 35m,non-stop,No info,5618
+10147,IndiGo,9/04/2019,Delhi,Cochin,DEL → LKO → COK,21:50,03:35 10 Apr,5h 45m,1 stop,No info,7398
+10151,IndiGo,27/04/2019,Kolkata,Banglore,CCU → BLR,17:15,19:50,2h 35m,non-stop,No info,4804
+10153,IndiGo,18/05/2019,Delhi,Cochin,DEL → HYD → COK,05:05,12:10,7h 5m,1 stop,No info,7520
+10154,IndiGo,18/05/2019,Delhi,Cochin,DEL → BOM → COK,10:35,01:30 19 May,14h 55m,1 stop,No info,7503
+10161,IndiGo,24/03/2019,Banglore,New Delhi,BLR → DEL,22:20,01:10 25 Mar,2h 50m,non-stop,No info,7303
+10162,IndiGo,15/03/2019,Banglore,New Delhi,BLR → LKO → DEL,05:25,10:10,4h 45m,1 stop,No info,8021
+10166,IndiGo,27/03/2019,Mumbai,Hyderabad,BOM → HYD,21:20,22:45,1h 25m,non-stop,No info,2227
+10171,IndiGo,18/05/2019,Delhi,Cochin,DEL → HYD → COK,14:20,22:30,8h 10m,1 stop,No info,7640
+10174,IndiGo,12/06/2019,Delhi,Cochin,DEL → BOM → COK,08:50,21:00,12h 10m,1 stop,No info,6093
+10175,IndiGo,27/04/2019,Delhi,Cochin,DEL → HYD → COK,06:50,16:10,9h 20m,1 stop,No info,6442
+10180,IndiGo,9/06/2019,Mumbai,Hyderabad,BOM → HYD,19:05,20:35,1h 30m,non-stop,No info,2754
+10183,IndiGo,27/03/2019,Mumbai,Hyderabad,BOM → HYD,12:00,13:25,1h 25m,non-stop,No info,2754
+10184,IndiGo,18/05/2019,Delhi,Cochin,DEL → BOM → COK,04:55,21:00,16h 5m,1 stop,No info,6758
+10191,IndiGo,27/05/2019,Delhi,Cochin,DEL → BLR → COK,17:05,22:15,5h 10m,1 stop,No info,6373
+10193,IndiGo,3/06/2019,Kolkata,Banglore,CCU → BLR,14:25,16:55,2h 30m,non-stop,No info,5644
+10196,IndiGo,9/05/2019,Mumbai,Hyderabad,BOM → HYD,12:00,13:30,1h 30m,non-stop,No info,4392
+10197,IndiGo,6/03/2019,Kolkata,Banglore,CCU → BLR,05:30,08:20,2h 50m,non-stop,No info,4778
+10203,IndiGo,24/03/2019,Kolkata,Banglore,CCU → BLR,05:30,08:20,2h 50m,non-stop,No info,4778
+10204,IndiGo,15/03/2019,Banglore,New Delhi,BLR → DEL,23:30,02:20 16 Mar,2h 50m,non-stop,No info,8033
+10214,IndiGo,18/05/2019,Delhi,Cochin,DEL → BOM → COK,18:35,01:30 19 May,6h 55m,1 stop,No info,7503
+10216,IndiGo,27/06/2019,Kolkata,Banglore,CCU → BLR,17:15,19:50,2h 35m,non-stop,No info,4804
+10221,IndiGo,21/05/2019,Banglore,Delhi,BLR → DEL,21:15,00:15 22 May,3h,non-stop,No info,3943
+10234,IndiGo,03/03/2019,Banglore,New Delhi,BLR → DEL,01:30,04:15,2h 45m,non-stop,No info,6144
+10246,IndiGo,6/06/2019,Delhi,Cochin,DEL → BOM → COK,15:00,01:30 07 Jun,10h 30m,1 stop,No info,5883
+10247,IndiGo,27/03/2019,Delhi,Cochin,DEL → BOM → COK,10:45,21:00,10h 15m,1 stop,No info,6838
+10255,IndiGo,9/03/2019,Kolkata,Banglore,CCU → BLR,22:10,00:55 10 Mar,2h 45m,non-stop,No info,4148
+10263,IndiGo,1/04/2019,Mumbai,Hyderabad,BOM → HYD,19:05,20:35,1h 30m,non-stop,No info,2754
+10268,IndiGo,9/03/2019,Kolkata,Banglore,CCU → BLR,15:10,17:45,2h 35m,non-stop,No info,4462
+10272,IndiGo,27/03/2019,Delhi,Cochin,DEL → BOM → COK,17:30,01:35 28 Mar,8h 5m,1 stop,No info,6628
+10278,IndiGo,21/05/2019,Mumbai,Hyderabad,BOM → HYD,19:05,20:35,1h 30m,non-stop,No info,2754
+10291,IndiGo,6/03/2019,Mumbai,Hyderabad,BOM → HYD,16:55,18:25,1h 30m,non-stop,No info,4784
+10298,IndiGo,12/06/2019,Kolkata,Banglore,CCU → BLR,14:25,16:55,2h 30m,non-stop,No info,4804
+10302,IndiGo,12/06/2019,Delhi,Cochin,DEL → BLR → COK,02:00,07:45,5h 45m,1 stop,No info,6386
+10311,IndiGo,12/06/2019,Banglore,Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,3943
+10315,IndiGo,18/03/2019,Banglore,New Delhi,BLR → HYD → DEL,12:10,17:05,4h 55m,1 stop,No info,4410
+10316,IndiGo,21/05/2019,Mumbai,Hyderabad,BOM → HYD,02:35,04:05,1h 30m,non-stop,No info,2754
+10318,IndiGo,09/03/2019,Banglore,New Delhi,BLR → DEL,23:30,02:20 10 Mar,2h 50m,non-stop,No info,5694
+10335,IndiGo,12/04/2019,Banglore,Delhi,BLR → DEL,06:05,08:50,2h 45m,non-stop,No info,4990
+10348,IndiGo,15/06/2019,Mumbai,Hyderabad,BOM → HYD,19:05,20:35,1h 30m,non-stop,No info,2754
+10351,IndiGo,15/03/2019,Banglore,New Delhi,BLR → DEL,13:00,15:50,2h 50m,non-stop,No info,6144
+10358,IndiGo,3/03/2019,Delhi,Cochin,DEL → HYD → MAA → COK,11:55,21:20,9h 25m,2 stops,No info,9413
+10368,IndiGo,9/03/2019,Kolkata,Banglore,CCU → BLR,14:20,16:55,2h 35m,non-stop,No info,4148
+10371,IndiGo,12/05/2019,Kolkata,Banglore,CCU → BLR,22:15,00:50 13 May,2h 35m,non-stop,No info,4804
+10390,IndiGo,27/05/2019,Delhi,Cochin,DEL → BOM → COK,18:35,01:30 28 May,6h 55m,1 stop,No info,6628
+10397,IndiGo,15/05/2019,Delhi,Cochin,DEL → COK,14:25,17:40,3h 15m,non-stop,No info,6541
+10399,IndiGo,1/06/2019,Banglore,Delhi,BLR → DEL,18:55,21:50,2h 55m,non-stop,No info,4823
+10412,IndiGo,12/06/2019,Banglore,Delhi,BLR → DEL,16:55,19:55,3h,non-stop,No info,4823
+10418,IndiGo,27/06/2019,Delhi,Cochin,DEL → MAA → COK,02:00,07:25,5h 25m,1 stop,No info,5636
+10422,IndiGo,9/04/2019,Banglore,Delhi,BLR → DEL,04:00,06:50,2h 50m,non-stop,No info,3943
+10428,IndiGo,18/06/2019,Kolkata,Banglore,CCU → BLR,17:15,19:50,2h 35m,non-stop,No info,4804
+10445,IndiGo,9/06/2019,Chennai,Kolkata,MAA → CCU,11:35,14:00,2h 25m,non-stop,No info,3858
+10454,IndiGo,1/06/2019,Delhi,Cochin,DEL → COK,14:25,17:40,3h 15m,non-stop,No info,6015
+10459,IndiGo,18/03/2019,Mumbai,Hyderabad,BOM → HYD,20:05,21:35,1h 30m,non-stop,No info,2227
+10460,IndiGo,24/04/2019,Kolkata,Banglore,CCU → BLR,09:35,12:20,2h 45m,non-stop,No info,4804
+10464,IndiGo,12/06/2019,Banglore,Delhi,BLR → DEL,22:10,01:00 13 Jun,2h 50m,non-stop,No info,3419
+10469,IndiGo,21/04/2019,Kolkata,Banglore,CCU → BLR,15:15,17:45,2h 30m,non-stop,No info,5224
+10470,IndiGo,15/06/2019,Delhi,Cochin,DEL → BLR → COK,17:05,22:25,5h 20m,1 stop,No info,6147
+10476,IndiGo,15/06/2019,Banglore,Delhi,BLR → DEL,08:30,11:20,2h 50m,non-stop,No info,4823
+10488,IndiGo,15/03/2019,Chennai,Kolkata,MAA → CCU,22:05,00:30 13 Mar,2h 25m,non-stop,No info,6297
+10493,IndiGo,18/06/2019,Delhi,Cochin,DEL → COK,14:20,17:35,3h 15m,non-stop,No info,5000
+10500,IndiGo,15/06/2019,Delhi,Cochin,DEL → HYD → COK,07:35,16:10,8h 35m,1 stop,No info,6442
+10501,IndiGo,6/05/2019,Mumbai,Hyderabad,BOM → HYD,19:05,20:35,1h 30m,non-stop,No info,2754
+10513,IndiGo,12/06/2019,Delhi,Cochin,DEL → BOM → COK,17:10,01:30 13 Jun,8h 20m,1 stop,No info,5883
+10515,IndiGo,27/06/2019,Kolkata,Banglore,CCU → BLR,20:25,23:10,2h 45m,non-stop,No info,4804
+10520,IndiGo,24/06/2019,Kolkata,Banglore,CCU → BLR,22:15,00:50 25 Jun,2h 35m,non-stop,No info,4804
+10522,IndiGo,9/05/2019,Mumbai,Hyderabad,BOM → HYD,20:05,21:40,1h 35m,non-stop,No info,2437
+10526,IndiGo,18/05/2019,Delhi,Cochin,DEL → BOM → COK,17:10,01:30 19 May,8h 20m,1 stop,No info,7081
+10527,IndiGo,3/03/2019,Delhi,Cochin,DEL → HYD → COK,04:55,16:10,11h 15m,1 stop,No info,8513
+10531,IndiGo,18/06/2019,Kolkata,Banglore,CCU → BLR,22:15,00:50 19 Jun,2h 35m,non-stop,No info,4804
+10540,IndiGo,1/03/2019,Mumbai,Hyderabad,BOM → HYD,21:20,22:45,1h 25m,non-stop,No info,12475
+10542,IndiGo,18/04/2019,Kolkata,Banglore,CCU → BLR,09:35,12:20,2h 45m,non-stop,No info,5644
+10548,IndiGo,12/06/2019,Kolkata,Banglore,CCU → BBI → BLR,07:10,12:40,5h 30m,1 stop,No info,4864
+10557,IndiGo,21/05/2019,Delhi,Cochin,DEL → BOM → COK,07:30,21:00,13h 30m,1 stop,No info,7006
+10573,IndiGo,21/05/2019,Kolkata,Banglore,CCU → HYD → BLR,19:20,23:45,4h 25m,1 stop,No info,3574
+10575,IndiGo,21/06/2019,Mumbai,Hyderabad,BOM → HYD,09:10,10:40,1h 30m,non-stop,No info,5755
+10587,IndiGo,27/05/2019,Mumbai,Hyderabad,BOM → HYD,20:05,21:40,1h 35m,non-stop,No info,2227
+10594,IndiGo,3/06/2019,Delhi,Cochin,DEL → BOM → COK,16:00,01:30 04 Jun,9h 30m,1 stop,No info,6628
+10599,IndiGo,3/06/2019,Delhi,Cochin,DEL → HYD → COK,14:20,22:30,8h 10m,1 stop,No info,6938
+10602,IndiGo,9/06/2019,Delhi,Cochin,DEL → MAA → COK,02:00,07:25,5h 25m,1 stop,No info,5636
+10604,IndiGo,21/03/2019,Banglore,New Delhi,BLR → DEL,20:00,22:55,2h 55m,non-stop,No info,6144
+10606,IndiGo,21/03/2019,Delhi,Cochin,DEL → BOM → COK,09:10,01:35 22 Mar,16h 25m,1 stop,No info,8765
+10608,IndiGo,12/05/2019,Mumbai,Hyderabad,BOM → HYD,12:00,13:30,1h 30m,non-stop,No info,2754
+10609,IndiGo,21/05/2019,Chennai,Kolkata,MAA → CCU,13:15,15:35,2h 20m,non-stop,No info,3597
+10616,IndiGo,27/05/2019,Mumbai,Hyderabad,BOM → HYD,02:35,04:05,1h 30m,non-stop,No info,2754
+10618,IndiGo,27/04/2019,Delhi,Cochin,DEL → LKO → COK,21:50,03:35 28 Apr,5h 45m,1 stop,No info,6307
+10619,IndiGo,6/04/2019,Kolkata,Banglore,CCU → BLR,17:15,19:50,2h 35m,non-stop,No info,4174
+10620,IndiGo,27/06/2019,Kolkata,Banglore,CCU → BLR,22:15,00:50 28 Jun,2h 35m,non-stop,No info,4804
+10630,IndiGo,15/05/2019,Delhi,Cochin,DEL → BLR → COK,02:00,07:45,5h 45m,1 stop,No info,6037
+10640,IndiGo,6/03/2019,Chennai,Kolkata,MAA → CCU,07:55,10:15,2h 20m,non-stop,No info,7295
+10648,IndiGo,1/03/2019,Kolkata,Banglore,CCU → BLR,21:25,00:05 02 Mar,2h 40m,non-stop,No info,4778
+10663,IndiGo,9/04/2019,Banglore,Delhi,BLR → DEL,18:55,21:50,2h 55m,non-stop,No info,4823
+10664,IndiGo,27/04/2019,Kolkata,Banglore,CCU → BLR,15:15,17:45,2h 30m,non-stop,No info,4804
